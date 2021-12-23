@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.buttonPressCircles" type="0x8">
+    <label>buttonPressCircles animation complete</label>
+    <description>The animation named buttonPressCircles has completed</description>
+  </event>
+  <event name="gre.animate.complete.buttonPressImages" type="0x8">
+    <label>buttonPressImages animation complete</label>
+    <description>The animation named buttonPressImages has completed</description>
+  </event>
+  <event name="gre.animate.complete.dialsAndNeedles" type="0x8">
+    <label>dialsAndNeedles animation complete</label>
+    <description>The animation named dialsAndNeedles has completed</description>
+  </event>
+  <event name="gre.animate.complete.expandingBackground" type="0x8">
+    <label>expandingBackground animation complete</label>
+    <description>The animation named expandingBackground has completed</description>
+  </event>
+  <event name="gre.animate.complete.fullScreenFades05S" type="0x8">
+    <label>fullScreenFades05S animation complete</label>
+    <description>The animation named fullScreenFades05S has completed</description>
+  </event>
+  <event name="gre.animate.complete.fullScreenFades1S" type="0x8">
+    <label>fullScreenFades1S animation complete</label>
+    <description>The animation named fullScreenFades1S has completed</description>
+  </event>
+  <event name="gre.animate.complete.fullScreenFades2S" type="0x8">
+    <label>fullScreenFades2S animation complete</label>
+    <description>The animation named fullScreenFades2S has completed</description>
+  </event>
+  <event name="gre.animate.complete.scrollingTables" type="0x8">
+    <label>scrollingTables animation complete</label>
+    <description>The animation named scrollingTables has completed</description>
+  </event>
+  <event name="gre.animate.complete.scrollingTablesMiddle" type="0x8">
+    <label>scrollingTablesMiddle animation complete</label>
+    <description>The animation named scrollingTablesMiddle has completed</description>
+  </event>
+  <event name="gre.animate.stop.buttonPressCircles" type="0x8">
+    <label>buttonPressCircles animation stopped</label>
+    <description>The animation named buttonPressCircles has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.buttonPressImages" type="0x8">
+    <label>buttonPressImages animation stopped</label>
+    <description>The animation named buttonPressImages has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.dialsAndNeedles" type="0x8">
+    <label>dialsAndNeedles animation stopped</label>
+    <description>The animation named dialsAndNeedles has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.expandingBackground" type="0x8">
+    <label>expandingBackground animation stopped</label>
+    <description>The animation named expandingBackground has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fullScreenFades05S" type="0x8">
+    <label>fullScreenFades05S animation stopped</label>
+    <description>The animation named fullScreenFades05S has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fullScreenFades1S" type="0x8">
+    <label>fullScreenFades1S animation stopped</label>
+    <description>The animation named fullScreenFades1S has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fullScreenFades2S" type="0x8">
+    <label>fullScreenFades2S animation stopped</label>
+    <description>The animation named fullScreenFades2S has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.scrollingTables" type="0x8">
+    <label>scrollingTables animation stopped</label>
+    <description>The animation named scrollingTables has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.scrollingTablesMiddle" type="0x8">
+    <label>scrollingTablesMiddle animation stopped</label>
+    <description>The animation named scrollingTablesMiddle has been stopped</description>
+  </event>
+  <event name="updateSpeed" type="0x10"/>
+  <event name="updateSpeedLarge" type="0x10"/>
+  <event name="updateSpeedMedium" type="0x10"/>
+  <event name="updateSpeedSmall" type="0x10"/>
+</eventdefinitions>

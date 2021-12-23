@@ -1,0 +1,34 @@
+
+gre.animate.complete.Splash_animation##Splash_animation animation complete #The animation named Splash_animation has completed
+
+timer.list##timer.list timer fired #The timer named timer.list has fired
+
+cell_touch##cell_touch
+
+photo_screen##photo_screen
+
+tumbler_timer_start##tumbler_timer_start
+
+tumbler_timer_stop##tumbler_timer_stop
+
+gre.animate.complete.slide_in##slide_in animation complete #The animation named slide_in has completed
+
+gre.animate.complete.slide_out##slide_out animation complete #The animation named slide_out has completed
+
+gre.animate.complete.show_image##show_image animation complete #The animation named show_image has completed
+
+gre.animate.complete.photo_slide##photo_slide animation complete #The animation named photo_slide has completed
+
+slide_photo##slide_photo
+
+gre.animate.complete.photo_fade##photo_fade animation complete #The animation named photo_fade has completed
+
+fade_it##fade_it
+
+update_alpha##update_alpha
+
+gre.animate.complete.photo_snap_left##photo_snap_left animation complete #The animation named photo_snap_left has completed
+
+gre.animate.complete.photo_snap_home##photo_snap_home animation complete #The animation named photo_snap_home has completed
+
+gre.animate.complete.photo_snap_right##photo_snap_right animation complete #The animation named photo_snap_right has completed

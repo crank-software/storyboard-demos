@@ -1,0 +1,2 @@
+scripts/android-armle/lqnx_pps.so
+scripts/android-armle/qdb.so

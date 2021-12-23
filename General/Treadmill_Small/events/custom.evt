@@ -1,0 +1,62 @@
+
+gre.animate.complete.open_preset##open_preset animation complete #The animation named open_preset has completed
+
+gre.animate.complete.speed_incline_controls##speed_incline_controls animation complete #The animation named speed_incline_controls has completed
+
+gre.animate.complete.achievement_pop_up##achievement_pop_up animation complete #The animation named achievement_pop_up has completed
+
+gre.animate.complete.info_toast_fade##info_toast_fade animation complete #The animation named info_toast_fade has completed
+
+gre.animate.complete.button_pulsate##button_pulsate animation complete #The animation named button_pulsate has completed
+
+gre.animate.complete.language_table##language_table animation complete #The animation named language_table has completed
+
+gre.animate.complete.select_language##select_language animation complete #The animation named select_language has completed
+
+gre.animate.complete.preset_selection##preset_selection animation complete #The animation named preset_selection has completed
+
+gre.animate.complete.select_location##select_location animation complete #The animation named select_location has completed
+
+gre.animate.complete.select_elevation##select_elevation animation complete #The animation named select_elevation has completed
+
+gre.animate.complete.slider_thumb##slider_thumb animation complete #The animation named slider_thumb has completed
+
+gre.animate.complete.start_selection##start_selection animation complete #The animation named start_selection has completed
+
+gre.animate.complete.view_achievement##view_achievement animation complete #The animation named view_achievement has completed
+
+gre.animate.complete.open_preset_reversed##open_preset_reversed animation complete #The animation named open_preset_reversed has completed
+
+gre.animate.complete.level_up##level_up animation complete #The animation named level_up has completed
+
+gre.animate.complete.quick_start_click##quick_start_click animation complete #The animation named quick_start_click has completed
+
+gre.animate.complete.slider_thumb_release##slider_thumb_release animation complete #The animation named slider_thumb_release has completed
+
+gre.animate.complete.show_details##show_details animation complete #The animation named show_details has completed
+
+gre.animate.complete.show_details_reversed##show_details_reversed animation complete #The animation named show_details_reversed has completed
+
+timer.details##timer.details timer fired #The timer named timer.details has fired
+
+gre.animate.complete.select_elevation_thumb##select_elevation_thumb animation complete #The animation named select_elevation_thumb has completed
+
+gre.animate.complete.elevation_profile##elevation_profile animation complete #The animation named elevation_profile has completed
+
+gre.animate.complete.hard_selection##hard_selection animation complete #The animation named hard_selection has completed
+
+gre.animate.complete.easy_jog##easy_jog animation complete #The animation named easy_jog has completed
+
+gre.animate.complete.unlock_elevation##unlock_elevation animation complete #The animation named unlock_elevation has completed
+
+gre.animate.complete.unlock_customize##unlock_customize animation complete #The animation named unlock_customize has completed
+
+gre.media.complete##gre.media.complete
+
+gre.animate.complete.branding_last_screen##branding_last_screen animation complete #The animation named branding_last_screen has completed
+
+gre.animate.complete.delete_me##delete_me animation complete #The animation named delete_me has completed
+
+gre.animate.complete.achievement_pop_up_reversed##achievement_pop_up_reversed animation complete #The animation named achievement_pop_up_reversed has completed
+
+timer.home_screen##timer.home_screen timer fired #The timer named timer.home_screen has fired

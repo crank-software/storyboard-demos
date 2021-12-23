@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gapp version="3.0">
+	<dimension format="ARGB8888" height="768" width="1024"/>
+	<layers>
+		<layer height="768" name="Layer1" width="1024">
+			<control name="black" template="black"/>
+			<control name="scale" template="scale"/>
+			<control name="rotate" template="rotate"/>
+			<control name="pinch_title" template="pinch_title"/>
+			<control name="rotate_title" template="rotate_title"/>
+			<control name="multi_touch" template="multi_touch"/>
+		</layer>
+	</layers>
+	<screens>
+		<screen default="1" name="Screen1">
+			<instance alpha="255" hidden="0" index="0" layer="Layer1" opaque="0" x="0" y="0"/>
+		</screen>
+	</screens>
+	<templates>
+		<control active="1" height="768" hidden="0" name="black" opaque="1" width="1024" x="0" y="0">
+			<render handler="fill">
+				<arg k="color">0x0</arg>
+				<arg k="halign">1</arg>
+				<arg k="valign">1</arg>
+			</render>
+		</control>
+		<control active="1" height="100" hidden="0" name="multi_touch" opaque="1" width="500" x="260" y="642">
+			<render handler="text">
+				<arg k="color">0xfefffe</arg>
+				<arg k="font">fonts/VeraBI.ttf</arg>
+				<arg k="halign">2</arg>
+				<arg k="size">50</arg>
+				<arg k="style">1</arg>
+				<arg k="text">MULTI-TOUCH</arg>
+				<arg k="valign">2</arg>
+			</render>
+		</control>
+		<control active="1" height="100" hidden="0" name="pinch_title" opaque="1" width="500" x="520" y="12">
+			<data format="1s0" key="title" value="X POINT ZOOM"/>
+			<render handler="text">
+				<arg k="color">0xfefffe</arg>
+				<arg k="font">fonts/VeraBI.ttf</arg>
+				<arg k="halign">2</arg>
+				<arg k="size">30</arg>
+				<arg k="style">1</arg>
+				<arg k="text">${control:title}</arg>
+				<arg k="valign">2</arg>
+			</render>
+		</control>
+		<control active="1" height="500" hidden="0" name="rotate" opaque="1" width="500" x="10" y="125">
+			<data format="4s1" key="theta" value="0"/>
+			<action input_event="gre.mt2rotate" type="gra.lua">
+				<arg k="points">2</arg>
+				<arg k="script">box_rotate</arg>
+			</action>
+			<action input_event="gre.mt3rotate" type="gra.lua">
+				<arg k="points">3</arg>
+				<arg k="script">box_rotate</arg>
+			</action>
+			<action input_event="gre.mt4rotate" type="gra.lua">
+				<arg k="points">4</arg>
+				<arg k="script">box_rotate</arg>
+			</action>
+			<action input_event="gre.mt5rotate" type="gra.lua">
+				<arg k="points">5</arg>
+				<arg k="script">box_rotate</arg>
+			</action>
+			<render handler="fill">
+				<arg k="color">0x262526</arg>
+				<arg k="halign">2</arg>
+				<arg k="valign">2</arg>
+			</render>
+			<render handler="image">
+				<arg k="halign">2</arg>
+				<arg k="name">images/sketchbook.png</arg>
+				<arg k="rotation">${control:theta}</arg>
+				<arg k="valign">2</arg>
+			</render>
+		</control>
+		<control active="1" height="100" hidden="0" name="rotate_title" opaque="1" width="500" x="10" y="12">
+			<data format="1s0" key="title" value="X POINT ROTATE"/>
+			<render handler="text">
+				<arg k="color">0xfefffe</arg>
+				<arg k="font">fonts/VeraBI.ttf</arg>
+				<arg k="halign">2</arg>
+				<arg k="size">30</arg>
+				<arg k="style">1</arg>
+				<arg k="text">${control:title}</arg>
+				<arg k="valign">2</arg>
+			</render>
+		</control>
+		<control active="1" height="500" hidden="0" name="scale" opaque="1" width="500" x="518" y="125">
+			<data format="4s1" key="pinch" value="250"/>
+			<action input_event="gre.mt2pinch" type="gra.lua">
+				<arg k="points">2</arg>
+				<arg k="script">box_pinch</arg>
+			</action>
+			<action input_event="gre.mt3pinch" type="gra.lua">
+				<arg k="points">3</arg>
+				<arg k="script">box_pinch</arg>
+			</action>
+			<action input_event="gre.mt5pinch" type="gra.lua">
+				<arg k="points">5</arg>
+				<arg k="script">box_pinch</arg>
+			</action>
+			<action input_event="gre.mt4pinch" type="gra.lua">
+				<arg k="points">4</arg>
+				<arg k="script">box_pinch</arg>
+			</action>
+			<render handler="fill">
+				<arg k="alpha">50</arg>
+				<arg k="color">0x80e302</arg>
+				<arg k="halign">1</arg>
+				<arg k="valign">1</arg>
+			</render>
+			<render handler="fill">
+				<arg k="color">0x7cec18</arg>
+				<arg k="halign">2</arg>
+				<arg k="height">${control:pinch}</arg>
+				<arg k="valign">2</arg>
+				<arg k="width">${control:pinch}</arg>
+			</render>
+		</control>
+	</templates>
+</gapp>

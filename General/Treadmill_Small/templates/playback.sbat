@@ -1,0 +1,10 @@
+<actiontemplates>
+    <template name="gra.playback">
+        <arguments>
+            <element name="filename" type="string" />
+            <element name="loop" type="integer" />
+  			<element name="quit" type="integer" />
+  			<element name="verbose" type="integer" />
+        </arguments>
+    </template>
+</actiontemplates>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="crankScreenHide" type="0x0"/>
+  <event name="crankScreenShow" type="0x0"/>
+  <event name="gre.animate.complete.App_bottomNav" type="0x8">
+    <label>App_bottomNav animation complete</label>
+    <description>The animation named App_bottomNav has completed</description>
+  </event>
+  <event name="gre.animate.complete.App_bottomNavClear" type="0x8">
+    <label>App_bottomNavClear animation complete</label>
+    <description>The animation named App_bottomNavClear has completed</description>
+  </event>
+  <event name="gre.animate.complete.CrankFeatures" type="0x8">
+    <label>CrankFeatures animation complete</label>
+    <description>The animation named CrankFeatures has completed</description>
+  </event>
+  <event name="gre.animate.complete.hide_home" type="0x8">
+    <label>hide_home animation complete</label>
+    <description>The animation named hide_home has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_alarmOff" type="0x8">
+    <label>HOME_alarmOff animation complete</label>
+    <description>The animation named HOME_alarmOff has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_alarmOn" type="0x8">
+    <label>HOME_alarmOn animation complete</label>
+    <description>The animation named HOME_alarmOn has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_trendNumbers" type="0x8">
+    <label>HOME_trendNumbers animation complete</label>
+    <description>The animation named HOME_trendNumbers has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_Advanced" type="0x8">
+    <label>Settings_Advanced animation complete</label>
+    <description>The animation named Settings_Advanced has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_AdvancedReset" type="0x8">
+    <label>Settings_AdvancedReset animation complete</label>
+    <description>The animation named Settings_AdvancedReset has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsAnimation" type="0x8">
+    <label>Settings_IntervalsAnimation animation complete</label>
+    <description>The animation named Settings_IntervalsAnimation has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsAnimationEnd" type="0x8">
+    <label>Settings_IntervalsAnimationEnd animation complete</label>
+    <description>The animation named Settings_IntervalsAnimationEnd has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsBack" type="0x8">
+    <label>Settings_IntervalsBack animation complete</label>
+    <description>The animation named Settings_IntervalsBack has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsCheckOff" type="0x8">
+    <label>Settings_IntervalsCheckOff animation complete</label>
+    <description>The animation named Settings_IntervalsCheckOff has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsCheckOn" type="0x8">
+    <label>Settings_IntervalsCheckOn animation complete</label>
+    <description>The animation named Settings_IntervalsCheckOn has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsRadialOff" type="0x8">
+    <label>Settings_IntervalsRadialOff animation complete</label>
+    <description>The animation named Settings_IntervalsRadialOff has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsRadialOn" type="0x8">
+    <label>Settings_IntervalsRadialOn animation complete</label>
+    <description>The animation named Settings_IntervalsRadialOn has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsSubmit" type="0x8">
+    <label>Settings_IntervalsSubmit animation complete</label>
+    <description>The animation named Settings_IntervalsSubmit has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_KeypadPress" type="0x8">
+    <label>Settings_KeypadPress animation complete</label>
+    <description>The animation named Settings_KeypadPress has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETTINGS_pressSideButton" type="0x8">
+    <label>SETTINGS_pressSideButton animation complete</label>
+    <description>The animation named SETTINGS_pressSideButton has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_ShowAdvanced" type="0x8">
+    <label>Settings_ShowAdvanced animation complete</label>
+    <description>The animation named Settings_ShowAdvanced has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_ShowClinician" type="0x8">
+    <label>Settings_ShowClinician animation complete</label>
+    <description>The animation named Settings_ShowClinician has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_ShowDevice" type="0x8">
+    <label>Settings_ShowDevice animation complete</label>
+    <description>The animation named Settings_ShowDevice has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_ShowIntervals" type="0x8">
+    <label>Settings_ShowIntervals animation complete</label>
+    <description>The animation named Settings_ShowIntervals has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_ShowProfiles" type="0x8">
+    <label>Settings_ShowProfiles animation complete</label>
+    <description>The animation named Settings_ShowProfiles has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETTINGS_unselectSideButton" type="0x8">
+    <label>SETTINGS_unselectSideButton animation complete</label>
+    <description>The animation named SETTINGS_unselectSideButton has completed</description>
+  </event>
+  <event name="gre.animate.complete.sliderPress" type="0x8">
+    <label>sliderPress animation complete</label>
+    <description>The animation named sliderPress has completed</description>
+  </event>
+  <event name="gre.animate.complete.sliderRelease" type="0x8">
+    <label>sliderRelease animation complete</label>
+    <description>The animation named sliderRelease has completed</description>
+  </event>
+  <event name="gre.animate.complete.switchOff" type="0x8">
+    <label>switchOff animation complete</label>
+    <description>The animation named switchOff has completed</description>
+  </event>
+  <event name="gre.animate.complete.switchOn" type="0x8">
+    <label>switchOn animation complete</label>
+    <description>The animation named switchOn has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_crankHide" type="0x8">
+    <label>TRANSITION_crankHide animation complete</label>
+    <description>The animation named TRANSITION_crankHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_homeHide" type="0x8">
+    <label>TRANSITION_homeHide animation complete</label>
+    <description>The animation named TRANSITION_homeHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_patientHide" type="0x8">
+    <label>TRANSITION_patientHide animation complete</label>
+    <description>The animation named TRANSITION_patientHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_settingsHide" type="0x8">
+    <label>TRANSITION_settingsHide animation complete</label>
+    <description>The animation named TRANSITION_settingsHide has completed</description>
+  </event>
+  <event name="gre.animate.stop.App_bottomNav" type="0x8">
+    <label>App_bottomNav animation stopped</label>
+    <description>The animation named App_bottomNav has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.App_bottomNavClear" type="0x8">
+    <label>App_bottomNavClear animation stopped</label>
+    <description>The animation named App_bottomNavClear has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CrankFeatures" type="0x8">
+    <label>CrankFeatures animation stopped</label>
+    <description>The animation named CrankFeatures has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.hide_home" type="0x8">
+    <label>hide_home animation stopped</label>
+    <description>The animation named hide_home has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_alarmOff" type="0x8">
+    <label>HOME_alarmOff animation stopped</label>
+    <description>The animation named HOME_alarmOff has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_alarmOn" type="0x8">
+    <label>HOME_alarmOn animation stopped</label>
+    <description>The animation named HOME_alarmOn has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_trendNumbers" type="0x8">
+    <label>HOME_trendNumbers animation stopped</label>
+    <description>The animation named HOME_trendNumbers has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_Advanced" type="0x8">
+    <label>Settings_Advanced animation stopped</label>
+    <description>The animation named Settings_Advanced has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_AdvancedReset" type="0x8">
+    <label>Settings_AdvancedReset animation stopped</label>
+    <description>The animation named Settings_AdvancedReset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsAnimation" type="0x8">
+    <label>Settings_IntervalsAnimation animation stopped</label>
+    <description>The animation named Settings_IntervalsAnimation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsAnimationEnd" type="0x8">
+    <label>Settings_IntervalsAnimationEnd animation stopped</label>
+    <description>The animation named Settings_IntervalsAnimationEnd has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsBack" type="0x8">
+    <label>Settings_IntervalsBack animation stopped</label>
+    <description>The animation named Settings_IntervalsBack has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsCheckOff" type="0x8">
+    <label>Settings_IntervalsCheckOff animation stopped</label>
+    <description>The animation named Settings_IntervalsCheckOff has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsCheckOn" type="0x8">
+    <label>Settings_IntervalsCheckOn animation stopped</label>
+    <description>The animation named Settings_IntervalsCheckOn has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsRadialOff" type="0x8">
+    <label>Settings_IntervalsRadialOff animation stopped</label>
+    <description>The animation named Settings_IntervalsRadialOff has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsRadialOn" type="0x8">
+    <label>Settings_IntervalsRadialOn animation stopped</label>
+    <description>The animation named Settings_IntervalsRadialOn has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsSubmit" type="0x8">
+    <label>Settings_IntervalsSubmit animation stopped</label>
+    <description>The animation named Settings_IntervalsSubmit has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_KeypadPress" type="0x8">
+    <label>Settings_KeypadPress animation stopped</label>
+    <description>The animation named Settings_KeypadPress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETTINGS_pressSideButton" type="0x8">
+    <label>SETTINGS_pressSideButton animation stopped</label>
+    <description>The animation named SETTINGS_pressSideButton has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_ShowAdvanced" type="0x8">
+    <label>Settings_ShowAdvanced animation stopped</label>
+    <description>The animation named Settings_ShowAdvanced has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_ShowClinician" type="0x8">
+    <label>Settings_ShowClinician animation stopped</label>
+    <description>The animation named Settings_ShowClinician has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_ShowDevice" type="0x8">
+    <label>Settings_ShowDevice animation stopped</label>
+    <description>The animation named Settings_ShowDevice has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_ShowIntervals" type="0x8">
+    <label>Settings_ShowIntervals animation stopped</label>
+    <description>The animation named Settings_ShowIntervals has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_ShowProfiles" type="0x8">
+    <label>Settings_ShowProfiles animation stopped</label>
+    <description>The animation named Settings_ShowProfiles has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETTINGS_unselectSideButton" type="0x8">
+    <label>SETTINGS_unselectSideButton animation stopped</label>
+    <description>The animation named SETTINGS_unselectSideButton has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.sliderPress" type="0x8">
+    <label>sliderPress animation stopped</label>
+    <description>The animation named sliderPress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.sliderRelease" type="0x8">
+    <label>sliderRelease animation stopped</label>
+    <description>The animation named sliderRelease has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.switchOff" type="0x8">
+    <label>switchOff animation stopped</label>
+    <description>The animation named switchOff has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.switchOn" type="0x8">
+    <label>switchOn animation stopped</label>
+    <description>The animation named switchOn has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_crankHide" type="0x8">
+    <label>TRANSITION_crankHide animation stopped</label>
+    <description>The animation named TRANSITION_crankHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_homeHide" type="0x8">
+    <label>TRANSITION_homeHide animation stopped</label>
+    <description>The animation named TRANSITION_homeHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_patientHide" type="0x8">
+    <label>TRANSITION_patientHide animation stopped</label>
+    <description>The animation named TRANSITION_patientHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_settingsHide" type="0x8">
+    <label>TRANSITION_settingsHide animation stopped</label>
+    <description>The animation named TRANSITION_settingsHide has been stopped</description>
+  </event>
+  <event name="homeScreenHide" type="0x0"/>
+  <event name="homeScreenShow" type="0x0"/>
+  <event name="newScreenEvent" type="0x10"/>
+  <event name="settingsScreenHide" type="0x0"/>
+  <event name="settingsScreenShow" type="0x0"/>
+  <event name="timer.timer" type="0x0">
+    <description>The timer named timer.timer has fired</description>
+  </event>
+  <event name="updateBpEvent" type="0x0"/>
+  <event name="updatePulseEvent" type="0x0"/>
+  <event name="updateSpEvent" type="0x0"/>
+  <event name="updateTempEvent" type="0x0"/>
+  <event name="updateTrendNumbers" type="0x10"/>
+</eventdefinitions>

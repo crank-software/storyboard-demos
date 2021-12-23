@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="goToCookScreen" type="0x40"/>
+  <event name="goToHomeScreen" type="0x40"/>
+  <event name="goToRecipeScreen" type="0x40"/>
+  <event name="goToSelfCleanScreen" type="0x40"/>
+  <event name="goToTimerScreen" type="0x40"/>
+  <event name="gre.animate.complete.APP_cookScreenHide" type="0x8">
+    <label>APP_cookScreenHide animation complete</label>
+    <description>The animation named APP_cookScreenHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.APP_cookScreenShow" type="0x8">
+    <label>APP_cookScreenShow animation complete</label>
+    <description>The animation named APP_cookScreenShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.APP_homeScreenShow" type="0x8">
+    <label>APP_homeScreenShow animation complete</label>
+    <description>The animation named APP_homeScreenShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.APP_jarvisIdle" type="0x8">
+    <label>APP_jarvisIdle animation complete</label>
+    <description>The animation named APP_jarvisIdle has completed</description>
+  </event>
+  <event name="gre.animate.complete.APP_pressLoc" type="0x8">
+    <label>APP_pressLoc animation complete</label>
+    <description>The animation named APP_pressLoc has completed</description>
+  </event>
+  <event name="gre.animate.complete.APP_recipeHide" type="0x8">
+    <label>APP_recipeHide animation complete</label>
+    <description>The animation named APP_recipeHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.APP_recipeShow" type="0x8">
+    <label>APP_recipeShow animation complete</label>
+    <description>The animation named APP_recipeShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.APP_selfCleanScreenShow" type="0x8">
+    <label>APP_selfCleanScreenShow animation complete</label>
+    <description>The animation named APP_selfCleanScreenShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.APP_timerScreenShow" type="0x8">
+    <label>APP_timerScreenShow animation complete</label>
+    <description>The animation named APP_timerScreenShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.BUTTON_pressKeypad" type="0x8">
+    <label>BUTTON_pressKeypad animation complete</label>
+    <description>The animation named BUTTON_pressKeypad has completed</description>
+  </event>
+  <event name="gre.animate.complete.COOK_incrementDown" type="0x8">
+    <label>COOK_incrementDown animation complete</label>
+    <description>The animation named COOK_incrementDown has completed</description>
+  </event>
+  <event name="gre.animate.complete.COOK_incrementUp" type="0x8">
+    <label>COOK_incrementUp animation complete</label>
+    <description>The animation named COOK_incrementUp has completed</description>
+  </event>
+  <event name="gre.animate.complete.COOK_preheatFlash" type="0x8">
+    <label>COOK_preheatFlash animation complete</label>
+    <description>The animation named COOK_preheatFlash has completed</description>
+  </event>
+  <event name="gre.animate.complete.COOK_pressCancel" type="0x8">
+    <label>COOK_pressCancel animation complete</label>
+    <description>The animation named COOK_pressCancel has completed</description>
+  </event>
+  <event name="gre.animate.complete.COOK_tempToTimer" type="0x8">
+    <label>COOK_tempToTimer animation complete</label>
+    <description>The animation named COOK_tempToTimer has completed</description>
+  </event>
+  <event name="gre.animate.complete.COOK_timerToTemp" type="0x8">
+    <label>COOK_timerToTemp animation complete</label>
+    <description>The animation named COOK_timerToTemp has completed</description>
+  </event>
+  <event name="gre.animate.complete.COOK_toggleTemp" type="0x8">
+    <label>COOK_toggleTemp animation complete</label>
+    <description>The animation named COOK_toggleTemp has completed</description>
+  </event>
+  <event name="gre.animate.complete.COOK_toggleTime" type="0x8">
+    <label>COOK_toggleTime animation complete</label>
+    <description>The animation named COOK_toggleTime has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_farLeft" type="0x8">
+    <label>HOME_farLeft animation complete</label>
+    <description>The animation named HOME_farLeft has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_farRight" type="0x8">
+    <label>HOME_farRight animation complete</label>
+    <description>The animation named HOME_farRight has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_left" type="0x8">
+    <label>HOME_left animation complete</label>
+    <description>The animation named HOME_left has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_pressSetup" type="0x8">
+    <label>HOME_pressSetup animation complete</label>
+    <description>The animation named HOME_pressSetup has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_quickPress" type="0x8">
+    <label>HOME_quickPress animation complete</label>
+    <description>The animation named HOME_quickPress has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_right" type="0x8">
+    <label>HOME_right animation complete</label>
+    <description>The animation named HOME_right has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_sliderPress" type="0x8">
+    <label>HOME_sliderPress animation complete</label>
+    <description>The animation named HOME_sliderPress has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_sliderRelease" type="0x8">
+    <label>HOME_sliderRelease animation complete</label>
+    <description>The animation named HOME_sliderRelease has completed</description>
+  </event>
+  <event name="gre.animate.complete.POPUP_close" type="0x8">
+    <label>POPUP_close animation complete</label>
+    <description>The animation named POPUP_close has completed</description>
+  </event>
+  <event name="gre.animate.complete.POPUP_open" type="0x8">
+    <label>POPUP_open animation complete</label>
+    <description>The animation named POPUP_open has completed</description>
+  </event>
+  <event name="gre.animate.complete.POPUP_recipeOpen" type="0x8">
+    <label>POPUP_recipeOpen animation complete</label>
+    <description>The animation named POPUP_recipeOpen has completed</description>
+  </event>
+  <event name="gre.animate.complete.POPUP_timerOpen" type="0x8">
+    <label>POPUP_timerOpen animation complete</label>
+    <description>The animation named POPUP_timerOpen has completed</description>
+  </event>
+  <event name="gre.animate.complete.RECIPE_categoryBubbleFadeOut" type="0x8">
+    <label>RECIPE_categoryBubbleFadeOut animation complete</label>
+    <description>The animation named RECIPE_categoryBubbleFadeOut has completed</description>
+  </event>
+  <event name="gre.animate.complete.RECIPE_categoryBubblePress" type="0x8">
+    <label>RECIPE_categoryBubblePress animation complete</label>
+    <description>The animation named RECIPE_categoryBubblePress has completed</description>
+  </event>
+  <event name="gre.animate.complete.RECIPE_categoryBubbleShow" type="0x8">
+    <label>RECIPE_categoryBubbleShow animation complete</label>
+    <description>The animation named RECIPE_categoryBubbleShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.RECIPE_categoryBubbleUnselect" type="0x8">
+    <label>RECIPE_categoryBubbleUnselect animation complete</label>
+    <description>The animation named RECIPE_categoryBubbleUnselect has completed</description>
+  </event>
+  <event name="gre.animate.complete.RECIPE_categoryPrompt" type="0x8">
+    <label>RECIPE_categoryPrompt animation complete</label>
+    <description>The animation named RECIPE_categoryPrompt has completed</description>
+  </event>
+  <event name="gre.animate.complete.RECIPE_pressStart" type="0x8">
+    <label>RECIPE_pressStart animation complete</label>
+    <description>The animation named RECIPE_pressStart has completed</description>
+  </event>
+  <event name="gre.animate.complete.RECIPE_recipeBubblePress" type="0x8">
+    <label>RECIPE_recipeBubblePress animation complete</label>
+    <description>The animation named RECIPE_recipeBubblePress has completed</description>
+  </event>
+  <event name="gre.animate.complete.RECIPE_recipeOptions" type="0x8">
+    <label>RECIPE_recipeOptions animation complete</label>
+    <description>The animation named RECIPE_recipeOptions has completed</description>
+  </event>
+  <event name="gre.animate.complete.RECIPE_recipePrompt" type="0x8">
+    <label>RECIPE_recipePrompt animation complete</label>
+    <description>The animation named RECIPE_recipePrompt has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETUP_optionSelect" type="0x8">
+    <label>SETUP_optionSelect animation complete</label>
+    <description>The animation named SETUP_optionSelect has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETUP_optionUnselect" type="0x8">
+    <label>SETUP_optionUnselect animation complete</label>
+    <description>The animation named SETUP_optionUnselect has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETUP_pressStart" type="0x8">
+    <label>SETUP_pressStart animation complete</label>
+    <description>The animation named SETUP_pressStart has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETUP_showBroil" type="0x8">
+    <label>SETUP_showBroil animation complete</label>
+    <description>The animation named SETUP_showBroil has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETUP_showTemp" type="0x8">
+    <label>SETUP_showTemp animation complete</label>
+    <description>The animation named SETUP_showTemp has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETUP_showTime" type="0x8">
+    <label>SETUP_showTime animation complete</label>
+    <description>The animation named SETUP_showTime has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETUP_showWarm" type="0x8">
+    <label>SETUP_showWarm animation complete</label>
+    <description>The animation named SETUP_showWarm has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETUP_toggleCooking" type="0x8">
+    <label>SETUP_toggleCooking animation complete</label>
+    <description>The animation named SETUP_toggleCooking has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETUP_toggleTimer" type="0x8">
+    <label>SETUP_toggleTimer animation complete</label>
+    <description>The animation named SETUP_toggleTimer has completed</description>
+  </event>
+  <event name="gre.animate.complete.VOICE_activated" type="0x8">
+    <label>VOICE_activated animation complete</label>
+    <description>The animation named VOICE_activated has completed</description>
+  </event>
+  <event name="gre.animate.complete.VOICE_deactivated" type="0x8">
+    <label>VOICE_deactivated animation complete</label>
+    <description>The animation named VOICE_deactivated has completed</description>
+  </event>
+  <event name="gre.animate.stop.APP_cookScreenHide" type="0x8">
+    <label>APP_cookScreenHide animation stopped</label>
+    <description>The animation named APP_cookScreenHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.APP_cookScreenShow" type="0x8">
+    <label>APP_cookScreenShow animation stopped</label>
+    <description>The animation named APP_cookScreenShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.APP_homeScreenShow" type="0x8">
+    <label>APP_homeScreenShow animation stopped</label>
+    <description>The animation named APP_homeScreenShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.APP_jarvisIdle" type="0x8">
+    <label>APP_jarvisIdle animation stopped</label>
+    <description>The animation named APP_jarvisIdle has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.APP_pressLoc" type="0x8">
+    <label>APP_pressLoc animation stopped</label>
+    <description>The animation named APP_pressLoc has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.APP_recipeHide" type="0x8">
+    <label>APP_recipeHide animation stopped</label>
+    <description>The animation named APP_recipeHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.APP_recipeShow" type="0x8">
+    <label>APP_recipeShow animation stopped</label>
+    <description>The animation named APP_recipeShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.APP_selfCleanScreenShow" type="0x8">
+    <label>APP_selfCleanScreenShow animation stopped</label>
+    <description>The animation named APP_selfCleanScreenShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.APP_timerScreenShow" type="0x8">
+    <label>APP_timerScreenShow animation stopped</label>
+    <description>The animation named APP_timerScreenShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.BUTTON_pressKeypad" type="0x8">
+    <label>BUTTON_pressKeypad animation stopped</label>
+    <description>The animation named BUTTON_pressKeypad has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.COOK_incrementDown" type="0x8">
+    <label>COOK_incrementDown animation stopped</label>
+    <description>The animation named COOK_incrementDown has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.COOK_incrementUp" type="0x8">
+    <label>COOK_incrementUp animation stopped</label>
+    <description>The animation named COOK_incrementUp has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.COOK_preheatFlash" type="0x8">
+    <label>COOK_preheatFlash animation stopped</label>
+    <description>The animation named COOK_preheatFlash has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.COOK_pressCancel" type="0x8">
+    <label>COOK_pressCancel animation stopped</label>
+    <description>The animation named COOK_pressCancel has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.COOK_tempToTimer" type="0x8">
+    <label>COOK_tempToTimer animation stopped</label>
+    <description>The animation named COOK_tempToTimer has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.COOK_timerToTemp" type="0x8">
+    <label>COOK_timerToTemp animation stopped</label>
+    <description>The animation named COOK_timerToTemp has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.COOK_toggleTemp" type="0x8">
+    <label>COOK_toggleTemp animation stopped</label>
+    <description>The animation named COOK_toggleTemp has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.COOK_toggleTime" type="0x8">
+    <label>COOK_toggleTime animation stopped</label>
+    <description>The animation named COOK_toggleTime has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_farLeft" type="0x8">
+    <label>HOME_farLeft animation stopped</label>
+    <description>The animation named HOME_farLeft has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_farRight" type="0x8">
+    <label>HOME_farRight animation stopped</label>
+    <description>The animation named HOME_farRight has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_left" type="0x8">
+    <label>HOME_left animation stopped</label>
+    <description>The animation named HOME_left has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_pressSetup" type="0x8">
+    <label>HOME_pressSetup animation stopped</label>
+    <description>The animation named HOME_pressSetup has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_quickPress" type="0x8">
+    <label>HOME_quickPress animation stopped</label>
+    <description>The animation named HOME_quickPress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_right" type="0x8">
+    <label>HOME_right animation stopped</label>
+    <description>The animation named HOME_right has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_sliderPress" type="0x8">
+    <label>HOME_sliderPress animation stopped</label>
+    <description>The animation named HOME_sliderPress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_sliderRelease" type="0x8">
+    <label>HOME_sliderRelease animation stopped</label>
+    <description>The animation named HOME_sliderRelease has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.POPUP_close" type="0x8">
+    <label>POPUP_close animation stopped</label>
+    <description>The animation named POPUP_close has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.POPUP_open" type="0x8">
+    <label>POPUP_open animation stopped</label>
+    <description>The animation named POPUP_open has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.POPUP_recipeOpen" type="0x8">
+    <label>POPUP_recipeOpen animation stopped</label>
+    <description>The animation named POPUP_recipeOpen has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.POPUP_timerOpen" type="0x8">
+    <label>POPUP_timerOpen animation stopped</label>
+    <description>The animation named POPUP_timerOpen has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.RECIPE_categoryBubbleFadeOut" type="0x8">
+    <label>RECIPE_categoryBubbleFadeOut animation stopped</label>
+    <description>The animation named RECIPE_categoryBubbleFadeOut has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.RECIPE_categoryBubblePress" type="0x8">
+    <label>RECIPE_categoryBubblePress animation stopped</label>
+    <description>The animation named RECIPE_categoryBubblePress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.RECIPE_categoryBubbleShow" type="0x8">
+    <label>RECIPE_categoryBubbleShow animation stopped</label>
+    <description>The animation named RECIPE_categoryBubbleShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.RECIPE_categoryBubbleUnselect" type="0x8">
+    <label>RECIPE_categoryBubbleUnselect animation stopped</label>
+    <description>The animation named RECIPE_categoryBubbleUnselect has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.RECIPE_categoryPrompt" type="0x8">
+    <label>RECIPE_categoryPrompt animation stopped</label>
+    <description>The animation named RECIPE_categoryPrompt has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.RECIPE_pressStart" type="0x8">
+    <label>RECIPE_pressStart animation stopped</label>
+    <description>The animation named RECIPE_pressStart has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.RECIPE_recipeBubblePress" type="0x8">
+    <label>RECIPE_recipeBubblePress animation stopped</label>
+    <description>The animation named RECIPE_recipeBubblePress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.RECIPE_recipeOptions" type="0x8">
+    <label>RECIPE_recipeOptions animation stopped</label>
+    <description>The animation named RECIPE_recipeOptions has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.RECIPE_recipePrompt" type="0x8">
+    <label>RECIPE_recipePrompt animation stopped</label>
+    <description>The animation named RECIPE_recipePrompt has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETUP_optionSelect" type="0x8">
+    <label>SETUP_optionSelect animation stopped</label>
+    <description>The animation named SETUP_optionSelect has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETUP_optionUnselect" type="0x8">
+    <label>SETUP_optionUnselect animation stopped</label>
+    <description>The animation named SETUP_optionUnselect has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETUP_pressStart" type="0x8">
+    <label>SETUP_pressStart animation stopped</label>
+    <description>The animation named SETUP_pressStart has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETUP_showBroil" type="0x8">
+    <label>SETUP_showBroil animation stopped</label>
+    <description>The animation named SETUP_showBroil has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETUP_showTemp" type="0x8">
+    <label>SETUP_showTemp animation stopped</label>
+    <description>The animation named SETUP_showTemp has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETUP_showTime" type="0x8">
+    <label>SETUP_showTime animation stopped</label>
+    <description>The animation named SETUP_showTime has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETUP_showWarm" type="0x8">
+    <label>SETUP_showWarm animation stopped</label>
+    <description>The animation named SETUP_showWarm has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETUP_toggleCooking" type="0x8">
+    <label>SETUP_toggleCooking animation stopped</label>
+    <description>The animation named SETUP_toggleCooking has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETUP_toggleTimer" type="0x8">
+    <label>SETUP_toggleTimer animation stopped</label>
+    <description>The animation named SETUP_toggleTimer has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.VOICE_activated" type="0x8">
+    <label>VOICE_activated animation stopped</label>
+    <description>The animation named VOICE_activated has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.VOICE_deactivated" type="0x8">
+    <label>VOICE_deactivated animation stopped</label>
+    <description>The animation named VOICE_deactivated has been stopped</description>
+  </event>
+  <event name="jarvisWake" type="0x40"/>
+  <event name="recipeTableEvent" type="0x10"/>
+  <event format="4u1 temp 4u1 timer 1s0 mode" name="VoiceData" type="0x40">
+    <description>Sends data table taken from Voice commands. ie if they say "set oven to bake at 300 degrees", table will return data.mode = bake, data.temp = 300 and recipe and timer will be nil&#13;
+(mode and recipe are both strings in event dtaa table)&#13;
+</description>
+    <field name="mode">
+      <attr f="i" k="sb.max_value">127</attr>
+      <attr f="i" k="sb.min_value">-128</attr>
+    </field>
+    <field name="temp">
+      <attr f="i" k="sb.max_value">4294967295</attr>
+      <attr f="i" k="sb.min_value">0</attr>
+    </field>
+    <field name="timer">
+      <attr f="i" k="sb.max_value">4294967295</attr>
+      <attr f="i" k="sb.min_value">0</attr>
+    </field>
+  </event>
+  <event name="VoiceRepeat" type="0x40">
+    <description>Triggered when voice captured does not detect any indentifiers, or Jarvis times out</description>
+  </event>
+</eventdefinitions>

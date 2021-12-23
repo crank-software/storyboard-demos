@@ -1,0 +1,118 @@
+
+gre.animate.complete.achievement_pop_up##achievement_pop_up animation complete #The animation named achievement_pop_up has completed
+
+gre.animate.complete.achievement_pop_up_reversed##achievement_pop_up_reversed animation complete #The animation named achievement_pop_up_reversed has completed
+
+timer.details##timer.details timer fired #The timer named timer.details has fired
+
+gre.media.complete##gre.media.complete
+
+gre.animate.complete.branding_last_screen##branding_last_screen animation complete #The animation named branding_last_screen has completed
+
+gre.animate.stop.achievement_pop_up##achievement_pop_up animation stopped #The animation named achievement_pop_up has been stopped
+
+gre.animate.stop.achievement_pop_up_reversed##achievement_pop_up_reversed animation stopped #The animation named achievement_pop_up_reversed has been stopped
+
+gre.animate.stop.branding_last_screen##branding_last_screen animation stopped #The animation named branding_last_screen has been stopped
+
+gre.animate.complete.AMBIENT_startScreenButton##AMBIENT_startScreenButton animation complete #The animation named AMBIENT_startScreenButton has completed
+
+gre.animate.stop.AMBIENT_startScreenButton##AMBIENT_startScreenButton animation stopped #The animation named AMBIENT_startScreenButton has been stopped
+
+gre.animate.complete.RUNNING_controlsPressed##RUNNING_controlsPressed animation complete #The animation named RUNNING_controlsPressed has completed
+
+gre.animate.stop.RUNNING_controlsPressed##RUNNING_controlsPressed animation stopped #The animation named RUNNING_controlsPressed has been stopped
+
+gre.animate.complete.RUNNING_controlsReleased##RUNNING_controlsReleased animation complete #The animation named RUNNING_controlsReleased has completed
+
+gre.animate.stop.RUNNING_controlsReleased##RUNNING_controlsReleased animation stopped #The animation named RUNNING_controlsReleased has been stopped
+
+gre.animate.complete.TRANSITION_runningShow##TRANSITION_runningShow animation complete #The animation named TRANSITION_runningShow has completed
+
+gre.animate.stop.TRANSITION_runningShow##TRANSITION_runningShow animation stopped #The animation named TRANSITION_runningShow has been stopped
+
+gre.animate.complete.TRANSITION_completeShow##TRANSITION_completeShow animation complete #The animation named TRANSITION_completeShow has completed
+
+gre.animate.stop.TRANSITION_completeShow##TRANSITION_completeShow animation stopped #The animation named TRANSITION_completeShow has been stopped
+
+gre.animate.complete.TRANSITION_startScreenShow##TRANSITION_startScreenShow animation complete #The animation named TRANSITION_startScreenShow has completed
+
+gre.animate.stop.TRANSITION_startScreenShow##TRANSITION_startScreenShow animation stopped #The animation named TRANSITION_startScreenShow has been stopped
+
+gre.animate.complete.TRANSITION_customizeShow##TRANSITION_customizeShow animation complete #The animation named TRANSITION_customizeShow has completed
+
+gre.animate.stop.TRANSITION_customizeShow##TRANSITION_customizeShow animation stopped #The animation named TRANSITION_customizeShow has been stopped
+
+gre.animate.complete.CUSTOMIZE_pressLocation##CUSTOMIZE_pressLocation animation complete #The animation named CUSTOMIZE_pressLocation has completed
+
+gre.animate.stop.CUSTOMIZE_pressLocation##CUSTOMIZE_pressLocation animation stopped #The animation named CUSTOMIZE_pressLocation has been stopped
+
+gre.animate.complete.CUSTOMIZE_unpressLocation##CUSTOMIZE_unpressLocation animation complete #The animation named CUSTOMIZE_unpressLocation has completed
+
+gre.animate.stop.CUSTOMIZE_unpressLocation##CUSTOMIZE_unpressLocation animation stopped #The animation named CUSTOMIZE_unpressLocation has been stopped
+
+gre.animate.complete.CUSTOMIZE_transitionLocationShow##CUSTOMIZE_transitionLocationShow animation complete #The animation named CUSTOMIZE_transitionLocationShow has completed
+
+gre.animate.stop.CUSTOMIZE_transitionLocationShow##CUSTOMIZE_transitionLocationShow animation stopped #The animation named CUSTOMIZE_transitionLocationShow has been stopped
+
+gre.animate.complete.CUSTOMIZE_transitionElevationShow##CUSTOMIZE_transitionElevationShow animation complete #The animation named CUSTOMIZE_transitionElevationShow has completed
+
+gre.animate.stop.CUSTOMIZE_transitionElevationShow##CUSTOMIZE_transitionElevationShow animation stopped #The animation named CUSTOMIZE_transitionElevationShow has been stopped
+
+gre.animate.complete.CUSTOMIZE_PressSlider##CUSTOMIZE_PressSlider animation complete #The animation named CUSTOMIZE_PressSlider has completed
+
+gre.animate.stop.CUSTOMIZE_PressSlider##CUSTOMIZE_PressSlider animation stopped #The animation named CUSTOMIZE_PressSlider has been stopped
+
+gre.animate.complete.CUSTOMIZE_unpressSlider##CUSTOMIZE_unpressSlider animation complete #The animation named CUSTOMIZE_unpressSlider has completed
+
+gre.animate.stop.CUSTOMIZE_unpressSlider##CUSTOMIZE_unpressSlider animation stopped #The animation named CUSTOMIZE_unpressSlider has been stopped
+
+gre.animate.complete.CUSTOMIZE_transitionSettingsShow##CUSTOMIZE_transitionSettingsShow animation complete #The animation named CUSTOMIZE_transitionSettingsShow has completed
+
+gre.animate.stop.CUSTOMIZE_transitionSettingsShow##CUSTOMIZE_transitionSettingsShow animation stopped #The animation named CUSTOMIZE_transitionSettingsShow has been stopped
+
+gre.animate.complete.CUSTOMIZE_pressMainButton##CUSTOMIZE_pressMainButton animation complete #The animation named CUSTOMIZE_pressMainButton has completed
+
+gre.animate.stop.CUSTOMIZE_pressMainButton##CUSTOMIZE_pressMainButton animation stopped #The animation named CUSTOMIZE_pressMainButton has been stopped
+
+gre.animate.complete.CUSTOMIZE_pressElevation##CUSTOMIZE_pressElevation animation complete #The animation named CUSTOMIZE_pressElevation has completed
+
+gre.animate.stop.CUSTOMIZE_pressElevation##CUSTOMIZE_pressElevation animation stopped #The animation named CUSTOMIZE_pressElevation has been stopped
+
+gre.animate.complete.CUSTOMIZE_unpressElevation##CUSTOMIZE_unpressElevation animation complete #The animation named CUSTOMIZE_unpressElevation has completed
+
+gre.animate.stop.CUSTOMIZE_unpressElevation##CUSTOMIZE_unpressElevation animation stopped #The animation named CUSTOMIZE_unpressElevation has been stopped
+
+gre.animate.complete.CUSTOMIZE_unpressMainButton##CUSTOMIZE_unpressMainButton animation complete #The animation named CUSTOMIZE_unpressMainButton has completed
+
+gre.animate.stop.CUSTOMIZE_unpressMainButton##CUSTOMIZE_unpressMainButton animation stopped #The animation named CUSTOMIZE_unpressMainButton has been stopped
+
+gre.animate.complete.TRANSITION_startScreenHide##TRANSITION_startScreenHide animation complete #The animation named TRANSITION_startScreenHide has completed
+
+gre.animate.stop.TRANSITION_startScreenHide##TRANSITION_startScreenHide animation stopped #The animation named TRANSITION_startScreenHide has been stopped
+
+gre.animate.complete.TRANSITION_customizeHide##TRANSITION_customizeHide animation complete #The animation named TRANSITION_customizeHide has completed
+
+gre.animate.stop.TRANSITION_customizeHide##TRANSITION_customizeHide animation stopped #The animation named TRANSITION_customizeHide has been stopped
+
+gre.animate.complete.TRANSITION_runningHide##TRANSITION_runningHide animation complete #The animation named TRANSITION_runningHide has completed
+
+gre.animate.stop.TRANSITION_runningHide##TRANSITION_runningHide animation stopped #The animation named TRANSITION_runningHide has been stopped
+
+gre.animate.complete.TRANSITION_completeHide##TRANSITION_completeHide animation complete #The animation named TRANSITION_completeHide has completed
+
+gre.animate.stop.TRANSITION_completeHide##TRANSITION_completeHide animation stopped #The animation named TRANSITION_completeHide has been stopped
+
+gre.animate.complete.APP_Reset##APP_Reset animation complete #The animation named APP_Reset has completed
+
+gre.animate.stop.APP_Reset##APP_Reset animation stopped #The animation named APP_Reset has been stopped
+
+gre.animate.complete.HOME_pressSetup##HOME_pressSetup animation complete #The animation named HOME_pressSetup has completed
+
+gre.animate.stop.HOME_pressSetup##HOME_pressSetup animation stopped #The animation named HOME_pressSetup has been stopped
+
+gre.animate.complete.HOME_pressPreset##HOME_pressPreset animation complete #The animation named HOME_pressPreset has completed
+
+gre.animate.stop.HOME_pressPreset##HOME_pressPreset animation stopped #The animation named HOME_pressPreset has been stopped
+
+gre.media.statechange

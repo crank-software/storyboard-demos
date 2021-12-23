@@ -1,0 +1,32 @@
+
+tumbler_timer_stop##tumbler_timer_stop
+
+tumbler_timer_start##tumbler_timer_start
+
+timer.tumbler##tumbler timer fired #The timer named tumbler is firing
+
+resize_table##resize_table
+
+gre.animate.complete.Start##Start animation complete #The animation named Start has completed
+
+gre.animate.complete.start_clear##start_clear animation complete #The animation named start_clear has completed
+
+gre.animate.complete.temp_setup##temp_setup animation complete #The animation named temp_setup has completed
+
+gre.animate.complete.timer_setup##timer_setup animation complete #The animation named timer_setup has completed
+
+gre.animate.complete.intro2##intro2 animation complete #The animation named intro2 has completed
+
+gre.animate.complete.preset_setup##preset_setup animation complete #The animation named preset_setup has completed
+
+gre.animate.complete.menu_screen_setup##menu_screen_setup animation complete #The animation named menu_screen_setup has completed
+
+gre.animate.complete.preset_teardown##preset_teardown animation complete #The animation named preset_teardown has completed
+
+gre.animate.complete.running##running animation complete #The animation named running has completed
+
+gre.animate.complete.summary_setup##summary_setup animation complete #The animation named summary_setup has completed
+
+timer.start_timer##timer.start_timer timer fired #The timer named timer.start_timer has fired
+
+gre.animate.complete.cooking##cooking animation complete #The animation named cooking has completed

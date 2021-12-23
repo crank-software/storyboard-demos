@@ -1,0 +1,42 @@
+
+gre.animate.complete.show_tabs##show_tabs animation complete #The animation named show_tabs has completed
+
+gre.animate.complete.show_info##show_info animation complete #The animation named show_info has completed
+
+gre.animate.complete.hide_info##hide_info animation complete #The animation named hide_info has completed
+
+play_tabs##play_tabs
+
+close_tabs##close_tabs
+
+show_info##show_info
+
+hide_info##hide_info
+
+glucose_anim##glucose_anim
+
+gre.animate.complete.blood_pressure_show##blood_pressure_show animation complete #The animation named blood_pressure_show has completed
+
+timer.graphs##timer.graphs timer fired #The timer named timer.graphs has fired
+
+gre.animate.complete.show_rpm##show_rpm animation complete #The animation named show_rpm has completed
+
+gre.animate.complete.blood_ox_select##blood_ox_select animation complete #The animation named blood_ox_select has completed
+
+bo_anim##bo_anim
+
+bp_anim##bp_anim
+
+gre.animate.complete.blood_pressure_select##blood_pressure_select animation complete #The animation named blood_pressure_select has completed
+
+gre.animate.complete.body_temp_select##body_temp_select animation complete #The animation named body_temp_select has completed
+
+bt_anim##bt_anim
+
+hide_first##hide_first
+
+gre.animate.complete.hide_tabs##hide_tabs animation complete #The animation named hide_tabs has completed
+
+timer.medical_timer##timer.medical_timer timer fired #The timer named timer.medical_timer has fired
+
+medical_complete

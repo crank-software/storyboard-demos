@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="BuyTickets" type="0x40"/>
+  <event name="gre.animate.complete._NEW_seatSelect" type="0x8">
+    <label>_NEW_seatSelect animation complete</label>
+    <description>The animation named _NEW_seatSelect has completed</description>
+  </event>
+  <event name="gre.animate.complete._NEW_seatUnselect" type="0x8">
+    <label>_NEW_seatUnselect animation complete</label>
+    <description>The animation named _NEW_seatUnselect has completed</description>
+  </event>
+  <event name="gre.animate.complete.APP_LoadingHides" type="0x8">
+    <label>APP_LoadingHides animation complete</label>
+    <description>The animation named APP_LoadingHides has completed</description>
+  </event>
+  <event name="gre.animate.complete.CONFIRM_pressCancel" type="0x8">
+    <label>CONFIRM_pressCancel animation complete</label>
+    <description>The animation named CONFIRM_pressCancel has completed</description>
+  </event>
+  <event name="gre.animate.complete.CONFIRM_pressPay" type="0x8">
+    <label>CONFIRM_pressPay animation complete</label>
+    <description>The animation named CONFIRM_pressPay has completed</description>
+  </event>
+  <event name="gre.animate.complete.CONFIRM_promptShow" type="0x8">
+    <label>CONFIRM_promptShow animation complete</label>
+    <description>The animation named CONFIRM_promptShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_buyTicketsPress" type="0x8">
+    <label>HOME_buyTicketsPress animation complete</label>
+    <description>The animation named HOME_buyTicketsPress has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_carousel" type="0x8">
+    <label>HOME_carousel animation complete</label>
+    <description>The animation named HOME_carousel has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_clearAnimations" type="0x8">
+    <label>HOME_clearAnimations animation complete</label>
+    <description>The animation named HOME_clearAnimations has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_finishLayer1_DOWN" type="0x8">
+    <label>HOME_finishLayer1_DOWN animation complete</label>
+    <description>The animation named HOME_finishLayer1_DOWN has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_finishLayer1_UP" type="0x8">
+    <label>HOME_finishLayer1_UP animation complete</label>
+    <description>The animation named HOME_finishLayer1_UP has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_finishLayer2_DOWN" type="0x8">
+    <label>HOME_finishLayer2_DOWN animation complete</label>
+    <description>The animation named HOME_finishLayer2_DOWN has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_finishLayer2_UP" type="0x8">
+    <label>HOME_finishLayer2_UP animation complete</label>
+    <description>The animation named HOME_finishLayer2_UP has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_finishLayer3_DOWN" type="0x8">
+    <label>HOME_finishLayer3_DOWN animation complete</label>
+    <description>The animation named HOME_finishLayer3_DOWN has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_finishLayer3_UP" type="0x8">
+    <label>HOME_finishLayer3_UP animation complete</label>
+    <description>The animation named HOME_finishLayer3_UP has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_moviePosterClose" type="0x8">
+    <label>HOME_moviePosterClose animation complete</label>
+    <description>The animation named HOME_moviePosterClose has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_moviePosterImmediateClose" type="0x8">
+    <label>HOME_moviePosterImmediateClose animation complete</label>
+    <description>The animation named HOME_moviePosterImmediateClose has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_moviePosterSelect" type="0x8">
+    <label>HOME_moviePosterSelect animation complete</label>
+    <description>The animation named HOME_moviePosterSelect has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_resetLayer1" type="0x8">
+    <label>HOME_resetLayer1 animation complete</label>
+    <description>The animation named HOME_resetLayer1 has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_resetLayer2" type="0x8">
+    <label>HOME_resetLayer2 animation complete</label>
+    <description>The animation named HOME_resetLayer2 has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_resetLayer3" type="0x8">
+    <label>HOME_resetLayer3 animation complete</label>
+    <description>The animation named HOME_resetLayer3 has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_viewTrailerPress" type="0x8">
+    <label>HOME_viewTrailerPress animation complete</label>
+    <description>The animation named HOME_viewTrailerPress has completed</description>
+  </event>
+  <event name="gre.animate.complete.MENU_finishAnimation" type="0x8">
+    <label>MENU_finishAnimation animation complete</label>
+    <description>The animation named MENU_finishAnimation has completed</description>
+  </event>
+  <event name="gre.animate.complete.MENU_resetAnimation" type="0x8">
+    <label>MENU_resetAnimation animation complete</label>
+    <description>The animation named MENU_resetAnimation has completed</description>
+  </event>
+  <event name="gre.animate.complete.MENU_showMovies" type="0x8">
+    <label>MENU_showMovies animation complete</label>
+    <description>The animation named MENU_showMovies has completed</description>
+  </event>
+  <event name="gre.animate.complete.SEATS_pressConfirm" type="0x8">
+    <label>SEATS_pressConfirm animation complete</label>
+    <description>The animation named SEATS_pressConfirm has completed</description>
+  </event>
+  <event name="gre.animate.complete.SEATS_resetSeat" type="0x8">
+    <label>SEATS_resetSeat animation complete</label>
+    <description>The animation named SEATS_resetSeat has completed</description>
+  </event>
+  <event name="gre.animate.complete.SEATS_seatsPopup" type="0x8">
+    <label>SEATS_seatsPopup animation complete</label>
+    <description>The animation named SEATS_seatsPopup has completed</description>
+  </event>
+  <event name="gre.animate.complete.SEATS_selectSeat" type="0x8">
+    <label>SEATS_selectSeat animation complete</label>
+    <description>The animation named SEATS_selectSeat has completed</description>
+  </event>
+  <event name="gre.animate.complete.SEATS_unselectSeat" type="0x8">
+    <label>SEATS_unselectSeat animation complete</label>
+    <description>The animation named SEATS_unselectSeat has completed</description>
+  </event>
+  <event name="gre.animate.complete.TIMES_decreaseCount" type="0x8">
+    <label>TIMES_decreaseCount animation complete</label>
+    <description>The animation named TIMES_decreaseCount has completed</description>
+  </event>
+  <event name="gre.animate.complete.TIMES_deselectShowtime" type="0x8">
+    <label>TIMES_deselectShowtime animation complete</label>
+    <description>The animation named TIMES_deselectShowtime has completed</description>
+  </event>
+  <event name="gre.animate.complete.TIMES_increaseCount" type="0x8">
+    <label>TIMES_increaseCount animation complete</label>
+    <description>The animation named TIMES_increaseCount has completed</description>
+  </event>
+  <event name="gre.animate.complete.TIMES_selectSeatPress" type="0x8">
+    <label>TIMES_selectSeatPress animation complete</label>
+    <description>The animation named TIMES_selectSeatPress has completed</description>
+  </event>
+  <event name="gre.animate.complete.TIMES_selectShowtime" type="0x8">
+    <label>TIMES_selectShowtime animation complete</label>
+    <description>The animation named TIMES_selectShowtime has completed</description>
+  </event>
+  <event name="gre.animate.complete.TIMES_unselectShowtime" type="0x8">
+    <label>TIMES_unselectShowtime animation complete</label>
+    <description>The animation named TIMES_unselectShowtime has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRAILER_pressBuy" type="0x8">
+    <label>TRAILER_pressBuy animation complete</label>
+    <description>The animation named TRAILER_pressBuy has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_3DTheatreSpin" type="0x8">
+    <label>TRANSITION_3DTheatreSpin animation complete</label>
+    <description>The animation named TRANSITION_3DTheatreSpin has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_hideTrailer" type="0x8">
+    <label>TRANSITION_hideTrailer animation complete</label>
+    <description>The animation named TRANSITION_hideTrailer has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_postersToTime" type="0x8">
+    <label>TRANSITION_postersToTime animation complete</label>
+    <description>The animation named TRANSITION_postersToTime has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_postersToTrailer" type="0x8">
+    <label>TRANSITION_postersToTrailer animation complete</label>
+    <description>The animation named TRANSITION_postersToTrailer has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_showConfirm" type="0x8">
+    <label>TRANSITION_showConfirm animation complete</label>
+    <description>The animation named TRANSITION_showConfirm has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_showSeats" type="0x8">
+    <label>TRANSITION_showSeats animation complete</label>
+    <description>The animation named TRANSITION_showSeats has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_showTime" type="0x8">
+    <label>TRANSITION_showTime animation complete</label>
+    <description>The animation named TRANSITION_showTime has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_showTrailer" type="0x8">
+    <label>TRANSITION_showTrailer animation complete</label>
+    <description>The animation named TRANSITION_showTrailer has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_TimesToTheatreSpin" type="0x8">
+    <label>TRANSITION_TimesToTheatreSpin animation complete</label>
+    <description>The animation named TRANSITION_TimesToTheatreSpin has completed</description>
+  </event>
+  <event name="gre.animate.stop._NEW_seatSelect" type="0x8">
+    <label>_NEW_seatSelect animation stopped</label>
+    <description>The animation named _NEW_seatSelect has been stopped</description>
+  </event>
+  <event name="gre.animate.stop._NEW_seatUnselect" type="0x8">
+    <label>_NEW_seatUnselect animation stopped</label>
+    <description>The animation named _NEW_seatUnselect has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.APP_LoadingHides" type="0x8">
+    <label>APP_LoadingHides animation stopped</label>
+    <description>The animation named APP_LoadingHides has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CONFIRM_pressCancel" type="0x8">
+    <label>CONFIRM_pressCancel animation stopped</label>
+    <description>The animation named CONFIRM_pressCancel has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CONFIRM_pressPay" type="0x8">
+    <label>CONFIRM_pressPay animation stopped</label>
+    <description>The animation named CONFIRM_pressPay has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CONFIRM_promptShow" type="0x8">
+    <label>CONFIRM_promptShow animation stopped</label>
+    <description>The animation named CONFIRM_promptShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_buyTicketsPress" type="0x8">
+    <label>HOME_buyTicketsPress animation stopped</label>
+    <description>The animation named HOME_buyTicketsPress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_carousel" type="0x8">
+    <label>HOME_carousel animation stopped</label>
+    <description>The animation named HOME_carousel has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_clearAnimations" type="0x8">
+    <label>HOME_clearAnimations animation stopped</label>
+    <description>The animation named HOME_clearAnimations has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_finishLayer1_DOWN" type="0x8">
+    <label>HOME_finishLayer1_DOWN animation stopped</label>
+    <description>The animation named HOME_finishLayer1_DOWN has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_finishLayer1_UP" type="0x8">
+    <label>HOME_finishLayer1_UP animation stopped</label>
+    <description>The animation named HOME_finishLayer1_UP has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_finishLayer2_DOWN" type="0x8">
+    <label>HOME_finishLayer2_DOWN animation stopped</label>
+    <description>The animation named HOME_finishLayer2_DOWN has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_finishLayer2_UP" type="0x8">
+    <label>HOME_finishLayer2_UP animation stopped</label>
+    <description>The animation named HOME_finishLayer2_UP has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_finishLayer3_DOWN" type="0x8">
+    <label>HOME_finishLayer3_DOWN animation stopped</label>
+    <description>The animation named HOME_finishLayer3_DOWN has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_finishLayer3_UP" type="0x8">
+    <label>HOME_finishLayer3_UP animation stopped</label>
+    <description>The animation named HOME_finishLayer3_UP has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_moviePosterClose" type="0x8">
+    <label>HOME_moviePosterClose animation stopped</label>
+    <description>The animation named HOME_moviePosterClose has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_moviePosterImmediateClose" type="0x8">
+    <label>HOME_moviePosterImmediateClose animation stopped</label>
+    <description>The animation named HOME_moviePosterImmediateClose has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_moviePosterSelect" type="0x8">
+    <label>HOME_moviePosterSelect animation stopped</label>
+    <description>The animation named HOME_moviePosterSelect has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_resetLayer1" type="0x8">
+    <label>HOME_resetLayer1 animation stopped</label>
+    <description>The animation named HOME_resetLayer1 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_resetLayer2" type="0x8">
+    <label>HOME_resetLayer2 animation stopped</label>
+    <description>The animation named HOME_resetLayer2 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_resetLayer3" type="0x8">
+    <label>HOME_resetLayer3 animation stopped</label>
+    <description>The animation named HOME_resetLayer3 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_viewTrailerPress" type="0x8">
+    <label>HOME_viewTrailerPress animation stopped</label>
+    <description>The animation named HOME_viewTrailerPress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.MENU_finishAnimation" type="0x8">
+    <label>MENU_finishAnimation animation stopped</label>
+    <description>The animation named MENU_finishAnimation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.MENU_resetAnimation" type="0x8">
+    <label>MENU_resetAnimation animation stopped</label>
+    <description>The animation named MENU_resetAnimation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.MENU_showMovies" type="0x8">
+    <label>MENU_showMovies animation stopped</label>
+    <description>The animation named MENU_showMovies has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SEATS_pressConfirm" type="0x8">
+    <label>SEATS_pressConfirm animation stopped</label>
+    <description>The animation named SEATS_pressConfirm has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SEATS_resetSeat" type="0x8">
+    <label>SEATS_resetSeat animation stopped</label>
+    <description>The animation named SEATS_resetSeat has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SEATS_seatsPopup" type="0x8">
+    <label>SEATS_seatsPopup animation stopped</label>
+    <description>The animation named SEATS_seatsPopup has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SEATS_selectSeat" type="0x8">
+    <label>SEATS_selectSeat animation stopped</label>
+    <description>The animation named SEATS_selectSeat has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SEATS_unselectSeat" type="0x8">
+    <label>SEATS_unselectSeat animation stopped</label>
+    <description>The animation named SEATS_unselectSeat has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TIMES_decreaseCount" type="0x8">
+    <label>TIMES_decreaseCount animation stopped</label>
+    <description>The animation named TIMES_decreaseCount has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TIMES_deselectShowtime" type="0x8">
+    <label>TIMES_deselectShowtime animation stopped</label>
+    <description>The animation named TIMES_deselectShowtime has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TIMES_increaseCount" type="0x8">
+    <label>TIMES_increaseCount animation stopped</label>
+    <description>The animation named TIMES_increaseCount has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TIMES_selectSeatPress" type="0x8">
+    <label>TIMES_selectSeatPress animation stopped</label>
+    <description>The animation named TIMES_selectSeatPress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TIMES_selectShowtime" type="0x8">
+    <label>TIMES_selectShowtime animation stopped</label>
+    <description>The animation named TIMES_selectShowtime has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TIMES_unselectShowtime" type="0x8">
+    <label>TIMES_unselectShowtime animation stopped</label>
+    <description>The animation named TIMES_unselectShowtime has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRAILER_pressBuy" type="0x8">
+    <label>TRAILER_pressBuy animation stopped</label>
+    <description>The animation named TRAILER_pressBuy has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_3DTheatreSpin" type="0x8">
+    <label>TRANSITION_3DTheatreSpin animation stopped</label>
+    <description>The animation named TRANSITION_3DTheatreSpin has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_hideTrailer" type="0x8">
+    <label>TRANSITION_hideTrailer animation stopped</label>
+    <description>The animation named TRANSITION_hideTrailer has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_postersToTime" type="0x8">
+    <label>TRANSITION_postersToTime animation stopped</label>
+    <description>The animation named TRANSITION_postersToTime has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_postersToTrailer" type="0x8">
+    <label>TRANSITION_postersToTrailer animation stopped</label>
+    <description>The animation named TRANSITION_postersToTrailer has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_showConfirm" type="0x8">
+    <label>TRANSITION_showConfirm animation stopped</label>
+    <description>The animation named TRANSITION_showConfirm has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_showSeats" type="0x8">
+    <label>TRANSITION_showSeats animation stopped</label>
+    <description>The animation named TRANSITION_showSeats has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_showTime" type="0x8">
+    <label>TRANSITION_showTime animation stopped</label>
+    <description>The animation named TRANSITION_showTime has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_showTrailer" type="0x8">
+    <label>TRANSITION_showTrailer animation stopped</label>
+    <description>The animation named TRANSITION_showTrailer has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_TimesToTheatreSpin" type="0x8">
+    <label>TRANSITION_TimesToTheatreSpin animation stopped</label>
+    <description>The animation named TRANSITION_TimesToTheatreSpin has been stopped</description>
+  </event>
+  <event name="JarvisWake" type="0x40"/>
+  <event format="4f1 number" name="MovieTickets" type="0x40"/>
+  <event format="1s0 movie" name="MovieTrailer" type="0x40"/>
+  <event name="PlayTrailer" type="0x40"/>
+  <event name="TrailerScreen" type="0x40"/>
+  <event name="VoiceRepeat" type="0x40"/>
+</eventdefinitions>

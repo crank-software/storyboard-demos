@@ -1,0 +1,218 @@
+
+gre.animate.complete.Settings_KeypadPress##Settings_KeypadPress animation complete #The animation named Settings_KeypadPress has completed
+
+gre.animate.complete.Settings_Advanced##Settings_Advanced animation complete #The animation named Settings_Advanced has completed
+
+gre.animate.complete.Settings_AdvancedReset##Settings_AdvancedReset animation complete #The animation named Settings_AdvancedReset has completed
+
+gre.animate.complete.Settings_IntervalsRadialOn##Settings_IntervalsRadialOn animation complete #The animation named Settings_IntervalsRadialOn has completed
+
+gre.animate.complete.Settings_IntervalsRadialOff##Settings_IntervalsRadialOff animation complete #The animation named Settings_IntervalsRadialOff has completed
+
+gre.animate.complete.Settings_IntervalsCheckOn##Settings_IntervalsCheckOn animation complete #The animation named Settings_IntervalsCheckOn has completed
+
+gre.animate.complete.Settings_IntervalsCheckOff##Settings_IntervalsCheckOff animation complete #The animation named Settings_IntervalsCheckOff has completed
+
+gre.animate.complete.Settings_IntervalsSubmit##Settings_IntervalsSubmit animation complete #The animation named Settings_IntervalsSubmit has completed
+
+gre.animate.complete.Settings_IntervalsAnimation##Settings_IntervalsAnimation animation complete #The animation named Settings_IntervalsAnimation has completed
+
+gre.animate.complete.Settings_IntervalsBack##Settings_IntervalsBack animation complete #The animation named Settings_IntervalsBack has completed
+
+gre.animate.complete.Settings_IntervalsAnimationEnd##Settings_IntervalsAnimationEnd animation complete #The animation named Settings_IntervalsAnimationEnd has completed
+
+gre.animate.complete.Settings_ShowAdvanced##Settings_ShowAdvanced animation complete #The animation named Settings_ShowAdvanced has completed
+
+gre.animate.complete.Settings_ShowProfiles##Settings_ShowProfiles animation complete #The animation named Settings_ShowProfiles has completed
+
+gre.animate.complete.Settings_ShowClinician##Settings_ShowClinician animation complete #The animation named Settings_ShowClinician has completed
+
+gre.animate.complete.Settings_ShowDevice##Settings_ShowDevice animation complete #The animation named Settings_ShowDevice has completed
+
+gre.animate.complete.Settings_ShowIntervals##Settings_ShowIntervals animation complete #The animation named Settings_ShowIntervals has completed
+
+gre.animate.complete.Review_ButtonPress##Review_ButtonPress animation complete #The animation named Review_ButtonPress has completed
+
+gre.animate.complete.Review_ButtonUp##Review_ButtonUp animation complete #The animation named Review_ButtonUp has completed
+
+gre.animate.complete.Review_TextShow1##Review_TextShow1 animation complete #The animation named Review_TextShow1 has completed
+
+gre.animate.complete.Review_TextShow2##Review_TextShow2 animation complete #The animation named Review_TextShow2 has completed
+
+gre.animate.complete.Review_TextShow3##Review_TextShow3 animation complete #The animation named Review_TextShow3 has completed
+
+gre.animate.complete.Review_HideText##Review_HideText animation complete #The animation named Review_HideText has completed
+
+gre.animate.complete.Review_CirculatoryButtonUp##Review_CirculatoryButtonUp animation complete #The animation named Review_CirculatoryButtonUp has completed
+
+gre.animate.complete.Review_CirculatoryHideText##Review_CirculatoryHideText animation complete #The animation named Review_CirculatoryHideText has completed
+
+gre.animate.complete.Review_CirculatoryTextShow1##Review_CirculatoryTextShow1 animation complete #The animation named Review_CirculatoryTextShow1 has completed
+
+gre.animate.complete.Review_CirculatoryTextShow3##Review_CirculatoryTextShow3 animation complete #The animation named Review_CirculatoryTextShow3 has completed
+
+gre.animate.complete.Review_CirculatoryTextShow2##Review_CirculatoryTextShow2 animation complete #The animation named Review_CirculatoryTextShow2 has completed
+
+gre.animate.complete.Review_ShowSkeleton##Review_ShowSkeleton animation complete #The animation named Review_ShowSkeleton has completed
+
+gre.animate.complete.Review_ShowCirculatory##Review_ShowCirculatory animation complete #The animation named Review_ShowCirculatory has completed
+
+gre.animate.complete.Home_Trends##Home_Trends animation complete #The animation named Home_Trends has completed
+
+gre.animate.complete.App_homeScreenHide##App_homeScreenHide animation complete #The animation named App_homeScreenHide has completed
+
+gre.animate.complete.App_homeScreenShow##App_homeScreenShow animation complete #The animation named App_homeScreenShow has completed
+
+gre.animate.complete.App_PatientScreenHide##App_PatientScreenHide animation complete #The animation named App_PatientScreenHide has completed
+
+gre.animate.complete.App_PatientScreenShow##App_PatientScreenShow animation complete #The animation named App_PatientScreenShow has completed
+
+gre.animate.complete.App_SettingsScreenHide##App_SettingsScreenHide animation complete #The animation named App_SettingsScreenHide has completed
+
+gre.animate.complete.App_SettingsScreenShow##App_SettingsScreenShow animation complete #The animation named App_SettingsScreenShow has completed
+
+goto_Settings##goto_Settings
+
+goto_Home##goto_Home
+
+goto_Patient##goto_Patient
+
+gre.animate.complete.App_bottomNav##App_bottomNav animation complete #The animation named App_bottomNav has completed
+
+gre.animate.complete.App_bottomNavClear##App_bottomNavClear animation complete #The animation named App_bottomNavClear has completed
+
+updatePulseEvent##updatePulseEvent
+
+updateTempEvent##updateTempEvent
+
+updateSpEvent##updateSpEvent
+
+updateBpEvent##updateBpEvent
+
+gre.animate.complete.sliderPress##sliderPress animation complete #The animation named sliderPress has completed
+
+gre.animate.complete.sliderRelease##sliderRelease animation complete #The animation named sliderRelease has completed
+
+gre.animate.complete.switchOn##switchOn animation complete #The animation named switchOn has completed
+
+gre.animate.complete.switchOff##switchOff animation complete #The animation named switchOff has completed
+
+homeScreenShow##homeScreenShow
+
+homeScreenHide##homeScreenHide
+
+settingsScreenShow##settingsScreenShow
+
+settingsScreenHide##settingsScreenHide
+
+patientScreenShow##patientScreenShow
+
+patientScreenHide##patientScreenHide
+
+crankScreenHide##crankScreenHide
+
+crankScreenShow##crankScreenShow
+
+gre.animate.complete.App_CrankScreenHide##App_CrankScreenHide animation complete #The animation named App_CrankScreenHide has completed
+
+gre.animate.complete.App_CrankScreenShow##App_CrankScreenShow animation complete #The animation named App_CrankScreenShow has completed
+
+gre.animate.complete.CrankFeatures##CrankFeatures animation complete #The animation named CrankFeatures has completed
+
+timer.timer##timer.timer timer fired #The timer named timer.timer has fired
+
+gre.animate.complete.Home_Trends_copy##Home_Trends_copy animation complete #The animation named Home_Trends_copy has completed
+
+gre.animate.stop.Settings_AdvancedReset##Settings_AdvancedReset animation complete #The animation named Settings_AdvancedReset has been stopped
+
+gre.animate.stop.Settings_IntervalsAnimation##Settings_IntervalsAnimation animation complete #The animation named Settings_IntervalsAnimation has been stopped
+
+gre.animate.stop.Settings_ShowClinician##Settings_ShowClinician animation complete #The animation named Settings_ShowClinician has been stopped
+
+gre.animate.stop.App_SettingsScreenShow##App_SettingsScreenShow animation complete #The animation named App_SettingsScreenShow has been stopped
+
+gre.animate.stop.App_homeScreenHide##App_homeScreenHide animation complete #The animation named App_homeScreenHide has been stopped
+
+gre.animate.stop.Settings_IntervalsRadialOff##Settings_IntervalsRadialOff animation complete #The animation named Settings_IntervalsRadialOff has been stopped
+
+gre.animate.stop.Settings_KeypadPress##Settings_KeypadPress animation complete #The animation named Settings_KeypadPress has been stopped
+
+gre.animate.stop.Settings_ShowProfiles##Settings_ShowProfiles animation complete #The animation named Settings_ShowProfiles has been stopped
+
+gre.animate.stop.App_SettingsScreenHide##App_SettingsScreenHide animation complete #The animation named App_SettingsScreenHide has been stopped
+
+gre.animate.stop.App_bottomNav##App_bottomNav animation complete #The animation named App_bottomNav has been stopped
+
+gre.animate.stop.Review_ButtonPress##Review_ButtonPress animation complete #The animation named Review_ButtonPress has been stopped
+
+gre.animate.stop.Review_CirculatoryHideText##Review_CirculatoryHideText animation complete #The animation named Review_CirculatoryHideText has been stopped
+
+gre.animate.stop.Settings_IntervalsCheckOn##Settings_IntervalsCheckOn animation complete #The animation named Settings_IntervalsCheckOn has been stopped
+
+gre.animate.stop.Review_TextShow1##Review_TextShow1 animation complete #The animation named Review_TextShow1 has been stopped
+
+gre.animate.stop.Review_TextShow2##Review_TextShow2 animation complete #The animation named Review_TextShow2 has been stopped
+
+gre.animate.stop.Settings_IntervalsBack##Settings_IntervalsBack animation complete #The animation named Settings_IntervalsBack has been stopped
+
+gre.animate.stop.Review_TextShow3##Review_TextShow3 animation complete #The animation named Review_TextShow3 has been stopped
+
+gre.animate.stop.App_homeScreenShow##App_homeScreenShow animation complete #The animation named App_homeScreenShow has been stopped
+
+gre.animate.stop.Settings_ShowAdvanced##Settings_ShowAdvanced animation complete #The animation named Settings_ShowAdvanced has been stopped
+
+gre.animate.stop.Review_CirculatoryTextShow3##Review_CirculatoryTextShow3 animation complete #The animation named Review_CirculatoryTextShow3 has been stopped
+
+gre.animate.stop.Review_CirculatoryTextShow2##Review_CirculatoryTextShow2 animation complete #The animation named Review_CirculatoryTextShow2 has been stopped
+
+gre.animate.stop.switchOn##switchOn animation complete #The animation named switchOn has been stopped
+
+gre.animate.stop.Review_CirculatoryTextShow1##Review_CirculatoryTextShow1 animation complete #The animation named Review_CirculatoryTextShow1 has been stopped
+
+gre.animate.stop.Review_ShowSkeleton##Review_ShowSkeleton animation complete #The animation named Review_ShowSkeleton has been stopped
+
+gre.animate.stop.Review_ShowCirculatory##Review_ShowCirculatory animation complete #The animation named Review_ShowCirculatory has been stopped
+
+gre.animate.stop.sliderPress##sliderPress animation complete #The animation named sliderPress has been stopped
+
+gre.animate.stop.Settings_IntervalsRadialOn##Settings_IntervalsRadialOn animation complete #The animation named Settings_IntervalsRadialOn has been stopped
+
+gre.animate.stop.App_CrankScreenShow##App_CrankScreenShow animation complete #The animation named App_CrankScreenShow has been stopped
+
+gre.animate.stop.Review_ButtonUp##Review_ButtonUp animation complete #The animation named Review_ButtonUp has been stopped
+
+gre.animate.stop.App_CrankScreenHide##App_CrankScreenHide animation complete #The animation named App_CrankScreenHide has been stopped
+
+gre.animate.stop.sliderRelease##sliderRelease animation complete #The animation named sliderRelease has been stopped
+
+gre.animate.stop.Settings_ShowDevice##Settings_ShowDevice animation complete #The animation named Settings_ShowDevice has been stopped
+
+gre.animate.stop.App_bottomNavClear##App_bottomNavClear animation complete #The animation named App_bottomNavClear has been stopped
+
+gre.animate.stop.CrankFeatures##CrankFeatures animation complete #The animation named CrankFeatures has been stopped
+
+gre.animate.stop.Home_Trends_copy##Home_Trends_copy animation complete #The animation named Home_Trends_copy has been stopped
+
+gre.animate.stop.Settings_IntervalsCheckOff##Settings_IntervalsCheckOff animation complete #The animation named Settings_IntervalsCheckOff has been stopped
+
+gre.animate.stop.Settings_ShowIntervals##Settings_ShowIntervals animation complete #The animation named Settings_ShowIntervals has been stopped
+
+gre.animate.stop.App_PatientScreenHide##App_PatientScreenHide animation complete #The animation named App_PatientScreenHide has been stopped
+
+gre.animate.stop.Settings_IntervalsAnimationEnd##Settings_IntervalsAnimationEnd animation complete #The animation named Settings_IntervalsAnimationEnd has been stopped
+
+gre.animate.stop.switchOff##switchOff animation complete #The animation named switchOff has been stopped
+
+gre.animate.stop.Home_Trends##Home_Trends animation complete #The animation named Home_Trends has been stopped
+
+gre.animate.stop.App_PatientScreenShow##App_PatientScreenShow animation complete #The animation named App_PatientScreenShow has been stopped
+
+gre.animate.stop.Review_CirculatoryButtonUp##Review_CirculatoryButtonUp animation complete #The animation named Review_CirculatoryButtonUp has been stopped
+
+gre.animate.stop.Settings_Advanced##Settings_Advanced animation complete #The animation named Settings_Advanced has been stopped
+
+gre.animate.stop.Settings_IntervalsSubmit##Settings_IntervalsSubmit animation complete #The animation named Settings_IntervalsSubmit has been stopped
+
+gre.animate.stop.Review_HideText##Review_HideText animation complete #The animation named Review_HideText has been stopped
+
+startPlayback

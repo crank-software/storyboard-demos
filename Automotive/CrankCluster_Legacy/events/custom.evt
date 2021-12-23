@@ -1,0 +1,30 @@
+
+gre.animate.complete.pointers##pointers animation complete #The animation named pointers has completed
+
+gre.animate.complete.car_alert##car_alert animation complete #The animation named car_alert has completed
+
+gre.animate.complete.hide_car_alert##hide_car_alert animation complete #The animation named hide_car_alert has completed
+
+update_speed
+
+update_rpm
+
+gre.animate.complete.show_media##show_media animation complete #The animation named show_media has completed
+
+gre.animate.complete.show_navi##show_navi animation complete #The animation named show_navi has completed
+
+hide_media
+
+timer.hide_media_timer##timer.hide_media_timer timer fired #The timer named timer.hide_media_timer has fired
+
+qnxcar.media.update
+
+timer.media_status##timer.media_status timer fired #The timer named timer.media_status has fired
+
+show_media_screen
+
+show_tach_screen
+
+timer.hide_tach##timer.hide_tach timer fired #The timer named timer.hide_tach has fired
+
+update_compass

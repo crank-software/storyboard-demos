@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.speedNeedle" type="0x8">
+    <label>speedNeedle animation complete</label>
+    <description>The animation named speedNeedle has completed</description>
+  </event>
+  <event name="gre.animate.complete.warningLights" type="0x8">
+    <label>warningLights animation complete</label>
+    <description>The animation named warningLights has completed</description>
+  </event>
+  <event name="gre.animate.stop.speedNeedle" type="0x8">
+    <label>speedNeedle animation stopped</label>
+    <description>The animation named speedNeedle has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.warningLights" type="0x8">
+    <label>warningLights animation stopped</label>
+    <description>The animation named warningLights has been stopped</description>
+  </event>
+  <event name="updateSpeed" type="0x10"/>
+</eventdefinitions>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gapp version="3.0">
+  <dimension format="ARGB8888" height="1080" width="1920"/>
+  <action input_event="gre.press" type="gra.lua">
+    <arg k="script">get_sample</arg>
+  </action>
+  <layers>
+    <layer height="1080" name="Background" width="1920">
+      <control name="Bkg" template="Bkg"/>
+      <control name="Instructions" template="Instructions"/>
+    </layer>
+    <layer height="1080" name="calib" width="1920">
+      <control name="target" template="target"/>
+    </layer>
+    <layer height="1080" name="Instruction" width="1920">
+      <control name="text" template="text"/>
+      <control name="information" template="information"/>
+      <control active="1" height="140" hidden="0" name="label" opaque="1" width="1315" x="307" y="265">
+        <data format="1s0" key="text" value="-omtdev,max_x=xxx ,max_y=yyy"/>
+        <render handler="text">
+          <arg k="color">0xffffff</arg>
+          <arg k="font">fonts/Roboto-Medium.ttf</arg>
+          <arg k="halign">1</arg>
+          <arg k="size">48</arg>
+          <arg k="style">1</arg>
+          <arg k="text">Pass this to SBEngine: </arg>
+          <arg k="valign">1</arg>
+        </render>
+      </control>
+    </layer>
+    <layer height="1080" name="rect" width="1920">
+      <control name="background" template="background"/>
+    </layer>
+  </layers>
+  <screens>
+    <screen default="1" name="Screen1">
+      <action input_event="gre.screenshow.pre" type="gra.lua">
+        <arg k="script">setup_calibration</arg>
+      </action>
+      <action input_event="done_cal" type="gra.screen">
+        <arg k="layers">all</arg>
+        <arg k="screen">Screen2</arg>
+      </action>
+      <instance alpha="255" hidden="0" index="0" layer="Background" opaque="0" x="0" y="0"/>
+      <instance alpha="255" hidden="0" index="1" layer="calib" opaque="0" x="0" y="0"/>
+    </screen>
+    <screen name="Screen2">
+      <instance alpha="255" hidden="0" index="0" layer="rect" opaque="0" x="0" y="0"/>
+      <instance alpha="255" hidden="0" index="1" layer="Instruction" opaque="0" x="0" y="0"/>
+      <instance alpha="255" hidden="0" index="2" layer="calib" opaque="0" x="0" y="0"/>
+    </screen>
+  </screens>
+  <templates>
+    <control active="1" height="1080" hidden="0" name="background" opaque="1" width="1920" x="0" y="0">
+      <render handler="fill">
+        <arg k="color">0x0</arg>
+        <arg k="halign">1</arg>
+        <arg k="valign">1</arg>
+      </render>
+    </control>
+    <control active="1" height="1080" hidden="0" name="Bkg" opaque="1" width="1920" x="0" y="0">
+      <render handler="fill">
+        <arg k="color">0xffffff</arg>
+        <arg k="halign">1</arg>
+        <arg k="valign">1</arg>
+      </render>
+    </control>
+    <control active="1" height="140" hidden="0" name="information" opaque="1" width="1610" x="155" y="382">
+      <data format="1s0" key="text" value="-omtdev,max_x=xxx ,max_y=yyy"/>
+      <render handler="text">
+        <arg k="color">0xffffff</arg>
+        <arg k="font">fonts/Roboto-Medium.ttf</arg>
+        <arg k="halign">1</arg>
+        <arg k="size">57</arg>
+        <arg k="style">1</arg>
+        <arg k="text">${control:text}</arg>
+        <arg k="valign">1</arg>
+        <arg k="wrap">1</arg>
+        <arg k="y">61</arg>
+      </render>
+    </control>
+    <control active="1" height="258" hidden="0" name="Instructions" opaque="1" width="1370" x="275" y="70">
+      <render handler="text">
+        <arg k="color">0x0</arg>
+        <arg k="font">fonts/Roboto-Regular.ttf</arg>
+        <arg k="halign">2</arg>
+        <arg k="size">60</arg>
+        <arg k="style">1</arg>
+        <arg k="text">Press target to calibrate Linux touchscreens. Please press each target until instructed otherwise.</arg>
+        <arg k="valign">2</arg>
+        <arg k="wrap">1</arg>
+      </render>
+    </control>
+    <control active="1" height="140" hidden="0" name="label" opaque="1" width="1315" x="307" y="265">
+      <data format="1s0" key="text" value="-omtdev,max_x=xxx ,max_y=yyy"/>
+      <render handler="text">
+        <arg k="color">0xffffff</arg>
+        <arg k="font">fonts/Roboto-Medium.ttf</arg>
+        <arg k="halign">1</arg>
+        <arg k="size">48</arg>
+        <arg k="style">1</arg>
+        <arg k="text">Pass this to SBEngine: </arg>
+        <arg k="valign">1</arg>
+      </render>
+    </control>
+    <control active="1" height="50" hidden="0" name="target" opaque="1" width="50" x="0" y="0">
+      <data format="4s1" key="line_width" value="3"/>
+      <render handler="fill">
+        <arg k="color">0x800000</arg>
+        <arg k="halign">1</arg>
+        <arg k="valign">1</arg>
+      </render>
+      <render handler="fill">
+        <arg k="color">0xffffff</arg>
+        <arg k="halign">2</arg>
+        <arg k="valign">2</arg>
+        <arg k="width">${control:line_width}</arg>
+      </render>
+      <render handler="fill">
+        <arg k="color">0xffffff</arg>
+        <arg k="halign">2</arg>
+        <arg k="height">${control:line_width}</arg>
+        <arg k="valign">2</arg>
+      </render>
+    </control>
+    <control active="1" height="236" hidden="0" name="text" opaque="1" width="1442" x="238" y="0">
+      <render handler="text">
+        <arg k="color">0xffffff</arg>
+        <arg k="font">fonts/Roboto-MediumItalic.ttf</arg>
+        <arg k="halign">2</arg>
+        <arg k="size">55</arg>
+        <arg k="style">1</arg>
+        <arg k="text">Press the screen to test the calibration.  The target will move to the most recently touched coordinates. </arg>
+        <arg k="valign">2</arg>
+        <arg k="wrap">1</arg>
+      </render>
+    </control>
+  </templates>
+</gapp>

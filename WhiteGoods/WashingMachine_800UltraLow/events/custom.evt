@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="autoCustomizeEvent" type="0x10"/>
+  <event name="autoResetEvent" type="0x10"/>
+  <event name="autoStartEvent" type="0x10"/>
+  <event name="goToHomeScreen" type="0x10"/>
+  <event name="gre.animate.complete.AUTOMATE_loop" type="0x8">
+    <label>AUTOMATE_loop animation complete</label>
+    <description>The animation named AUTOMATE_loop has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_optionPress" type="0x8">
+    <label>HOME_optionPress animation complete</label>
+    <description>The animation named HOME_optionPress has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_pressCustomize" type="0x8">
+    <label>HOME_pressCustomize animation complete</label>
+    <description>The animation named HOME_pressCustomize has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_reset" type="0x8">
+    <label>HOME_reset animation complete</label>
+    <description>The animation named HOME_reset has completed</description>
+  </event>
+  <event name="gre.animate.complete.IDLE_loop" type="0x8">
+    <label>IDLE_loop animation complete</label>
+    <description>The animation named IDLE_loop has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_energyShow" type="0x8">
+    <label>TRANSITION_energyShow animation complete</label>
+    <description>The animation named TRANSITION_energyShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_homeReset" type="0x8">
+    <label>TRANSITION_homeReset animation complete</label>
+    <description>The animation named TRANSITION_homeReset has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_homeToWashing" type="0x8">
+    <label>TRANSITION_homeToWashing animation complete</label>
+    <description>The animation named TRANSITION_homeToWashing has completed</description>
+  </event>
+  <event name="gre.animate.complete.WASHING_outerArc" type="0x8">
+    <label>WASHING_outerArc animation complete</label>
+    <description>The animation named WASHING_outerArc has completed</description>
+  </event>
+  <event name="gre.animate.complete.WASHING_outerArcSimple" type="0x8">
+    <label>WASHING_outerArcSimple animation complete</label>
+    <description>The animation named WASHING_outerArcSimple has completed</description>
+  </event>
+  <event name="gre.animate.stop.AUTOMATE_loop" type="0x8">
+    <label>AUTOMATE_loop animation stopped</label>
+    <description>The animation named AUTOMATE_loop has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_optionPress" type="0x8">
+    <label>HOME_optionPress animation stopped</label>
+    <description>The animation named HOME_optionPress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_pressCustomize" type="0x8">
+    <label>HOME_pressCustomize animation stopped</label>
+    <description>The animation named HOME_pressCustomize has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_reset" type="0x8">
+    <label>HOME_reset animation stopped</label>
+    <description>The animation named HOME_reset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.IDLE_loop" type="0x8">
+    <label>IDLE_loop animation stopped</label>
+    <description>The animation named IDLE_loop has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_energyShow" type="0x8">
+    <label>TRANSITION_energyShow animation stopped</label>
+    <description>The animation named TRANSITION_energyShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_homeReset" type="0x8">
+    <label>TRANSITION_homeReset animation stopped</label>
+    <description>The animation named TRANSITION_homeReset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_homeToWashing" type="0x8">
+    <label>TRANSITION_homeToWashing animation stopped</label>
+    <description>The animation named TRANSITION_homeToWashing has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.WASHING_outerArc" type="0x8">
+    <label>WASHING_outerArc animation stopped</label>
+    <description>The animation named WASHING_outerArc has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.WASHING_outerArcSimple" type="0x8">
+    <label>WASHING_outerArcSimple animation stopped</label>
+    <description>The animation named WASHING_outerArcSimple has been stopped</description>
+  </event>
+  <event name="idleWashMode" type="0x10"/>
+  <event name="toEnergyScreenEvent" type="0x10"/>
+  <event name="toWashScreenEvent" type="0x10"/>
+</eventdefinitions>

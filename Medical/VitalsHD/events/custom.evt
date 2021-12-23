@@ -1,0 +1,192 @@
+
+gre.animate.complete.APP_MenuOpen##APP_MenuOpen animation complete #The animation named APP_MenuOpen has completed
+
+gre.animate.stop.APP_MenuOpen##APP_MenuOpen animation stopped #The animation named APP_MenuOpen has been stopped
+
+gre.animate.complete.MENU_pressVitals##MENU_pressVitals animation complete #The animation named MENU_pressVitals has completed
+
+gre.animate.stop.MENU_pressVitals##MENU_pressVitals animation stopped #The animation named MENU_pressVitals has been stopped
+
+gre.animate.complete.MENU_pressPatient##MENU_pressPatient animation complete #The animation named MENU_pressPatient has completed
+
+gre.animate.stop.MENU_pressPatient##MENU_pressPatient animation stopped #The animation named MENU_pressPatient has been stopped
+
+gre.animate.complete.MENU_pressIV##MENU_pressIV animation complete #The animation named MENU_pressIV has completed
+
+gre.animate.stop.MENU_pressIV##MENU_pressIV animation stopped #The animation named MENU_pressIV has been stopped
+
+gre.animate.complete.MENU_pressSystem##MENU_pressSystem animation complete #The animation named MENU_pressSystem has completed
+
+gre.animate.stop.MENU_pressSystem##MENU_pressSystem animation stopped #The animation named MENU_pressSystem has been stopped
+
+gre.animate.complete.APP_MenuClose##APP_MenuClose animation complete #The animation named APP_MenuClose has completed
+
+gre.animate.stop.APP_MenuClose##APP_MenuClose animation stopped #The animation named APP_MenuClose has been stopped
+
+gre.animate.complete.PATIENT_openSymptoms##PATIENT_openSymptoms animation complete #The animation named PATIENT_openSymptoms has completed
+
+gre.animate.stop.PATIENT_openSymptoms##PATIENT_openSymptoms animation stopped #The animation named PATIENT_openSymptoms has been stopped
+
+gre.animate.complete.PATIENT_symptomDown##PATIENT_symptomDown animation complete #The animation named PATIENT_symptomDown has completed
+
+gre.animate.stop.PATIENT_symptomDown##PATIENT_symptomDown animation stopped #The animation named PATIENT_symptomDown has been stopped
+
+gre.animate.complete.PATIENT_symptomUp##PATIENT_symptomUp animation complete #The animation named PATIENT_symptomUp has completed
+
+gre.animate.stop.PATIENT_symptomUp##PATIENT_symptomUp animation stopped #The animation named PATIENT_symptomUp has been stopped
+
+gre.animate.complete.IV_intervalsStart##IV_intervalsStart animation complete #The animation named IV_intervalsStart has completed
+
+gre.animate.stop.IV_intervalsStart##IV_intervalsStart animation stopped #The animation named IV_intervalsStart has been stopped
+
+gre.animate.complete.IV_intervalsStop##IV_intervalsStop animation complete #The animation named IV_intervalsStop has completed
+
+gre.animate.stop.IV_intervalsStop##IV_intervalsStop animation stopped #The animation named IV_intervalsStop has been stopped
+
+gre.animate.complete.IV_dripChange##IV_dripChange animation complete #The animation named IV_dripChange has completed
+
+gre.animate.stop.IV_dripChange##IV_dripChange animation stopped #The animation named IV_dripChange has been stopped
+
+gre.animate.complete.IV_constantMovement##IV_constantMovement animation complete #The animation named IV_constantMovement has completed
+
+gre.animate.stop.IV_constantMovement##IV_constantMovement animation stopped #The animation named IV_constantMovement has been stopped
+
+gre.animate.complete.IV_constantMovementEnd##IV_constantMovementEnd animation complete #The animation named IV_constantMovementEnd has completed
+
+gre.animate.stop.IV_constantMovementEnd##IV_constantMovementEnd animation stopped #The animation named IV_constantMovementEnd has been stopped
+
+gre.animate.complete.IV_pressButton##IV_pressButton animation complete #The animation named IV_pressButton has completed
+
+gre.animate.stop.IV_pressButton##IV_pressButton animation stopped #The animation named IV_pressButton has been stopped
+
+gre.animate.complete.PATIENT_dropMenuOpen##PATIENT_dropMenuOpen animation complete #The animation named PATIENT_dropMenuOpen has completed
+
+gre.animate.stop.PATIENT_dropMenuOpen##PATIENT_dropMenuOpen animation stopped #The animation named PATIENT_dropMenuOpen has been stopped
+
+gre.animate.complete.PATIENT_dropMenuPress##PATIENT_dropMenuPress animation complete #The animation named PATIENT_dropMenuPress has completed
+
+gre.animate.stop.PATIENT_dropMenuPress##PATIENT_dropMenuPress animation stopped #The animation named PATIENT_dropMenuPress has been stopped
+
+gre.animate.complete.PATIENT_dropMenuClose##PATIENT_dropMenuClose animation complete #The animation named PATIENT_dropMenuClose has completed
+
+gre.animate.stop.PATIENT_dropMenuClose##PATIENT_dropMenuClose animation stopped #The animation named PATIENT_dropMenuClose has been stopped
+
+gre.animate.complete.PATIENT_dropMenuTitle##PATIENT_dropMenuTitle animation complete #The animation named PATIENT_dropMenuTitle has completed
+
+gre.animate.stop.PATIENT_dropMenuTitle##PATIENT_dropMenuTitle animation stopped #The animation named PATIENT_dropMenuTitle has been stopped
+
+gre.animate.complete.IV_dripPress##IV_dripPress animation complete #The animation named IV_dripPress has completed
+
+gre.animate.stop.IV_dripPress##IV_dripPress animation stopped #The animation named IV_dripPress has been stopped
+
+gre.animate.complete.SYSTEM_pressNav##SYSTEM_pressNav animation complete #The animation named SYSTEM_pressNav has completed
+
+gre.animate.stop.SYSTEM_pressNav##SYSTEM_pressNav animation stopped #The animation named SYSTEM_pressNav has been stopped
+
+gre.animate.complete.SYSTEM_releaseNav##SYSTEM_releaseNav animation complete #The animation named SYSTEM_releaseNav has completed
+
+gre.animate.stop.SYSTEM_releaseNav##SYSTEM_releaseNav animation stopped #The animation named SYSTEM_releaseNav has been stopped
+
+gre.animate.complete.SYSTEM_pressKeypad##SYSTEM_pressKeypad animation complete #The animation named SYSTEM_pressKeypad has completed
+
+gre.animate.stop.SYSTEM_pressKeypad##SYSTEM_pressKeypad animation stopped #The animation named SYSTEM_pressKeypad has been stopped
+
+gre.animate.complete.SYSTEM_unlockSystem##SYSTEM_unlockSystem animation complete #The animation named SYSTEM_unlockSystem has completed
+
+gre.animate.stop.SYSTEM_unlockSystem##SYSTEM_unlockSystem animation stopped #The animation named SYSTEM_unlockSystem has been stopped
+
+gre.animate.complete.SYSTEM_showUnlock##SYSTEM_showUnlock animation complete #The animation named SYSTEM_showUnlock has completed
+
+gre.animate.stop.SYSTEM_showUnlock##SYSTEM_showUnlock animation stopped #The animation named SYSTEM_showUnlock has been stopped
+
+gre.animate.complete.SYSTEM_toDevice##SYSTEM_toDevice animation complete #The animation named SYSTEM_toDevice has completed
+
+gre.animate.stop.SYSTEM_toDevice##SYSTEM_toDevice animation stopped #The animation named SYSTEM_toDevice has been stopped
+
+gre.animate.complete.SYSTEM_toAdvanced##SYSTEM_toAdvanced animation complete #The animation named SYSTEM_toAdvanced has completed
+
+gre.animate.stop.SYSTEM_toAdvanced##SYSTEM_toAdvanced animation stopped #The animation named SYSTEM_toAdvanced has been stopped
+
+gre.animate.complete.SYSTEM_fromAdvanced##SYSTEM_fromAdvanced animation complete #The animation named SYSTEM_fromAdvanced has completed
+
+gre.animate.stop.SYSTEM_fromAdvanced##SYSTEM_fromAdvanced animation stopped #The animation named SYSTEM_fromAdvanced has been stopped
+
+gre.animate.complete.SYSTEM_toReports##SYSTEM_toReports animation complete #The animation named SYSTEM_toReports has completed
+
+gre.animate.stop.SYSTEM_toReports##SYSTEM_toReports animation stopped #The animation named SYSTEM_toReports has been stopped
+
+gre.animate.complete.SYSTEM_fromDevice##SYSTEM_fromDevice animation complete #The animation named SYSTEM_fromDevice has completed
+
+gre.animate.stop.SYSTEM_fromDevice##SYSTEM_fromDevice animation stopped #The animation named SYSTEM_fromDevice has been stopped
+
+gre.animate.complete.SYSTEM_fromReports##SYSTEM_fromReports animation complete #The animation named SYSTEM_fromReports has completed
+
+gre.animate.stop.SYSTEM_fromReports##SYSTEM_fromReports animation stopped #The animation named SYSTEM_fromReports has been stopped
+
+gre.animate.complete.SYSTEM_pressReport##SYSTEM_pressReport animation complete #The animation named SYSTEM_pressReport has completed
+
+gre.animate.stop.SYSTEM_pressReport##SYSTEM_pressReport animation stopped #The animation named SYSTEM_pressReport has been stopped
+
+gre.animate.complete.SYSTEM_releaseReport##SYSTEM_releaseReport animation complete #The animation named SYSTEM_releaseReport has completed
+
+gre.animate.stop.SYSTEM_releaseReport##SYSTEM_releaseReport animation stopped #The animation named SYSTEM_releaseReport has been stopped
+
+gre.animate.complete.SYSTEM_reportTransition##SYSTEM_reportTransition animation complete #The animation named SYSTEM_reportTransition has completed
+
+gre.animate.stop.SYSTEM_reportTransition##SYSTEM_reportTransition animation stopped #The animation named SYSTEM_reportTransition has been stopped
+
+gre.animate.complete.PATIENT_closeSymptom##PATIENT_closeSymptom animation complete #The animation named PATIENT_closeSymptom has completed
+
+gre.animate.stop.PATIENT_closeSymptom##PATIENT_closeSymptom animation stopped #The animation named PATIENT_closeSymptom has been stopped
+
+gre.animate.complete.PATIENT_moveButtons##PATIENT_moveButtons animation complete #The animation named PATIENT_moveButtons has completed
+
+gre.animate.stop.PATIENT_moveButtons##PATIENT_moveButtons animation stopped #The animation named PATIENT_moveButtons has been stopped
+
+gre.animate.complete.APP_hideSystem##APP_hideSystem animation complete #The animation named APP_hideSystem has completed
+
+gre.animate.stop.APP_hideSystem##APP_hideSystem animation stopped #The animation named APP_hideSystem has been stopped
+
+gre.animate.complete.APP_showSystem##APP_showSystem animation complete #The animation named APP_showSystem has completed
+
+gre.animate.stop.APP_showSystem##APP_showSystem animation stopped #The animation named APP_showSystem has been stopped
+
+APP_toVitals##APP_toVitals
+
+APP_toPatient##APP_toPatient
+
+APP_toIV##APP_toIV
+
+APP_toSystem##APP_toSystem
+
+gre.animate.complete.APP_showVitals##APP_showVitals animation complete #The animation named APP_showVitals has completed
+
+gre.animate.stop.APP_showVitals##APP_showVitals animation stopped #The animation named APP_showVitals has been stopped
+
+gre.animate.complete.APP_showPatient##APP_showPatient animation complete #The animation named APP_showPatient has completed
+
+gre.animate.stop.APP_showPatient##APP_showPatient animation stopped #The animation named APP_showPatient has been stopped
+
+gre.animate.complete.APP_showIV##APP_showIV animation complete #The animation named APP_showIV has completed
+
+gre.animate.stop.APP_showIV##APP_showIV animation stopped #The animation named APP_showIV has been stopped
+
+gre.animate.complete.APP_hidePatient##APP_hidePatient animation complete #The animation named APP_hidePatient has completed
+
+gre.animate.stop.APP_hidePatient##APP_hidePatient animation stopped #The animation named APP_hidePatient has been stopped
+
+gre.animate.complete.APP_hideIV##APP_hideIV animation complete #The animation named APP_hideIV has completed
+
+gre.animate.stop.APP_hideIV##APP_hideIV animation stopped #The animation named APP_hideIV has been stopped
+
+gre.animate.complete.APP_hideVitals##APP_hideVitals animation complete #The animation named APP_hideVitals has completed
+
+gre.animate.stop.APP_hideVitals##APP_hideVitals animation stopped #The animation named APP_hideVitals has been stopped
+
+gre.animate.complete.PATIENT_pressSlider##PATIENT_pressSlider animation complete #The animation named PATIENT_pressSlider has completed
+
+gre.animate.stop.PATIENT_pressSlider##PATIENT_pressSlider animation stopped #The animation named PATIENT_pressSlider has been stopped
+
+gre.animate.complete.PATIENT_releaseSlider##PATIENT_releaseSlider animation complete #The animation named PATIENT_releaseSlider has completed
+
+gre.animate.stop.PATIENT_releaseSlider##PATIENT_releaseSlider animation stopped #The animation named PATIENT_releaseSlider has been stopped

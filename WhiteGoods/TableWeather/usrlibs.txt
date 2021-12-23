@@ -1,0 +1,2 @@
+scripts/android-armle/socket/core.so
+scripts/android-armle/mime/mcore.so

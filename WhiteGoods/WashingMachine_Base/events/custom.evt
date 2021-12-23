@@ -1,0 +1,154 @@
+
+timer.startToSettingsPause##timer.startToSettingsPause timer fired #The timer named timer.startToSettingsPause has fired
+
+checkTableEvent##checkTableEvent
+
+checkMinTableEvent##checkMinTableEvent
+
+checkHourTableEvent##checkHourTableEvent
+
+checkYearTableEvent##checkYearTableEvent
+
+checkMonthTableEvent##checkMonthTableEvent
+
+checkDateTableEvent##checkDateTableEvent
+
+goToHomeScreen##goToHomeScreen
+
+startPlayback##startPlayback
+
+gre.animate.complete.HOME_chipsSetup##HOME_chipsSetup animation complete #The animation named HOME_chipsSetup has completed
+
+gre.animate.stop.HOME_chipsSetup##HOME_chipsSetup animation stopped #The animation named HOME_chipsSetup has been stopped
+
+gre.animate.complete.HOME_chipsReturn##HOME_chipsReturn animation complete #The animation named HOME_chipsReturn has completed
+
+gre.animate.complete.HOME_chipsPress##HOME_chipsPress animation complete #The animation named HOME_chipsPress has completed
+
+gre.animate.stop.HOME_chipsReturn##HOME_chipsReturn animation stopped #The animation named HOME_chipsReturn has been stopped
+
+gre.animate.stop.HOME_chipsPress##HOME_chipsPress animation stopped #The animation named HOME_chipsPress has been stopped
+
+gre.animate.complete.TRANSITION_homeHide##TRANSITION_homeHide animation complete #The animation named TRANSITION_homeHide has completed
+
+gre.animate.stop.TRANSITION_homeHide##TRANSITION_homeHide animation stopped #The animation named TRANSITION_homeHide has been stopped
+
+gre.animate.complete.TRANSITION_settingsShow##TRANSITION_settingsShow animation complete #The animation named TRANSITION_settingsShow has completed
+
+gre.animate.stop.TRANSITION_settingsShow##TRANSITION_settingsShow animation stopped #The animation named TRANSITION_settingsShow has been stopped
+
+gre.animate.complete.SETTINGS_pressButton##SETTINGS_pressButton animation complete #The animation named SETTINGS_pressButton has completed
+
+gre.animate.stop.SETTINGS_pressButton##SETTINGS_pressButton animation stopped #The animation named SETTINGS_pressButton has been stopped
+
+gre.animate.complete.SETTINGS_sizeShow##SETTINGS_sizeShow animation complete #The animation named SETTINGS_sizeShow has completed
+
+gre.animate.stop.SETTINGS_sizeShow##SETTINGS_sizeShow animation stopped #The animation named SETTINGS_sizeShow has been stopped
+
+gre.animate.complete.SETTINGS_sizeHide##SETTINGS_sizeHide animation complete #The animation named SETTINGS_sizeHide has completed
+
+gre.animate.stop.SETTINGS_sizeHide##SETTINGS_sizeHide animation stopped #The animation named SETTINGS_sizeHide has been stopped
+
+gre.animate.complete.SETTINGS_tempShow##SETTINGS_tempShow animation complete #The animation named SETTINGS_tempShow has completed
+
+gre.animate.stop.SETTINGS_tempShow##SETTINGS_tempShow animation stopped #The animation named SETTINGS_tempShow has been stopped
+
+gre.animate.complete.SETTINGS_tempHide##SETTINGS_tempHide animation complete #The animation named SETTINGS_tempHide has completed
+
+gre.animate.stop.SETTINGS_tempHide##SETTINGS_tempHide animation stopped #The animation named SETTINGS_tempHide has been stopped
+
+gre.animate.complete.SETTINGS_spinShow##SETTINGS_spinShow animation complete #The animation named SETTINGS_spinShow has completed
+
+gre.animate.stop.SETTINGS_spinShow##SETTINGS_spinShow animation stopped #The animation named SETTINGS_spinShow has been stopped
+
+gre.animate.complete.SETTINGS_spinHide##SETTINGS_spinHide animation complete #The animation named SETTINGS_spinHide has completed
+
+gre.animate.stop.SETTINGS_spinHide##SETTINGS_spinHide animation stopped #The animation named SETTINGS_spinHide has been stopped
+
+gre.animate.complete.SETTINGS_extrasShow##SETTINGS_extrasShow animation complete #The animation named SETTINGS_extrasShow has completed
+
+gre.animate.stop.SETTINGS_extrasShow##SETTINGS_extrasShow animation stopped #The animation named SETTINGS_extrasShow has been stopped
+
+gre.animate.complete.SETTINGS_toggleOn##SETTINGS_toggleOn animation complete #The animation named SETTINGS_toggleOn has completed
+
+gre.animate.stop.SETTINGS_toggleOn##SETTINGS_toggleOn animation stopped #The animation named SETTINGS_toggleOn has been stopped
+
+gre.animate.complete.SETTINGS_toggleOff##SETTINGS_toggleOff animation complete #The animation named SETTINGS_toggleOff has completed
+
+gre.animate.complete.SETTINGS_extrasHide##SETTINGS_extrasHide animation complete #The animation named SETTINGS_extrasHide has completed
+
+gre.animate.stop.SETTINGS_toggleOff##SETTINGS_toggleOff animation stopped #The animation named SETTINGS_toggleOff has been stopped
+
+gre.animate.stop.SETTINGS_extrasHide##SETTINGS_extrasHide animation stopped #The animation named SETTINGS_extrasHide has been stopped
+
+gre.animate.complete.SETTINGS_pressStart##SETTINGS_pressStart animation complete #The animation named SETTINGS_pressStart has completed
+
+gre.animate.stop.SETTINGS_pressStart##SETTINGS_pressStart animation stopped #The animation named SETTINGS_pressStart has been stopped
+
+gre.animate.complete.WASH_washing##WASH_washing animation complete #The animation named WASH_washing has completed
+
+gre.animate.stop.WASH_washing##WASH_washing animation stopped #The animation named WASH_washing has been stopped
+
+gre.animate.complete.WASH_toggleOn##WASH_toggleOn animation complete #The animation named WASH_toggleOn has completed
+
+gre.animate.stop.WASH_toggleOn##WASH_toggleOn animation stopped #The animation named WASH_toggleOn has been stopped
+
+gre.animate.complete.WASH_toggleOff##WASH_toggleOff animation complete #The animation named WASH_toggleOff has completed
+
+gre.animate.stop.WASH_toggleOff##WASH_toggleOff animation stopped #The animation named WASH_toggleOff has been stopped
+
+updateWashTimeEvent##updateWashTimeEvent
+
+gre.animate.complete.COMPLETE_pressReset##COMPLETE_pressReset animation complete #The animation named COMPLETE_pressReset has completed
+
+gre.animate.stop.COMPLETE_pressReset##COMPLETE_pressReset animation stopped #The animation named COMPLETE_pressReset has been stopped
+
+gre.animate.complete.TRANSITION_completeShow##TRANSITION_completeShow animation complete #The animation named TRANSITION_completeShow has completed
+
+gre.animate.stop.TRANSITION_completeShow##TRANSITION_completeShow animation stopped #The animation named TRANSITION_completeShow has been stopped
+
+gre.animate.complete.TRANSITION_completeHide##TRANSITION_completeHide animation complete #The animation named TRANSITION_completeHide has completed
+
+gre.animate.stop.TRANSITION_completeHide##TRANSITION_completeHide animation stopped #The animation named TRANSITION_completeHide has been stopped
+
+gre.animate.complete.TRANSITION_settingsHide##TRANSITION_settingsHide animation complete #The animation named TRANSITION_settingsHide has completed
+
+gre.animate.stop.TRANSITION_settingsHide##TRANSITION_settingsHide animation stopped #The animation named TRANSITION_settingsHide has been stopped
+
+gre.animate.complete.TRANSITION_homeShow##TRANSITION_homeShow animation complete #The animation named TRANSITION_homeShow has completed
+
+gre.animate.stop.TRANSITION_homeShow##TRANSITION_homeShow animation stopped #The animation named TRANSITION_homeShow has been stopped
+
+gre.animate.complete.TRANSITION_setupSettings##TRANSITION_setupSettings animation complete #The animation named TRANSITION_setupSettings has completed
+
+gre.animate.stop.TRANSITION_setupSettings##TRANSITION_setupSettings animation stopped #The animation named TRANSITION_setupSettings has been stopped
+
+gre.animate.complete.TRANSITION_washShow##TRANSITION_washShow animation complete #The animation named TRANSITION_washShow has completed
+
+gre.animate.stop.TRANSITION_washShow##TRANSITION_washShow animation stopped #The animation named TRANSITION_washShow has been stopped
+
+gre.animate.complete.TRANSITION_setupWash##TRANSITION_setupWash animation complete #The animation named TRANSITION_setupWash has completed
+
+gre.animate.stop.TRANSITION_setupWash##TRANSITION_setupWash animation stopped #The animation named TRANSITION_setupWash has been stopped
+
+gre.animate.complete.TRANSITION_setupComplete##TRANSITION_setupComplete animation complete #The animation named TRANSITION_setupComplete has completed
+
+gre.animate.stop.TRANSITION_setupComplete##TRANSITION_setupComplete animation stopped #The animation named TRANSITION_setupComplete has been stopped
+
+gre.animate.complete.TRANSITION_washHide##TRANSITION_washHide animation complete #The animation named TRANSITION_washHide has completed
+
+gre.animate.stop.TRANSITION_washHide##TRANSITION_washHide animation stopped #The animation named TRANSITION_washHide has been stopped
+
+toHome##toHome
+
+gre.animate.complete.SETTINGS_reset##SETTINGS_reset animation complete #The animation named SETTINGS_reset has completed
+
+gre.animate.stop.SETTINGS_reset##SETTINGS_reset animation stopped #The animation named SETTINGS_reset has been stopped
+
+gre.animate.complete.EFFECT_ripple##EFFECT_ripple animation complete #The animation named EFFECT_ripple has completed
+
+gre.animate.stop.EFFECT_ripple##EFFECT_ripple animation stopped #The animation named EFFECT_ripple has been stopped
+
+gre.animate.complete.WASH_test##WASH_test animation complete #The animation named WASH_test has completed
+
+gre.animate.stop.WASH_test##WASH_test animation stopped #The animation named WASH_test has been stopped

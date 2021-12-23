@@ -1,0 +1,122 @@
+
+gre.animate.complete.opening_anim_speed_gauge_2##opening_anim_speed_gauge_2 animation complete #The animation named opening_anim_speed_gauge_2 has completed
+
+gre.animate.complete.opening_anim_speed_gauge_1##opening_anim_speed_gauge_1 animation complete #The animation named opening_anim_speed_gauge_1 has completed
+
+gre.animate.complete.opening_anim_center_lines##opening_anim_center_lines animation complete #The animation named opening_anim_center_lines has completed
+
+gre.animate.complete.opening_anim_upper_overlay##opening_anim_upper_overlay animation complete #The animation named opening_anim_upper_overlay has completed
+
+gre.animate.complete.opening_anim_center_modules##opening_anim_center_modules animation complete #The animation named opening_anim_center_modules has completed
+
+gre.animate.complete.closing_anim_center_modules##closing_anim_center_modules animation complete #The animation named closing_anim_center_modules has completed
+
+gre.animate.complete.opening_anim_small_gauges##opening_anim_small_gauges animation complete #The animation named opening_anim_small_gauges has completed
+
+gre.animate.complete.opening_anim_rpm_gauge_2##opening_anim_rpm_gauge_2 animation complete #The animation named opening_anim_rpm_gauge_2 has completed
+
+gre.animate.complete.closing_animation_full##closing_animation_full animation complete #The animation named closing_animation_full has completed
+
+gre.animate.complete.continuous_anim_telltale##continuous_anim_telltale animation complete #The animation named continuous_anim_telltale has completed
+
+update_speed_number##update_speed_number
+
+update_rpm_number##update_rpm_number
+
+navigation.status##navigation.status
+
+switch_to_navi##switch_to_navi
+
+switch_to_maintenance##switch_to_maintenance
+
+trigger_adas##trigger_adas
+
+timer.navi_holdoff##timer.navi_holdoff timer fired #The timer named timer.navi_holdoff has fired
+
+gre.animate.complete.needles##needles animation complete #The animation named needles has completed
+
+gre.animate.complete.needles_down##needles_down animation complete #The animation named needles_down has completed
+
+timer.perf_timer##timer.perf_timer timer fired #The timer named timer.perf_timer has fired
+
+gre.animate.complete.opening_anim_car_drive_in##opening_anim_car_drive_in animation complete #The animation named opening_anim_car_drive_in has completed
+
+gre.animate.complete.3D_warning_blip##3D_warning_blip animation complete #The animation named 3D_warning_blip has completed
+
+gre.animate.complete.3D_warning_blip_tire##3D_warning_blip_tire animation complete #The animation named 3D_warning_blip_tire has completed
+
+gre.animate.complete.media_fold_out##media_fold_out animation complete #The animation named media_fold_out has completed
+
+gre.animate.complete.media_to_next##media_to_next animation complete #The animation named media_to_next has completed
+
+gre.animate.complete.map_rotation##map_rotation animation complete #The animation named map_rotation has completed
+
+gre.animate.complete.transition_layer_map_to_media##transition_layer_map_to_media animation complete #The animation named transition_layer_map_to_media has completed
+
+gre.animate.complete.transition_layer_media_to_car##transition_layer_media_to_car animation complete #The animation named transition_layer_media_to_car has completed
+
+gre.animate.complete.transition_layer_car_to_map##transition_layer_car_to_map animation complete #The animation named transition_layer_car_to_map has completed
+
+gre.animate.complete.opening_anim_bg##opening_anim_bg animation complete #The animation named opening_anim_bg has completed
+
+gre.animate.complete.3D_car_rotation##3D_car_rotation animation complete #The animation named 3D_car_rotation has completed
+
+gre.animate.complete.media_to_prev##media_to_prev animation complete #The animation named media_to_prev has completed
+
+keydown_init
+
+gre.animate.complete.overlays_fade_in##overlays_fade_in animation complete #The animation named overlays_fade_in has completed
+
+gre.animate.complete.compass_continuous##compass_continuous animation complete #The animation named compass_continuous has completed
+
+gre.animate.stop.needles##needles animation stopped #The animation named needles has been stopped
+
+gre.animate.stop.opening_anim_center_modules##opening_anim_center_modules animation stopped #The animation named opening_anim_center_modules has been stopped
+
+gre.animate.stop.3D_warning_blip##3D_warning_blip animation stopped #The animation named 3D_warning_blip has been stopped
+
+gre.animate.stop.compass_continuous##compass_continuous animation stopped #The animation named compass_continuous has been stopped
+
+gre.animate.stop.opening_anim_small_gauges##opening_anim_small_gauges animation stopped #The animation named opening_anim_small_gauges has been stopped
+
+gre.animate.stop.continuous_anim_telltale##continuous_anim_telltale animation stopped #The animation named continuous_anim_telltale has been stopped
+
+gre.animate.stop.opening_anim_car_drive_in##opening_anim_car_drive_in animation stopped #The animation named opening_anim_car_drive_in has been stopped
+
+gre.animate.stop.opening_anim_center_lines##opening_anim_center_lines animation stopped #The animation named opening_anim_center_lines has been stopped
+
+gre.animate.stop.transition_layer_map_to_media##transition_layer_map_to_media animation stopped #The animation named transition_layer_map_to_media has been stopped
+
+gre.animate.stop.3D_car_rotation##3D_car_rotation animation stopped #The animation named 3D_car_rotation has been stopped
+
+gre.animate.stop.media_fold_out##media_fold_out animation stopped #The animation named media_fold_out has been stopped
+
+gre.animate.stop.closing_anim_center_modules##closing_anim_center_modules animation stopped #The animation named closing_anim_center_modules has been stopped
+
+gre.animate.stop.opening_anim_bg##opening_anim_bg animation stopped #The animation named opening_anim_bg has been stopped
+
+gre.animate.stop.media_to_next##media_to_next animation stopped #The animation named media_to_next has been stopped
+
+gre.animate.stop.3D_warning_blip_tire##3D_warning_blip_tire animation stopped #The animation named 3D_warning_blip_tire has been stopped
+
+gre.animate.stop.media_to_prev##media_to_prev animation stopped #The animation named media_to_prev has been stopped
+
+gre.animate.stop.transition_layer_car_to_map##transition_layer_car_to_map animation stopped #The animation named transition_layer_car_to_map has been stopped
+
+gre.animate.stop.overlays_fade_in##overlays_fade_in animation stopped #The animation named overlays_fade_in has been stopped
+
+gre.animate.stop.closing_animation_full##closing_animation_full animation stopped #The animation named closing_animation_full has been stopped
+
+gre.animate.stop.opening_anim_rpm_gauge_2##opening_anim_rpm_gauge_2 animation stopped #The animation named opening_anim_rpm_gauge_2 has been stopped
+
+gre.animate.stop.opening_anim_upper_overlay##opening_anim_upper_overlay animation stopped #The animation named opening_anim_upper_overlay has been stopped
+
+gre.animate.stop.map_rotation##map_rotation animation stopped #The animation named map_rotation has been stopped
+
+gre.animate.stop.opening_anim_speed_gauge_2##opening_anim_speed_gauge_2 animation stopped #The animation named opening_anim_speed_gauge_2 has been stopped
+
+gre.animate.stop.transition_layer_media_to_car##transition_layer_media_to_car animation stopped #The animation named transition_layer_media_to_car has been stopped
+
+gre.animate.stop.opening_anim_speed_gauge_1##opening_anim_speed_gauge_1 animation stopped #The animation named opening_anim_speed_gauge_1 has been stopped
+
+gre.animate.stop.needles_down##needles_down animation stopped #The animation named needles_down has been stopped

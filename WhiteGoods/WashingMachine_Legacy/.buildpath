@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path=""/>
+	<buildpathentry external="true" kind="lib" path="/Users/ahren_000/.eclipse/org.eclipse.platform_4.4.0_225049936_win32_win32_x86/configuration/org.eclipse.osgi/17/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Program Files (x86)/Storkboard4_2/Crank14/Storyboard_Designer/configuration/org.eclipse.osgi/17/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Users/ahren_000/.eclipse/org.eclipse.platform_4.4.0_13699023_win32_win32_x86/configuration/org.eclipse.osgi/17/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Users/ahren_000/.eclipse/org.eclipse.platform_4.4.0_197651890_win32_win32_x86/configuration/org.eclipse.osgi/17/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Program Files (x86)/Storkboard4_2/Crank15/Storyboard_Designer/configuration/org.eclipse.osgi/17/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Program Files (x86)/Crank35/Storyboard Designer/storyboard/configuration/org.eclipse.osgi/15/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Users/ahren_000/.eclipse/org.eclipse.platform_4.4.0_2051755312_win32_win32_x86/configuration/org.eclipse.osgi/17/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Program Files (x86)/Storkboard4_2/Crank25/Storyboard_Designer/configuration/org.eclipse.osgi/17/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Applications/Crank_Software_4.2/Storyboard_Designer/configuration/org.eclipse.osgi/19/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Users/ahren_000/.eclipse/org.eclipse.platform_4.4.0_431514218_win32_win32_x86/configuration/org.eclipse.osgi/19/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Users/ahren_000/.eclipse/org.eclipse.platform_4.4.0_642865131_win32_win32_x86/configuration/org.eclipse.osgi/19/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Users/ahren_000/.eclipse/org.eclipse.platform_4.4.0_220163305_win32_win32_x86/configuration/org.eclipse.osgi/19/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Program Files (x86)/Storyboard4_3/Crank15/Storyboard_Designer/configuration/org.eclipse.osgi/19/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/crank/5_0_2017_02_09/Storyboard_Designer/configuration/org.eclipse.osgi/19/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/crank/5_0_2017_02_13/Storyboard_Designer/configuration/org.eclipse.osgi/19/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Applications/Crank_Software_5_0/Storyboard_Designer/Storyboard.app/Contents/Eclipse/configuration/org.eclipse.osgi/20/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Program Files (x86)/Storyboard4_3/Crank20/Storyboard_Designer/configuration/org.eclipse.osgi/19/0/.cp/resources/lua/api.zip"/>
+	<buildpathentry external="true" kind="lib" path="/Program Files (x86)/Storyboard4_3/Crank_22/Storyboard_Designer/configuration/org.eclipse.osgi/19/0/.cp/resources/lua/api.zip"/>
+</buildpath>

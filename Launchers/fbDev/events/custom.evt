@@ -1,0 +1,58 @@
+
+gre.animate.complete.LaunchPress##LaunchPress animation complete #The animation named LaunchPress has completed
+
+gre.animate.complete.group3ToMain##group3ToMain animation complete #The animation named group3ToMain has completed
+
+gre.animate.complete.group4ToMain##group4ToMain animation complete #The animation named group4ToMain has completed
+
+gre.animate.complete.group2ToMain##group2ToMain animation complete #The animation named group2ToMain has completed
+
+gre.animate.complete.animatedMovement##animatedMovement animation complete #The animation named animatedMovement has completed
+
+gre.animate.complete.backToMain##backToMain animation complete #The animation named backToMain has completed
+
+startIdleAnim##startIdleAnim
+
+stopIdleAnim##stopIdleAnim
+
+idleAnimBack##idleAnimBack
+
+gre.animate.complete.screenshotsSwipe##screenshotsSwipe animation complete #The animation named screenshotsSwipe has completed
+
+stopSwipeAnim##stopSwipeAnim
+
+gre.animate.complete.aboutToMain##aboutToMain animation complete #The animation named aboutToMain has completed
+
+aboutToMain##aboutToMain
+
+gre.animate.complete.bgLines##bgLines animation complete #The animation named bgLines has completed
+
+gre.animate.complete.aboutOpen##aboutOpen animation complete #The animation named aboutOpen has completed
+
+gre.animate.complete.bgAnimation##bgAnimation animation complete #The animation named bgAnimation has completed
+
+gre.animate.stop.group3ToMain##group3ToMain animation complete #The animation named group3ToMain has been stopped
+
+gre.animate.stop.animatedMovement##animatedMovement animation complete #The animation named animatedMovement has been stopped
+
+gre.animate.stop.aboutOpen##aboutOpen animation complete #The animation named aboutOpen has been stopped
+
+gre.animate.stop.aboutToMain##aboutToMain animation complete #The animation named aboutToMain has been stopped
+
+gre.animate.stop.group2ToMain##group2ToMain animation complete #The animation named group2ToMain has been stopped
+
+gre.animate.stop.group4ToMain##group4ToMain animation complete #The animation named group4ToMain has been stopped
+
+gre.animate.stop.backToMain##backToMain animation complete #The animation named backToMain has been stopped
+
+gre.animate.stop.bgAnimation##bgAnimation animation complete #The animation named bgAnimation has been stopped
+
+gre.animate.stop.screenshotsSwipe##screenshotsSwipe animation complete #The animation named screenshotsSwipe has been stopped
+
+gre.animate.stop.bgLines##bgLines animation complete #The animation named bgLines has been stopped
+
+gre.animate.stop.LaunchPress##LaunchPress animation complete #The animation named LaunchPress has been stopped
+
+start_playback
+
+start_capture

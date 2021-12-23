@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.compass_bearing" type="0x8">
+    <label>compass_bearing animation complete</label>
+    <description>The animation named compass_bearing has completed</description>
+  </event>
+  <event name="gre.animate.complete.full_brakes" type="0x8">
+    <label>full_brakes animation complete</label>
+    <description>The animation named full_brakes has completed</description>
+  </event>
+  <event name="gre.animate.complete.full_throttle" type="0x8">
+    <label>full_throttle animation complete</label>
+    <description>The animation named full_throttle has completed</description>
+  </event>
+  <event name="gre.animate.complete.hide_compass" type="0x8">
+    <label>hide_compass animation complete</label>
+    <description>The animation named hide_compass has completed</description>
+  </event>
+  <event name="gre.animate.complete.hide_crank" type="0x8">
+    <label>hide_crank animation complete</label>
+    <description>The animation named hide_crank has completed</description>
+  </event>
+  <event name="gre.animate.complete.hide_nav" type="0x8">
+    <label>hide_nav animation complete</label>
+    <description>The animation named hide_nav has completed</description>
+  </event>
+  <event name="gre.animate.complete.hide_weather" type="0x8">
+    <label>hide_weather animation complete</label>
+    <description>The animation named hide_weather has completed</description>
+  </event>
+  <event name="gre.animate.complete.reset" type="0x8">
+    <label>reset animation complete</label>
+    <description>The animation named reset has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_compass" type="0x8">
+    <label>show_compass animation complete</label>
+    <description>The animation named show_compass has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_crank" type="0x8">
+    <label>show_crank animation complete</label>
+    <description>The animation named show_crank has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_nav" type="0x8">
+    <label>show_nav animation complete</label>
+    <description>The animation named show_nav has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_summary" type="0x8">
+    <label>show_summary animation complete</label>
+    <description>The animation named show_summary has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_warning" type="0x8">
+    <label>show_warning animation complete</label>
+    <description>The animation named show_warning has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_weather" type="0x8">
+    <label>show_weather animation complete</label>
+    <description>The animation named show_weather has completed</description>
+  </event>
+  <event name="gre.animate.complete.shutdown" type="0x8">
+    <label>shutdown animation complete</label>
+    <description>The animation named shutdown has completed</description>
+  </event>
+  <event name="gre.animate.complete.signal_left" type="0x8">
+    <label>signal_left animation complete</label>
+    <description>The animation named signal_left has completed</description>
+  </event>
+  <event name="gre.animate.complete.speed" type="0x8">
+    <label>speed animation complete</label>
+    <description>The animation named speed has completed</description>
+  </event>
+  <event name="gre.animate.complete.startup" type="0x8">
+    <label>startup animation complete</label>
+    <description>The animation named startup has completed</description>
+  </event>
+  <event name="gre.animate.complete.summary_shutdown" type="0x8">
+    <label>summary_shutdown animation complete</label>
+    <description>The animation named summary_shutdown has completed</description>
+  </event>
+  <event name="gre.animate.stop.compass_bearing" type="0x8">
+    <label>compass_bearing animation stopped</label>
+    <description>The animation named compass_bearing has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.full_brakes" type="0x8">
+    <label>full_brakes animation stopped</label>
+    <description>The animation named full_brakes has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.full_throttle" type="0x8">
+    <label>full_throttle animation stopped</label>
+    <description>The animation named full_throttle has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.hide_compass" type="0x8">
+    <label>hide_compass animation stopped</label>
+    <description>The animation named hide_compass has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.hide_crank" type="0x8">
+    <label>hide_crank animation stopped</label>
+    <description>The animation named hide_crank has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.hide_nav" type="0x8">
+    <label>hide_nav animation stopped</label>
+    <description>The animation named hide_nav has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.hide_weather" type="0x8">
+    <label>hide_weather animation stopped</label>
+    <description>The animation named hide_weather has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.reset" type="0x8">
+    <label>reset animation stopped</label>
+    <description>The animation named reset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_compass" type="0x8">
+    <label>show_compass animation stopped</label>
+    <description>The animation named show_compass has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_crank" type="0x8">
+    <label>show_crank animation stopped</label>
+    <description>The animation named show_crank has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_nav" type="0x8">
+    <label>show_nav animation stopped</label>
+    <description>The animation named show_nav has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_summary" type="0x8">
+    <label>show_summary animation stopped</label>
+    <description>The animation named show_summary has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_warning" type="0x8">
+    <label>show_warning animation stopped</label>
+    <description>The animation named show_warning has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_weather" type="0x8">
+    <label>show_weather animation stopped</label>
+    <description>The animation named show_weather has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.shutdown" type="0x8">
+    <label>shutdown animation stopped</label>
+    <description>The animation named shutdown has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.signal_left" type="0x8">
+    <label>signal_left animation stopped</label>
+    <description>The animation named signal_left has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.speed" type="0x8">
+    <label>speed animation stopped</label>
+    <description>The animation named speed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.startup" type="0x8">
+    <label>startup animation stopped</label>
+    <description>The animation named startup has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.summary_shutdown" type="0x8">
+    <label>summary_shutdown animation stopped</label>
+    <description>The animation named summary_shutdown has been stopped</description>
+  </event>
+  <event name="timer.mode_compass" type="0x8">
+    <description>The timer named timer.mode_compass has fired</description>
+  </event>
+  <event name="timer.mode_crank" type="0x8">
+    <description>The timer named timer.mode_crank has fired</description>
+  </event>
+  <event name="timer.mode_nav" type="0x8">
+    <description>The timer named timer.mode_nav has fired</description>
+  </event>
+  <event name="timer.mode_weather" type="0x8">
+    <description>The timer named timer.mode_weather has fired</description>
+  </event>
+  <event name="UpdateRPM" type="0x40"/>
+  <event name="UpdateSpeed" type="0x40"/>
+</eventdefinitions>

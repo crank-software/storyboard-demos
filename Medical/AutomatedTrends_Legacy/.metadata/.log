@@ -1,0 +1,16 @@
+!SESSION 2013-12-16 14:16:26.797 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/johnwarren/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -clean -data /Users/johnwarren/workspace/medical_demo -clean -keyring /Users/johnwarren/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-12-16 14:16:46.787
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2013-12-16 14:16:49.055
+!MESSAGE No repository found at http://www.cranksoftware.com/cranksoftware/storyboard/repository/3.2.x/ide.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2013-12-16 14:16:49.542
+!MESSAGE No repository found at http://www.cranksoftware.com/cranksoftware/storyboard/repository/3.2.x/engine.

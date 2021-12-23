@@ -1,0 +1,78 @@
+
+gre.animate.complete.pressStdButton##pressStdButton animation complete #The animation named pressStdButton has completed
+
+gre.animate.complete.startScreenOpen##startScreenOpen animation complete #The animation named startScreenOpen has completed
+
+gre.animate.complete.startScreenToSettings##startScreenToSettings animation complete #The animation named startScreenToSettings has completed
+
+gre.animate.complete.openTempSettings##openTempSettings animation complete #The animation named openTempSettings has completed
+
+gre.animate.complete.openSpinSettings##openSpinSettings animation complete #The animation named openSpinSettings has completed
+
+gre.animate.complete.closeTempSettings##closeTempSettings animation complete #The animation named closeTempSettings has completed
+
+gre.animate.complete.closeSpinSettings##closeSpinSettings animation complete #The animation named closeSpinSettings has completed
+
+gre.animate.complete.WashingAnims_PreWashStart##WashingAnims_PreWashStart animation complete #The animation named WashingAnims_PreWashStart has completed
+
+gre.animate.complete.WashingAnims_PreWashFill##WashingAnims_PreWashFill animation complete #The animation named WashingAnims_PreWashFill has completed
+
+gre.animate.complete.WashingAnims_PreWashComplete##WashingAnims_PreWashComplete animation complete #The animation named WashingAnims_PreWashComplete has completed
+
+gre.animate.complete.WashingAnims_WashStart##WashingAnims_WashStart animation complete #The animation named WashingAnims_WashStart has completed
+
+gre.animate.complete.WashingAnims_WashCycle##WashingAnims_WashCycle animation complete #The animation named WashingAnims_WashCycle has completed
+
+gre.animate.complete.WashingAnims_WashComplete##WashingAnims_WashComplete animation complete #The animation named WashingAnims_WashComplete has completed
+
+gre.animate.complete.WashingAnims_RinseStart##WashingAnims_RinseStart animation complete #The animation named WashingAnims_RinseStart has completed
+
+gre.animate.complete.WashingAnims_RinseCycle##WashingAnims_RinseCycle animation complete #The animation named WashingAnims_RinseCycle has completed
+
+gre.animate.complete.WashingAnims_RinseComplete##WashingAnims_RinseComplete animation complete #The animation named WashingAnims_RinseComplete has completed
+
+gre.animate.complete.WashingAnims_SpinStart##WashingAnims_SpinStart animation complete #The animation named WashingAnims_SpinStart has completed
+
+gre.animate.complete.WashingAnims_SpinCycle##WashingAnims_SpinCycle animation complete #The animation named WashingAnims_SpinCycle has completed
+
+gre.animate.complete.WashingAnims_SpinComplete##WashingAnims_SpinComplete animation complete #The animation named WashingAnims_SpinComplete has completed
+
+gre.animate.complete.WashingAnims_Complete##WashingAnims_Complete animation complete #The animation named WashingAnims_Complete has completed
+
+gre.animate.complete.CompleteScreenOpen##CompleteScreenOpen animation complete #The animation named CompleteScreenOpen has completed
+
+timer.startToSettingsPause##timer.startToSettingsPause timer fired #The timer named timer.startToSettingsPause has fired
+
+gre.animate.complete.spinTitleAlphaOff##spinTitleAlphaOff animation complete #The animation named spinTitleAlphaOff has completed
+
+gre.animate.complete.spinTitleAlphaOn##spinTitleAlphaOn animation complete #The animation named spinTitleAlphaOn has completed
+
+gre.animate.complete.tempTitleAlphaOn##tempTitleAlphaOn animation complete #The animation named tempTitleAlphaOn has completed
+
+gre.animate.complete.tempTitleAlphaOff##tempTitleAlphaOff animation complete #The animation named tempTitleAlphaOff has completed
+
+checkTableEvent##checkTableEvent
+
+checkMinTableEvent##checkMinTableEvent
+
+checkHourTableEvent##checkHourTableEvent
+
+checkYearTableEvent##checkYearTableEvent
+
+checkMonthTableEvent##checkMonthTableEvent
+
+checkDateTableEvent##checkDateTableEvent
+
+gre.animate.complete.bubbles1##bubbles1 animation complete #The animation named bubbles1 has completed
+
+gre.animate.complete.water_bg##water_bg animation complete #The animation named water_bg has completed
+
+gre.animate.complete.water_bg_reversed##water_bg_reversed animation complete #The animation named water_bg_reversed has completed
+
+goToHomeScreen##goToHomeScreen
+
+gre.animate.complete.pressStartWash##pressStartWash animation complete #The animation named pressStartWash has completed
+
+gre.animate.complete.pressWashPause##pressWashPause animation complete #The animation named pressWashPause has completed
+
+gre.animate.complete.settings_pressExtra##settings_pressExtra animation complete #The animation named settings_pressExtra has completed

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item value="60" key="pref.default_fps"/>
+	<item value="1.0" key="pref.editor_zoom"/>
+	<item value="bottomIcons" key="pref.default_table_name"/>
+	<item value="${app:homeScreen.homeAbout.grd_hidden}&#x0A;${app:homeScreen.homeCustomize.grd_hidden}&#x0A;${app:homeSlider.botIcons.grd_y}&#x0A;${app:homeSlider.midIcons.grd_hidden}&#x0A;${app:homeSlider.settingsTrigger.alpha}&#x0A;${app:homeSlider.settingsTrigger.grd_hidden}&#x0A;${app:homeSlider.topIcons.grd_y}&#x0A;${app:homeSlider.washingBackground.alphaInner}&#x0A;${app:homeSlider.washingBackground.alpha}&#x0A;${app:homeSlider.washingBackground.angle}&#x0A;${app:homeSlider.washingBackground.grd_hidden}&#x0A;${app:homeSlider.washingBackground.height}&#x0A;${app:homeSlider.washingBackground.width}&#x0A;${app:washing.rotatingWater.image}" key="anim-TRANSITION_homeReset"/>
+	<item value="spinTitle" key="pref.default_control_name"/>
+	<item value="" key="anim-TRANSITION_EnergyShow"/>
+	<item value="${app:homeAbout.cycle.alpha}&#x0A;${app:homeAbout.cycle.grd_x}&#x0A;${app:homeAbout.cycleSignal_group.alpha}&#x0A;${app:homeAbout.cycleSignal_group.grd_x}&#x0A;${app:homeAbout.time.alpha}&#x0A;${app:homeAbout.time.grd_x}&#x0A;${app:homeScreen.homeAbout.grd_hidden}&#x0A;${app:homeScreen.homeCustomize.grd_hidden}" key="anim-HOME_reset"/>
+	<item value="${app:homeSlider.washingBackground.grd_hidden}&#x0A;${app:homeSlider.washingBackground.height}&#x0A;${app:homeSlider.washingBackground.width}&#x0A;${app:homeSlider.washingBackground.alpha}&#x0A;${app:homeSlider.topIcons.grd_y}&#x0A;${app:homeSlider.botIcons.grd_y}&#x0A;${app:homeSlider.midIcons.grd_hidden}&#x0A;${app:homeSlider.settingsTrigger.grd_hidden}&#x0A;${app:homeSlider.settingsTriggerTop.alpha}&#x0A;${app:homeSlider.settingsTriggerTop.grd_hidden}&#x0A;${app:homeSlider.settingsTrigger.alpha}&#x0A;${app:homeScreen.homeAbout.grd_hidden}&#x0A;${app:homeScreen.homeCustomize.grd_hidden}&#x0A;${app:homeSlider.washingBackground.alphaInner}&#x0A;${app:homeSlider.washingBackground.angle}&#x0A;${app:washing.washingBackground.angle1}&#x0A;${app:washing.washingBackground.angle2}&#x0A;${app:washing.washingBackground.angle3}" key="anim-TRANSITION_homeToWashing"/>
+	<item value="${app:homeSlider.settingsTriggerBot.alpha}&#x0A;${app:homeSlider.settingsTriggerBot.grd_hidden}&#x0A;${app:homeCustomize.spin.alpha}&#x0A;${app:homeCustomize.temp.alpha}&#x0A;${app:homeCustomize.soil.alpha}&#x0A;${app:homeAbout.cycleSignal_group.alpha}&#x0A;${app:homeAbout.time.alpha}&#x0A;${app:homeAbout.cycle.alpha}&#x0A;${app:homeScreen.homeCustomize.grd_hidden}&#x0A;${app:homeScreen.homeAbout.grd_hidden}&#x0A;${app:homeAbout.cycleSignal_group.grd_x}&#x0A;${app:homeAbout.time.grd_x}&#x0A;${app:homeAbout.cycle.grd_x}" key="anim-HOME_pressCustomize"/>
+	<item value="${app:text.stars.star1.alpha}&#x0A;${app:text.stars.star2.alpha}&#x0A;${app:text.stars.star3.alpha}&#x0A;${app:text.stars.star4.alpha}&#x0A;${app:text.stars.star5.alpha}&#x0A;${app:text.reset.alpha}&#x0A;${app:text.aboutWash.timeData.alpha}&#x0A;${app:text.aboutWash.waterData.alpha}&#x0A;${app:text.aboutWash.spinData.alpha}&#x0A;${app:text.aboutWash.timeTitle.alpha}&#x0A;${app:text.aboutWash.waterTitle.alpha}&#x0A;${app:text.aboutWash.spinTitle.alpha}" key="anim-TRANSITION_energyShow"/>
+	<item value="energyScreen" key="pref.default_screen_name"/>
+	<item value="" key="anim-TRANSITION_resetHome"/>
+	<item value="homeCustomize" key="pref.default_layer_name"/>
+	<item value="${control:pressAlpha}" key="anim-HOME_optionPress"/>
+	<item value="${app:washing.washingBackground.angle1}&#x0A;${app:washing.washingBackground.angle2}&#x0A;${app:washing.washingBackground.angle3}&#x0A;${app:washing.currentOperation.image}" key="anim-WASHING_outerArc"/>
+	<list key="pref.screen_list_order">
+		<item value="washingScreen"/>
+		<item value="homeScreen"/>
+		<item value="energyScreen"/>
+	</list>
+</section>

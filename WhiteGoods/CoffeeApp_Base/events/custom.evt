@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.brewButton" type="0x8">
+    <label>brewButton animation complete</label>
+    <description>The animation named brewButton has completed</description>
+  </event>
+  <event name="gre.animate.complete.brewToBrewing" type="0x8">
+    <label>brewToBrewing animation complete</label>
+    <description>The animation named brewToBrewing has completed</description>
+  </event>
+  <event name="gre.animate.complete.cupFill" type="0x8">
+    <label>cupFill animation complete</label>
+    <description>The animation named cupFill has completed</description>
+  </event>
+  <event name="gre.animate.complete.med" type="0x8">
+    <label>med animation complete</label>
+    <description>The animation named med has completed</description>
+  </event>
+  <event name="gre.animate.complete.ready" type="0x8">
+    <label>ready animation complete</label>
+    <description>The animation named ready has completed</description>
+  </event>
+  <event name="gre.animate.complete.showBrew" type="0x8">
+    <label>showBrew animation complete</label>
+    <description>The animation named showBrew has completed</description>
+  </event>
+  <event name="gre.animate.complete.showSizes" type="0x8">
+    <label>showSizes animation complete</label>
+    <description>The animation named showSizes has completed</description>
+  </event>
+  <event name="gre.animate.complete.size_large" type="0x8">
+    <label>size_large animation complete</label>
+    <description>The animation named size_large has completed</description>
+  </event>
+  <event name="gre.animate.complete.size_medium" type="0x8">
+    <label>size_medium animation complete</label>
+    <description>The animation named size_medium has completed</description>
+  </event>
+  <event name="gre.animate.complete.size_small" type="0x8">
+    <label>size_small animation complete</label>
+    <description>The animation named size_small has completed</description>
+  </event>
+  <event name="gre.animate.complete.start_to_size" type="0x8">
+    <label>start_to_size animation complete</label>
+    <description>The animation named start_to_size has completed</description>
+  </event>
+  <event name="gre.animate.complete.startButton" type="0x8">
+    <label>startButton animation complete</label>
+    <description>The animation named startButton has completed</description>
+  </event>
+  <event name="gre.animate.complete.stop" type="0x8">
+    <label>stop animation complete</label>
+    <description>The animation named stop has completed</description>
+  </event>
+  <event name="gre.animate.stop.brewButton" type="0x8">
+    <label>brewButton animation stopped</label>
+    <description>The animation named brewButton has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.brewToBrewing" type="0x8">
+    <label>brewToBrewing animation stopped</label>
+    <description>The animation named brewToBrewing has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.cupFill" type="0x8">
+    <label>cupFill animation stopped</label>
+    <description>The animation named cupFill has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.med" type="0x8">
+    <label>med animation stopped</label>
+    <description>The animation named med has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.ready" type="0x8">
+    <label>ready animation stopped</label>
+    <description>The animation named ready has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.showBrew" type="0x8">
+    <label>showBrew animation stopped</label>
+    <description>The animation named showBrew has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.showSizes" type="0x8">
+    <label>showSizes animation stopped</label>
+    <description>The animation named showSizes has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.size_large" type="0x8">
+    <label>size_large animation stopped</label>
+    <description>The animation named size_large has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.size_medium" type="0x8">
+    <label>size_medium animation stopped</label>
+    <description>The animation named size_medium has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.size_small" type="0x8">
+    <label>size_small animation stopped</label>
+    <description>The animation named size_small has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.start_to_size" type="0x8">
+    <label>start_to_size animation stopped</label>
+    <description>The animation named start_to_size has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.startButton" type="0x8">
+    <label>startButton animation stopped</label>
+    <description>The animation named startButton has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.stop" type="0x8">
+    <label>stop animation stopped</label>
+    <description>The animation named stop has been stopped</description>
+  </event>
+  <event name="timer.startScreen" type="0x8">
+    <label>timer.startScreen timer fired</label>
+    <description>The timer named timer.startScreen has fired</description>
+  </event>
+</eventdefinitions>

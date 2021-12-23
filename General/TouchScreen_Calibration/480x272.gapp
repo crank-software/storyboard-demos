@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gapp version="3.0">
+  <dimension format="ARGB8888" height="272" width="480"/>
+  <action input_event="gre.press" type="gra.lua">
+    <arg k="script">get_sample</arg>
+  </action>
+  <layers>
+    <layer height="272" name="calib" width="480">
+      <control name="background" template="background"/>
+      <control name="target" template="target"/>
+      <control name="control1" template="control1"/>
+    </layer>
+  </layers>
+  <screens>
+    <screen default="1" name="main">
+      <action input_event="gre.screenshow.pre" type="gra.lua">
+        <arg k="script">setup_calibration</arg>
+      </action>
+      <instance alpha="255" hidden="0" index="0" layer="calib" opaque="0" x="0" y="0"/>
+    </screen>
+  </screens>
+  <templates>
+    <control active="1" height="480" hidden="0" name="background" opaque="1" width="640" x="0" y="0">
+      <render handler="fill">
+        <arg k="alpha">255</arg>
+        <arg k="color">0xffffff</arg>
+        <arg k="halign">1</arg>
+        <arg k="rotation">0</arg>
+        <arg k="valign">1</arg>
+        <arg k="x">0</arg>
+        <arg k="y">0</arg>
+      </render>
+    </control>
+    <control active="1" height="34" hidden="0" name="control1" opaque="1" width="158" x="172" y="6">
+      <render handler="text">
+        <arg k="alpha">255</arg>
+        <arg k="color">0x0</arg>
+        <arg k="font">fonts/DejaVuSans.ttf</arg>
+        <arg k="halign">2</arg>
+        <arg k="letter-spacing">0</arg>
+        <arg k="line-height">100</arg>
+        <arg k="rotation">0</arg>
+        <arg k="size">12</arg>
+        <arg k="style">1</arg>
+        <arg k="text">Press target to calibrate</arg>
+        <arg k="underline">0</arg>
+        <arg k="valign">2</arg>
+        <arg k="wrap">0</arg>
+        <arg k="x">0</arg>
+        <arg k="y">0</arg>
+      </render>
+    </control>
+    <control active="1" height="40" hidden="0" name="target" opaque="1" width="40" x="-40" y="0">
+      <render handler="fill">
+        <arg k="alpha">255</arg>
+        <arg k="color">0x800000</arg>
+        <arg k="halign">1</arg>
+        <arg k="rotation">0</arg>
+        <arg k="valign">1</arg>
+        <arg k="x">0</arg>
+        <arg k="y">0</arg>
+      </render>
+      <render handler="fill">
+        <arg k="alpha">255</arg>
+        <arg k="color">0xffffff</arg>
+        <arg k="halign">2</arg>
+        <arg k="rotation">0</arg>
+        <arg k="valign">2</arg>
+        <arg k="width">2</arg>
+        <arg k="x">0</arg>
+        <arg k="y">0</arg>
+      </render>
+      <render handler="fill">
+        <arg k="alpha">255</arg>
+        <arg k="color">0xffffff</arg>
+        <arg k="halign">2</arg>
+        <arg k="height">2</arg>
+        <arg k="rotation">0</arg>
+        <arg k="valign">2</arg>
+        <arg k="x">0</arg>
+        <arg k="y">0</arg>
+      </render>
+    </control>
+  </templates>
+</gapp>

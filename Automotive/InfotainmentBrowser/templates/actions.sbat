@@ -1,0 +1,44 @@
+<actiontemplates> 
+ <template name="gra.web.load.url"> 
+  <arguments>
+   <element name="webview_name" type="string"/>
+   <element name="url" type="string"/>
+  </arguments> 
+ </template> 
+ <template name="gra.web.new.view"> 
+  <arguments>
+   <element name="webview_name" type="string"/>
+   <element name="x" type="integer"/>
+   <element name="y" type="integer"/>
+   <element name="width" type="integer"/>
+   <element name="height" type="integer"/>
+  </arguments> 
+ </template> 
+ <template name="gra.web.pan"> 
+  <arguments>
+   <element name="webview_name" type="string"/>
+   <element name="x" type="integer"/>
+   <element name="y" type="integer"/>
+  </arguments> 
+ </template> 
+ <template name="gra.web.back"> 
+  <arguments>
+   <element name="webview_name" type="string"/>
+  </arguments> 
+ </template>
+ <template name="gra.web.forward"> 
+  <arguments>
+   <element name="webview_name" type="string"/>
+  </arguments> 
+ </template> 
+ <template name="gra.web.refresh"> 
+  <arguments>
+   <element name="webview_name" type="string"/>
+  </arguments> 
+ </template> 
+ <template name="gra.web.stop"> 
+  <arguments>
+   <element name="webview_name" type="string"/>
+  </arguments> 
+ </template> 
+</actiontemplates> 

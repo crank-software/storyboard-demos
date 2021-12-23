@@ -1,0 +1,206 @@
+
+gre.animate.complete.HOME_moviePosterSelect##HOME_moviePosterSelect animation complete #The animation named HOME_moviePosterSelect has completed
+
+gre.animate.complete.HOME_moviePosterClose##HOME_moviePosterClose animation complete #The animation named HOME_moviePosterClose has completed
+
+gre.animate.complete.HOME_buyTicketsPress##HOME_buyTicketsPress animation complete #The animation named HOME_buyTicketsPress has completed
+
+gre.animate.complete.TIMES_increaseCount##TIMES_increaseCount animation complete #The animation named TIMES_increaseCount has completed
+
+gre.animate.complete.TIMES_decreaseCount##TIMES_decreaseCount animation complete #The animation named TIMES_decreaseCount has completed
+
+gre.animate.complete.TIMES_selectShowtime##TIMES_selectShowtime animation complete #The animation named TIMES_selectShowtime has completed
+
+gre.animate.complete.TIMES_unselectShowtime##TIMES_unselectShowtime animation complete #The animation named TIMES_unselectShowtime has completed
+
+gre.animate.complete.TRANSITION_postersToTime##TRANSITION_postersToTime animation complete #The animation named TRANSITION_postersToTime has completed
+
+gre.animate.complete.TRANSITION_showTime##TRANSITION_showTime animation complete #The animation named TRANSITION_showTime has completed
+
+gre.animate.complete.TIMES_deselectShowtime##TIMES_deselectShowtime animation complete #The animation named TIMES_deselectShowtime has completed
+
+gre.animate.complete.TIMES_selectSeatPress##TIMES_selectSeatPress animation complete #The animation named TIMES_selectSeatPress has completed
+
+gre.animate.complete.SEATS_selectSeat##SEATS_selectSeat animation complete #The animation named SEATS_selectSeat has completed
+
+gre.animate.complete.SEATS_pressConfirm##SEATS_pressConfirm animation complete #The animation named SEATS_pressConfirm has completed
+
+gre.animate.complete.TRANSITION_showConfirm##TRANSITION_showConfirm animation complete #The animation named TRANSITION_showConfirm has completed
+
+gre.animate.complete.APP_LoadingHides##APP_LoadingHides animation complete #The animation named APP_LoadingHides has completed
+
+gre.animate.complete.CONFIRM_pressPay##CONFIRM_pressPay animation complete #The animation named CONFIRM_pressPay has completed
+
+gre.animate.complete.CONFIRM_pressCancel##CONFIRM_pressCancel animation complete #The animation named CONFIRM_pressCancel has completed
+
+gre.animate.complete.CONFIRM_promptShow##CONFIRM_promptShow animation complete #The animation named CONFIRM_promptShow has completed
+
+gre.animate.complete.TRANSITION_showSeats##TRANSITION_showSeats animation complete #The animation named TRANSITION_showSeats has completed
+
+gre.animate.complete.MENU_finishAnimation##MENU_finishAnimation animation complete #The animation named MENU_finishAnimation has completed
+
+finishMovementEvent##finishMovementEvent
+
+gre.animate.complete.MENU_resetAnimation##MENU_resetAnimation animation complete #The animation named MENU_resetAnimation has completed
+
+gre.animate.complete.MENU_showMovies##MENU_showMovies animation complete #The animation named MENU_showMovies has completed
+
+gre.animate.complete.SEATS_seatsPopup##SEATS_seatsPopup animation complete #The animation named SEATS_seatsPopup has completed
+
+gre.animate.complete.SEATS_unselectSeat##SEATS_unselectSeat animation complete #The animation named SEATS_unselectSeat has completed
+
+gre.animate.complete.HOME_resetLayer1##HOME_resetLayer1 animation complete #The animation named HOME_resetLayer1 has completed
+
+gre.animate.complete.HOME_resetLayer3##HOME_resetLayer3 animation complete #The animation named HOME_resetLayer3 has completed
+
+gre.animate.complete.HOME_resetLayer2##HOME_resetLayer2 animation complete #The animation named HOME_resetLayer2 has completed
+
+gre.animate.complete.HOME_finishLayer1_UP##HOME_finishLayer1_UP animation complete #The animation named HOME_finishLayer1_UP has completed
+
+gre.animate.complete.HOME_finishLayer1_DOWN##HOME_finishLayer1_DOWN animation complete #The animation named HOME_finishLayer1_DOWN has completed
+
+gre.animate.complete.HOME_finishLayer2_UP##HOME_finishLayer2_UP animation complete #The animation named HOME_finishLayer2_UP has completed
+
+gre.animate.complete.HOME_finishLayer2_DOWN##HOME_finishLayer2_DOWN animation complete #The animation named HOME_finishLayer2_DOWN has completed
+
+gre.animate.complete.HOME_finishLayer3_UP##HOME_finishLayer3_UP animation complete #The animation named HOME_finishLayer3_UP has completed
+
+gre.animate.complete.HOME_finishLayer3_DOWN##HOME_finishLayer3_DOWN animation complete #The animation named HOME_finishLayer3_DOWN has completed
+
+resetMoviePosters##resetMoviePosters
+
+gre.animate.complete.SEATS_resetSeat##SEATS_resetSeat animation complete #The animation named SEATS_resetSeat has completed
+
+timer.appIdle##timer.appIdle timer fired #The timer named timer.appIdle has fired
+
+APP_idleReset##APP_idleReset
+
+gre.animate.complete._NEW_seatSelect##_NEW_seatSelect animation complete #The animation named _NEW_seatSelect has completed
+
+gre.animate.complete._NEW_seatUnselect##_NEW_seatUnselect animation complete #The animation named _NEW_seatUnselect has completed
+
+gre.animate.complete.HOME_carousel##HOME_carousel animation complete #The animation named HOME_carousel has completed
+
+HomeCarouselEvent##HomeCarouselEvent
+
+APP_CarouselEnd##APP_CarouselEnd
+
+APP_toHomeScreen##APP_toHomeScreen
+
+APP_resetBG##APP_resetBG
+
+gre.animate.complete.HOME_viewTrailerPress##HOME_viewTrailerPress animation complete #The animation named HOME_viewTrailerPress has completed
+
+gre.animate.complete.TRANSITION_showTrailer##TRANSITION_showTrailer animation complete #The animation named TRANSITION_showTrailer has completed
+
+gre.animate.complete.TRANSITION_postersToTrailer##TRANSITION_postersToTrailer animation complete #The animation named TRANSITION_postersToTrailer has completed
+
+gre.animate.complete.TRAILER_pressBuy##TRAILER_pressBuy animation complete #The animation named TRAILER_pressBuy has completed
+
+gre.animate.complete.TRANSITION_hideTrailer##TRANSITION_hideTrailer animation complete #The animation named TRANSITION_hideTrailer has completed
+
+gre.animate.complete.HOME_clearAnimations##HOME_clearAnimations animation complete #The animation named HOME_clearAnimations has completed
+
+gre.animate.complete.HOME_moviePosterImmediateClose##HOME_moviePosterImmediateClose animation complete #The animation named HOME_moviePosterImmediateClose has completed
+
+restartTrailerEvent##restartTrailerEvent
+
+gre.media.complete 1s33 channel 1s0 name##gre.media.complete
+
+gre.media.statechange 1s33 channel_name 1s0 state##gre.media.statechange
+
+gre.animate.complete.TRANSITION_3DTheatreSpin##TRANSITION_3DTheatreSpin animation complete #The animation named TRANSITION_3DTheatreSpin has completed
+
+gre.animate.complete.TRANSITION_TimesToTheatreSpin##TRANSITION_TimesToTheatreSpin animation complete #The animation named TRANSITION_TimesToTheatreSpin has completed
+
+gre.animate.stop.HOME_viewTrailerPress##HOME_viewTrailerPress animation complete #The animation named HOME_viewTrailerPress has been stopped
+
+gre.animate.stop.MENU_finishAnimation##MENU_finishAnimation animation complete #The animation named MENU_finishAnimation has been stopped
+
+gre.animate.stop.SEATS_seatsPopup##SEATS_seatsPopup animation complete #The animation named SEATS_seatsPopup has been stopped
+
+gre.animate.stop.APP_LoadingHides##APP_LoadingHides animation complete #The animation named APP_LoadingHides has been stopped
+
+gre.animate.stop.HOME_moviePosterSelect##HOME_moviePosterSelect animation complete #The animation named HOME_moviePosterSelect has been stopped
+
+gre.animate.stop.HOME_moviePosterImmediateClose##HOME_moviePosterImmediateClose animation complete #The animation named HOME_moviePosterImmediateClose has been stopped
+
+gre.animate.stop._NEW_seatSelect##_NEW_seatSelect animation complete #The animation named _NEW_seatSelect has been stopped
+
+gre.animate.stop.TRANSITION_postersToTime##TRANSITION_postersToTime animation complete #The animation named TRANSITION_postersToTime has been stopped
+
+gre.animate.stop.HOME_clearAnimations##HOME_clearAnimations animation complete #The animation named HOME_clearAnimations has been stopped
+
+gre.animate.stop.SEATS_unselectSeat##SEATS_unselectSeat animation complete #The animation named SEATS_unselectSeat has been stopped
+
+gre.animate.stop.HOME_moviePosterClose##HOME_moviePosterClose animation complete #The animation named HOME_moviePosterClose has been stopped
+
+gre.animate.stop.HOME_carousel##HOME_carousel animation complete #The animation named HOME_carousel has been stopped
+
+gre.animate.stop.TRANSITION_3DTheatreSpin##TRANSITION_3DTheatreSpin animation complete #The animation named TRANSITION_3DTheatreSpin has been stopped
+
+gre.animate.stop.SEATS_pressConfirm##SEATS_pressConfirm animation complete #The animation named SEATS_pressConfirm has been stopped
+
+gre.animate.stop._NEW_seatUnselect##_NEW_seatUnselect animation complete #The animation named _NEW_seatUnselect has been stopped
+
+gre.animate.stop.HOME_finishLayer2_UP##HOME_finishLayer2_UP animation complete #The animation named HOME_finishLayer2_UP has been stopped
+
+gre.animate.stop.TRANSITION_showTrailer##TRANSITION_showTrailer animation complete #The animation named TRANSITION_showTrailer has been stopped
+
+gre.animate.stop.TRANSITION_postersToTrailer##TRANSITION_postersToTrailer animation complete #The animation named TRANSITION_postersToTrailer has been stopped
+
+gre.animate.stop.CONFIRM_pressCancel##CONFIRM_pressCancel animation complete #The animation named CONFIRM_pressCancel has been stopped
+
+gre.animate.stop.MENU_resetAnimation##MENU_resetAnimation animation complete #The animation named MENU_resetAnimation has been stopped
+
+gre.animate.stop.TIMES_increaseCount##TIMES_increaseCount animation complete #The animation named TIMES_increaseCount has been stopped
+
+gre.animate.stop.HOME_finishLayer2_DOWN##HOME_finishLayer2_DOWN animation complete #The animation named HOME_finishLayer2_DOWN has been stopped
+
+gre.animate.stop.TIMES_selectSeatPress##TIMES_selectSeatPress animation complete #The animation named TIMES_selectSeatPress has been stopped
+
+gre.animate.stop.SEATS_resetSeat##SEATS_resetSeat animation complete #The animation named SEATS_resetSeat has been stopped
+
+gre.animate.stop.TRAILER_pressBuy##TRAILER_pressBuy animation complete #The animation named TRAILER_pressBuy has been stopped
+
+gre.animate.stop.HOME_resetLayer1##HOME_resetLayer1 animation complete #The animation named HOME_resetLayer1 has been stopped
+
+gre.animate.stop.HOME_finishLayer3_DOWN##HOME_finishLayer3_DOWN animation complete #The animation named HOME_finishLayer3_DOWN has been stopped
+
+gre.animate.stop.HOME_buyTicketsPress##HOME_buyTicketsPress animation complete #The animation named HOME_buyTicketsPress has been stopped
+
+gre.animate.stop.TRANSITION_hideTrailer##TRANSITION_hideTrailer animation complete #The animation named TRANSITION_hideTrailer has been stopped
+
+gre.animate.stop.SEATS_selectSeat##SEATS_selectSeat animation complete #The animation named SEATS_selectSeat has been stopped
+
+gre.animate.stop.TIMES_selectShowtime##TIMES_selectShowtime animation complete #The animation named TIMES_selectShowtime has been stopped
+
+gre.animate.stop.TRANSITION_showConfirm##TRANSITION_showConfirm animation complete #The animation named TRANSITION_showConfirm has been stopped
+
+gre.animate.stop.TRANSITION_showSeats##TRANSITION_showSeats animation complete #The animation named TRANSITION_showSeats has been stopped
+
+gre.animate.stop.TRANSITION_showTime##TRANSITION_showTime animation complete #The animation named TRANSITION_showTime has been stopped
+
+gre.animate.stop.HOME_finishLayer1_DOWN##HOME_finishLayer1_DOWN animation complete #The animation named HOME_finishLayer1_DOWN has been stopped
+
+gre.animate.stop.HOME_finishLayer3_UP##HOME_finishLayer3_UP animation complete #The animation named HOME_finishLayer3_UP has been stopped
+
+gre.animate.stop.HOME_resetLayer3##HOME_resetLayer3 animation complete #The animation named HOME_resetLayer3 has been stopped
+
+gre.animate.stop.HOME_finishLayer1_UP##HOME_finishLayer1_UP animation complete #The animation named HOME_finishLayer1_UP has been stopped
+
+gre.animate.stop.HOME_resetLayer2##HOME_resetLayer2 animation complete #The animation named HOME_resetLayer2 has been stopped
+
+gre.animate.stop.MENU_showMovies##MENU_showMovies animation complete #The animation named MENU_showMovies has been stopped
+
+gre.animate.stop.TIMES_unselectShowtime##TIMES_unselectShowtime animation complete #The animation named TIMES_unselectShowtime has been stopped
+
+gre.animate.stop.CONFIRM_pressPay##CONFIRM_pressPay animation complete #The animation named CONFIRM_pressPay has been stopped
+
+gre.animate.stop.TIMES_decreaseCount##TIMES_decreaseCount animation complete #The animation named TIMES_decreaseCount has been stopped
+
+gre.animate.stop.TIMES_deselectShowtime##TIMES_deselectShowtime animation complete #The animation named TIMES_deselectShowtime has been stopped
+
+gre.animate.stop.CONFIRM_promptShow##CONFIRM_promptShow animation complete #The animation named CONFIRM_promptShow has been stopped
+
+gre.animate.stop.TRANSITION_TimesToTheatreSpin##TRANSITION_TimesToTheatreSpin animation complete #The animation named TRANSITION_TimesToTheatreSpin has been stopped

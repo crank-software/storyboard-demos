@@ -1,0 +1,132 @@
+
+gre.animate.complete.AMBIENT_IdleScreen##AMBIENT_IdleScreen animation complete #The animation named AMBIENT_IdleScreen has completed
+
+gre.animate.stop.AMBIENT_IdleScreen##AMBIENT_IdleScreen animation stoppped #The animation named AMBIENT_IdleScreen has been stopped
+
+gre.animate.complete.TRANSITION_IdleToRecipe##TRANSITION_IdleToRecipe animation complete #The animation named TRANSITION_IdleToRecipe has completed
+
+gre.animate.stop.TRANSITION_IdleToRecipe##TRANSITION_IdleToRecipe animation stoppped #The animation named TRANSITION_IdleToRecipe has been stopped
+
+setupRecipeThumbsEvent##setupRecipeThumbsEvent
+
+gre.animate.complete.RECIPE_OpenRecipe##RECIPE_OpenRecipe animation complete #The animation named RECIPE_OpenRecipe has completed
+
+gre.animate.stop.RECIPE_OpenRecipe##RECIPE_OpenRecipe animation stoppped #The animation named RECIPE_OpenRecipe has been stopped
+
+gre.animate.complete.AMBIENT_StartButton##AMBIENT_StartButton animation complete #The animation named AMBIENT_StartButton has completed
+
+gre.animate.stop.AMBIENT_StartButton##AMBIENT_StartButton animation stoppped #The animation named AMBIENT_StartButton has been stopped
+
+gre.animate.complete.INSTRUCTION_PressLarge##INSTRUCTION_PressLarge animation complete #The animation named INSTRUCTION_PressLarge has completed
+
+gre.animate.stop.INSTRUCTION_PressLarge##INSTRUCTION_PressLarge animation stopped #The animation named INSTRUCTION_PressLarge has been stopped
+
+gre.animate.complete.INSTRUCTION_PressSmall##INSTRUCTION_PressSmall animation complete #The animation named INSTRUCTION_PressSmall has completed
+
+gre.animate.stop.INSTRUCTION_PressSmall##INSTRUCTION_PressSmall animation stopped #The animation named INSTRUCTION_PressSmall has been stopped
+
+gre.animate.complete.SETUP_BakeBroilSelect##SETUP_BakeBroilSelect animation complete #The animation named SETUP_BakeBroilSelect has completed
+
+gre.animate.stop.SETUP_BakeBroilSelect##SETUP_BakeBroilSelect animation stopped #The animation named SETUP_BakeBroilSelect has been stopped
+
+gre.animate.complete.SETUP_BakeBroilUnselect##SETUP_BakeBroilUnselect animation complete #The animation named SETUP_BakeBroilUnselect has completed
+
+gre.animate.stop.SETUP_BakeBroilUnselect##SETUP_BakeBroilUnselect animation stopped #The animation named SETUP_BakeBroilUnselect has been stopped
+
+gre.animate.complete.SETUP_CloseButton##SETUP_CloseButton animation complete #The animation named SETUP_CloseButton has completed
+
+gre.animate.stop.SETUP_CloseButton##SETUP_CloseButton animation stopped #The animation named SETUP_CloseButton has been stopped
+
+gre.animate.complete.SETUP_OpenButton##SETUP_OpenButton animation complete #The animation named SETUP_OpenButton has completed
+
+gre.animate.complete.SETUP_OpenTempSlider##SETUP_OpenTempSlider animation complete #The animation named SETUP_OpenTempSlider has completed
+
+gre.animate.complete.SETUP_OpenTimeSlider##SETUP_OpenTimeSlider animation complete #The animation named SETUP_OpenTimeSlider has completed
+
+gre.animate.stop.SETUP_OpenButton##SETUP_OpenButton animation stopped #The animation named SETUP_OpenButton has been stopped
+
+gre.animate.stop.SETUP_OpenTempSlider##SETUP_OpenTempSlider animation stopped #The animation named SETUP_OpenTempSlider has been stopped
+
+gre.animate.stop.SETUP_OpenTimeSlider##SETUP_OpenTimeSlider animation stopped #The animation named SETUP_OpenTimeSlider has been stopped
+
+gre.animate.complete.SETUP_CloseTempSlider##SETUP_CloseTempSlider animation complete #The animation named SETUP_CloseTempSlider has completed
+
+gre.animate.stop.SETUP_CloseTempSlider##SETUP_CloseTempSlider animation stopped #The animation named SETUP_CloseTempSlider has been stopped
+
+gre.animate.complete.SETUP_CloseTimeSlider##SETUP_CloseTimeSlider animation complete #The animation named SETUP_CloseTimeSlider has completed
+
+gre.animate.stop.SETUP_CloseTimeSlider##SETUP_CloseTimeSlider animation stopped #The animation named SETUP_CloseTimeSlider has been stopped
+
+gre.animate.complete.SETUP_OpenTempSliderTwo##SETUP_OpenTempSliderTwo animation complete #The animation named SETUP_OpenTempSliderTwo has completed
+
+gre.animate.complete.SETUP_CloseTempSliderTwo##SETUP_CloseTempSliderTwo animation complete #The animation named SETUP_CloseTempSliderTwo has completed
+
+gre.animate.stop.SETUP_OpenTempSliderTwo##SETUP_OpenTempSliderTwo animation stopped #The animation named SETUP_OpenTempSliderTwo has been stopped
+
+gre.animate.stop.SETUP_CloseTempSliderTwo##SETUP_CloseTempSliderTwo animation stopped #The animation named SETUP_CloseTempSliderTwo has been stopped
+
+setupTriggeredEvent##setupTriggeredEvent
+
+gre.animate.complete.INSTRUCTION_PressInstructionThumb##INSTRUCTION_PressInstructionThumb animation complete #The animation named INSTRUCTION_PressInstructionThumb has completed
+
+gre.animate.stop.INSTRUCTION_PressInstructionThumb##INSTRUCTION_PressInstructionThumb animation stopped #The animation named INSTRUCTION_PressInstructionThumb has been stopped
+
+gre.animate.complete.INSTRUCTION_DeselectInstructionThumb##INSTRUCTION_DeselectInstructionThumb animation complete #The animation named INSTRUCTION_DeselectInstructionThumb has completed
+
+gre.animate.stop.INSTRUCTION_DeselectInstructionThumb##INSTRUCTION_DeselectInstructionThumb animation stopped #The animation named INSTRUCTION_DeselectInstructionThumb has been stopped
+
+gre.animate.complete.INSTRUCTION_resetLarge##INSTRUCTION_resetLarge animation complete #The animation named INSTRUCTION_resetLarge has completed
+
+gre.animate.stop.INSTRUCTION_resetLarge##INSTRUCTION_resetLarge animation stopped #The animation named INSTRUCTION_resetLarge has been stopped
+
+gre.animate.complete.INSTRUCTION_resetSmall##INSTRUCTION_resetSmall animation complete #The animation named INSTRUCTION_resetSmall has completed
+
+gre.animate.complete.INSTRUCTION_RevealSteps##INSTRUCTION_RevealSteps animation complete #The animation named INSTRUCTION_RevealSteps has completed
+
+gre.animate.stop.INSTRUCTION_resetSmall##INSTRUCTION_resetSmall animation stopped #The animation named INSTRUCTION_resetSmall has been stopped
+
+gre.animate.stop.INSTRUCTION_RevealSteps##INSTRUCTION_RevealSteps animation stopped #The animation named INSTRUCTION_RevealSteps has been stopped
+
+instructionResetEvent##instructionResetEvent
+
+gre.animate.complete.TRANSITION_RecipeToInstruction##TRANSITION_RecipeToInstruction animation complete #The animation named TRANSITION_RecipeToInstruction has completed
+
+gre.animate.stop.TRANSITION_RecipeToInstruction##TRANSITION_RecipeToInstruction animation stopped #The animation named TRANSITION_RecipeToInstruction has been stopped
+
+gre.animate.complete.TRANSITION_InstructionShow##TRANSITION_InstructionShow animation complete #The animation named TRANSITION_InstructionShow has completed
+
+gre.animate.stop.TRANSITION_InstructionShow##TRANSITION_InstructionShow animation stopped #The animation named TRANSITION_InstructionShow has been stopped
+
+gre.animate.complete.TRANSITION_InstructionHide##TRANSITION_InstructionHide animation complete #The animation named TRANSITION_InstructionHide has completed
+
+gre.animate.stop.TRANSITION_InstructionHide##TRANSITION_InstructionHide animation stopped #The animation named TRANSITION_InstructionHide has been stopped
+
+gre.animate.complete.AMBIENT_OvenOn##AMBIENT_OvenOn animation complete #The animation named AMBIENT_OvenOn has completed
+
+gre.animate.stop.AMBIENT_OvenOn##AMBIENT_OvenOn animation stopped #The animation named AMBIENT_OvenOn has been stopped
+
+gre.animate.complete.TRANSITION_ToIdle##TRANSITION_ToIdle animation complete #The animation named TRANSITION_ToIdle has completed
+
+gre.animate.stop.TRANSITION_ToIdle##TRANSITION_ToIdle animation stopped #The animation named TRANSITION_ToIdle has been stopped
+
+goToAppIdle##goToAppIdle
+
+resetSlidersEvent##resetSlidersEvent
+
+gre.animate.complete.SETUP_OpenTimeSliderTwo##SETUP_OpenTimeSliderTwo animation complete #The animation named SETUP_OpenTimeSliderTwo has completed
+
+gre.animate.stop.SETUP_OpenTimeSliderTwo##SETUP_OpenTimeSliderTwo animation stopped #The animation named SETUP_OpenTimeSliderTwo has been stopped
+
+gre.animate.complete.OVEN_PressControl##OVEN_PressControl animation complete #The animation named OVEN_PressControl has completed
+
+gre.animate.complete.SETUP_CloseTimeSliderTwo##SETUP_CloseTimeSliderTwo animation complete #The animation named SETUP_CloseTimeSliderTwo has completed
+
+gre.animate.stop.OVEN_PressControl##OVEN_PressControl animation stopped #The animation named OVEN_PressControl has been stopped
+
+gre.animate.stop.SETUP_CloseTimeSliderTwo##SETUP_CloseTimeSliderTwo animation stopped #The animation named SETUP_CloseTimeSliderTwo has been stopped
+
+gre.animate.complete.AMBIENT_BakingScreen##AMBIENT_BakingScreen animation complete #The animation named AMBIENT_BakingScreen has completed
+
+gre.animate.stop.AMBIENT_BakingScreen##AMBIENT_BakingScreen animation stopped #The animation named AMBIENT_BakingScreen has been stopped
+
+instructionOffsetEvent

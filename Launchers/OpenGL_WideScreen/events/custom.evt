@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="callBlurEvent" type="0x0"/>
+  <event name="gre.animate.complete._TEST_movement" type="0x8">
+    <label>_TEST_movement animation complete</label>
+    <description>The animation named _TEST_movement has completed</description>
+  </event>
+  <event name="gre.animate.complete.AMBIENT_bgDoppler" type="0x8">
+    <label>AMBIENT_bgDoppler animation complete</label>
+    <description>The animation named AMBIENT_bgDoppler has completed</description>
+  </event>
+  <event name="gre.animate.complete.AMBIENT_dashedCircles" type="0x8">
+    <label>AMBIENT_dashedCircles animation complete</label>
+    <description>The animation named AMBIENT_dashedCircles has completed</description>
+  </event>
+  <event name="gre.animate.complete.AMBIENT_Logo" type="0x8">
+    <label>AMBIENT_Logo animation complete</label>
+    <description>The animation named AMBIENT_Logo has completed</description>
+  </event>
+  <event name="gre.animate.complete.AMBIENT_rotatesScreenshots" type="0x8">
+    <label>AMBIENT_rotatesScreenshots animation complete</label>
+    <description>The animation named AMBIENT_rotatesScreenshots has completed</description>
+  </event>
+  <event name="gre.animate.complete.DETAILS_circleCollapse" type="0x8">
+    <label>DETAILS_circleCollapse animation complete</label>
+    <description>The animation named DETAILS_circleCollapse has completed</description>
+  </event>
+  <event name="gre.animate.complete.DETAILS_circleTransition" type="0x8">
+    <label>DETAILS_circleTransition animation complete</label>
+    <description>The animation named DETAILS_circleTransition has completed</description>
+  </event>
+  <event name="gre.animate.complete.LIST_select" type="0x8">
+    <label>LIST_select animation complete</label>
+    <description>The animation named LIST_select has completed</description>
+  </event>
+  <event name="gre.animate.complete.LIST_unselected" type="0x8">
+    <label>LIST_unselected animation complete</label>
+    <description>The animation named LIST_unselected has completed</description>
+  </event>
+  <event name="gre.animate.complete.PRESS_launchAnim" type="0x8">
+    <label>PRESS_launchAnim animation complete</label>
+    <description>The animation named PRESS_launchAnim has completed</description>
+  </event>
+  <event name="gre.animate.complete.PRESS_launchAnimReset" type="0x8">
+    <label>PRESS_launchAnimReset animation complete</label>
+    <description>The animation named PRESS_launchAnimReset has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_hideBoard" type="0x8">
+    <label>TRANSITION_hideBoard animation complete</label>
+    <description>The animation named TRANSITION_hideBoard has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_launch" type="0x8">
+    <label>TRANSITION_launch animation complete</label>
+    <description>The animation named TRANSITION_launch has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_launchCirclers" type="0x8">
+    <label>TRANSITION_launchCirclers animation complete</label>
+    <description>The animation named TRANSITION_launchCirclers has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_launchCirclesReset" type="0x8">
+    <label>TRANSITION_launchCirclesReset animation complete</label>
+    <description>The animation named TRANSITION_launchCirclesReset has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_launchReset" type="0x8">
+    <label>TRANSITION_launchReset animation complete</label>
+    <description>The animation named TRANSITION_launchReset has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_ripple" type="0x8">
+    <label>TRANSITION_ripple animation complete</label>
+    <description>The animation named TRANSITION_ripple has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_showBoard" type="0x8">
+    <label>TRANSITION_showBoard animation complete</label>
+    <description>The animation named TRANSITION_showBoard has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_swapDesc" type="0x8">
+    <label>TRANSITION_swapDesc animation complete</label>
+    <description>The animation named TRANSITION_swapDesc has completed</description>
+  </event>
+  <event name="gre.animate.stop._TEST_movement" type="0x8">
+    <label>_TEST_movement animation stopped</label>
+    <description>The animation named _TEST_movement has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.AMBIENT_bgDoppler" type="0x8">
+    <label>AMBIENT_bgDoppler animation stopped</label>
+    <description>The animation named AMBIENT_bgDoppler has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.AMBIENT_dashedCircles" type="0x8">
+    <label>AMBIENT_dashedCircles animation stopped</label>
+    <description>The animation named AMBIENT_dashedCircles has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.AMBIENT_Logo" type="0x8">
+    <label>AMBIENT_Logo animation stopped</label>
+    <description>The animation named AMBIENT_Logo has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.AMBIENT_rotatesScreenshots" type="0x8">
+    <label>AMBIENT_rotatesScreenshots animation stopped</label>
+    <description>The animation named AMBIENT_rotatesScreenshots has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.DETAILS_circleCollapse" type="0x8">
+    <label>DETAILS_circleCollapse animation stopped</label>
+    <description>The animation named DETAILS_circleCollapse has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.DETAILS_circleTransition" type="0x8">
+    <label>DETAILS_circleTransition animation stopped</label>
+    <description>The animation named DETAILS_circleTransition has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.LIST_select" type="0x8">
+    <label>LIST_select animation stopped</label>
+    <description>The animation named LIST_select has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.LIST_unselected" type="0x8">
+    <label>LIST_unselected animation stopped</label>
+    <description>The animation named LIST_unselected has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.PRESS_launchAnim" type="0x8">
+    <label>PRESS_launchAnim animation stopped</label>
+    <description>The animation named PRESS_launchAnim has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.PRESS_launchAnimReset" type="0x8">
+    <label>PRESS_launchAnimReset animation stopped</label>
+    <description>The animation named PRESS_launchAnimReset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_hideBoard" type="0x8">
+    <label>TRANSITION_hideBoard animation stopped</label>
+    <description>The animation named TRANSITION_hideBoard has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_launch" type="0x8">
+    <label>TRANSITION_launch animation stopped</label>
+    <description>The animation named TRANSITION_launch has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_launchCirclers" type="0x8">
+    <label>TRANSITION_launchCirclers animation stopped</label>
+    <description>The animation named TRANSITION_launchCirclers has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_launchCirclesReset" type="0x8">
+    <label>TRANSITION_launchCirclesReset animation stopped</label>
+    <description>The animation named TRANSITION_launchCirclesReset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_launchReset" type="0x8">
+    <label>TRANSITION_launchReset animation stopped</label>
+    <description>The animation named TRANSITION_launchReset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_ripple" type="0x8">
+    <label>TRANSITION_ripple animation stopped</label>
+    <description>The animation named TRANSITION_ripple has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_showBoard" type="0x8">
+    <label>TRANSITION_showBoard animation stopped</label>
+    <description>The animation named TRANSITION_showBoard has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_swapDesc" type="0x8">
+    <label>TRANSITION_swapDesc animation stopped</label>
+    <description>The animation named TRANSITION_swapDesc has been stopped</description>
+  </event>
+  <event name="loadingEvent" type="0x0"/>
+  <event name="shatterUpdate" type="0x0"/>
+  <event name="stopAnimation" type="0x0"/>
+  <event name="stopRotatingScreens" type="0x0"/>
+</eventdefinitions>

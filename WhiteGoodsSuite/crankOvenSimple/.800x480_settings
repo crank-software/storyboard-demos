@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item value="1.0" key="pref.editor_zoom"/>
+	<item value="Control" key="pref.default_control_name"/>
+	<item value="${group:textSelected.grd_hidden}&#x0A;${group:textUnselected.grd_hidden}&#x0A;${group:overlay.alpha}&#x0A;${group:overlay.width}&#x0A;${group:overlay.grd_hidden}" key="anim-SETUP_optionSelect"/>
+</section>

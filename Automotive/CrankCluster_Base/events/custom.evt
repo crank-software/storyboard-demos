@@ -1,0 +1,90 @@
+
+gre.animate.complete.needles##needles animation complete #The animation named needles has completed
+
+tach_update##tach_update
+
+speed_update##speed_update
+
+timer.start_tire_warning##timer.start_tire_warning timer fired #The timer named timer.start_tire_warning has fired
+
+timer.show_warnings##timer.show_warnings timer fired #The timer named timer.show_warnings has fired
+
+show_warning_tire_pressure##show_warning_tire_pressure
+
+gre.animate.complete.warning_tire_pressure##warning_tire_pressure animation complete #The animation named warning_tire_pressure has completed
+
+show_message##show_message #External message request
+
+hide_message##hide_message #External message request
+
+show_message_animation##show_message_animation #Animate the showing of a message
+
+hide_message_animation##hide_message_animation #Animate the hiding of a message
+
+show_navigation##show_navigation
+
+gre.animate.complete.start_navigation##start_navigation animation complete #The animation named start_navigation has completed
+
+show_warning##show_warning
+
+gre.animate.complete.next_turn##next_turn animation complete #The animation named next_turn has completed
+
+show_signals##show_signals
+
+gre.animate.complete.signals##signals animation complete #The animation named signals has completed
+
+timer.turn_timer##timer.turn_timer timer fired #The timer named timer.turn_timer has fired
+
+show_turn##show_turn
+
+gre.animate.complete.warning_phone##warning_phone animation complete #The animation named warning_phone has completed
+
+gre.animate.complete.hide_warning_remaining##hide_warning_remaining animation complete #The animation named hide_warning_remaining has completed
+
+gre.animate.complete.hide_warning_engine##hide_warning_engine animation complete #The animation named hide_warning_engine has completed
+
+gre.animate.complete.hide_warning_gas##hide_warning_gas animation complete #The animation named hide_warning_gas has completed
+
+gre.animate.complete.warning_engine##warning_engine animation complete #The animation named warning_engine has completed
+
+gre.animate.complete.warning_remaining##warning_remaining animation complete #The animation named warning_remaining has completed
+
+gre.animate.complete.hide_warning_phone##hide_warning_phone animation complete #The animation named hide_warning_phone has completed
+
+gre.animate.complete.warning_gas##warning_gas animation complete #The animation named warning_gas has completed
+
+gre.animate.complete.hide_warning_tire_pressure##hide_warning_tire_pressure animation complete #The animation named hide_warning_tire_pressure has completed
+
+timer.signal_timer##timer.signal_timer timer fired #The timer named timer.signal_timer has fired
+
+gre.animate.complete.show_navigation##show_navigation animation complete #The animation named show_navigation has completed
+
+gre.animate.stop.needles##needles animation stopped #The animation named needles has been stopped
+
+gre.animate.stop.warning_phone##warning_phone animation stopped #The animation named warning_phone has been stopped
+
+gre.animate.stop.hide_warning_gas##hide_warning_gas animation stopped #The animation named hide_warning_gas has been stopped
+
+gre.animate.stop.warning_engine##warning_engine animation stopped #The animation named warning_engine has been stopped
+
+gre.animate.stop.next_turn##next_turn animation stopped #The animation named next_turn has been stopped
+
+gre.animate.stop.show_navigation##show_navigation animation stopped #The animation named show_navigation has been stopped
+
+gre.animate.stop.hide_warning_engine##hide_warning_engine animation stopped #The animation named hide_warning_engine has been stopped
+
+gre.animate.stop.hide_warning_remaining##hide_warning_remaining animation stopped #The animation named hide_warning_remaining has been stopped
+
+gre.animate.stop.start_navigation##start_navigation animation stopped #The animation named start_navigation has been stopped
+
+gre.animate.stop.hide_warning_tire_pressure##hide_warning_tire_pressure animation stopped #The animation named hide_warning_tire_pressure has been stopped
+
+gre.animate.stop.warning_gas##warning_gas animation stopped #The animation named warning_gas has been stopped
+
+gre.animate.stop.signals##signals animation stopped #The animation named signals has been stopped
+
+gre.animate.stop.warning_tire_pressure##warning_tire_pressure animation stopped #The animation named warning_tire_pressure has been stopped
+
+gre.animate.stop.hide_warning_phone##hide_warning_phone animation stopped #The animation named hide_warning_phone has been stopped
+
+gre.animate.stop.warning_remaining##warning_remaining animation stopped #The animation named warning_remaining has been stopped

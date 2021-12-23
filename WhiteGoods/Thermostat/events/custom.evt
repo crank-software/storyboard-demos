@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.SCHEDULE_next" type="0x8">
+    <label>SCHEDULE_next animation complete</label>
+    <description>The animation named SCHEDULE_next has completed</description>
+  </event>
+  <event name="gre.animate.complete.THERMO_modePress" type="0x8">
+    <label>THERMO_modePress animation complete</label>
+    <description>The animation named THERMO_modePress has completed</description>
+  </event>
+  <event name="gre.animate.complete.THERMO_tempPress" type="0x8">
+    <label>THERMO_tempPress animation complete</label>
+    <description>The animation named THERMO_tempPress has completed</description>
+  </event>
+  <event name="gre.animate.complete.THERMO_tempRelease" type="0x8">
+    <label>THERMO_tempRelease animation complete</label>
+    <description>The animation named THERMO_tempRelease has completed</description>
+  </event>
+  <event name="gre.animate.stop.SCHEDULE_next" type="0x8">
+    <label>SCHEDULE_next animation stopped</label>
+    <description>The animation named SCHEDULE_next has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.THERMO_modePress" type="0x8">
+    <label>THERMO_modePress animation stopped</label>
+    <description>The animation named THERMO_modePress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.THERMO_tempPress" type="0x8">
+    <label>THERMO_tempPress animation stopped</label>
+    <description>The animation named THERMO_tempPress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.THERMO_tempRelease" type="0x8">
+    <label>THERMO_tempRelease animation stopped</label>
+    <description>The animation named THERMO_tempRelease has been stopped</description>
+  </event>
+  <event name="timeTableMovement" type="0x10"/>
+  <event name="toScheduleScreen" type="0x10"/>
+  <event name="toTimeScreen" type="0x10"/>
+</eventdefinitions>

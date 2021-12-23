@@ -1,0 +1,22 @@
+
+gre.animate.complete.needles##needles animation complete #The animation named needles has completed
+
+timer.turn_timer##timer.turn_timer timer fired #The timer named timer.turn_timer has fired
+
+gre.animate.complete.next_turn##next_turn animation complete #The animation named next_turn has completed
+
+timer.timeupdate##timer.timeupdate timer fired #The timer named timer.timeupdate has fired
+
+speed_update
+
+tach_update
+
+gre.animate.complete.show_gas_warning##show_gas_warning animation complete #The animation named show_gas_warning has completed
+
+show_wanring
+
+show_warning
+
+timer.hide_gas_wanring##timer.hide_gas_wanring timer fired #The timer named timer.hide_gas_wanring has fired
+
+gre.animate.complete.hide_gas_warning##hide_gas_warning animation complete #The animation named hide_gas_warning has completed

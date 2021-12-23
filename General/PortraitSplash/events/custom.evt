@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.crank_web" type="0x8">
+    <label>crank_web animation complete</label>
+    <description>The animation named crank_web has completed</description>
+  </event>
+  <event name="gre.animate.complete.logo_animation" type="0x8">
+    <label>logo_animation animation complete</label>
+    <description>The animation named logo_animation has completed</description>
+  </event>
+  <event name="gre.animate.stop.crank_web" type="0x8">
+    <label>crank_web animation stopped</label>
+    <description>The animation named crank_web has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.logo_animation" type="0x8">
+    <label>logo_animation animation stopped</label>
+    <description>The animation named logo_animation has been stopped</description>
+  </event>
+  <event name="timer.animation2" type="0x0">
+    <description>The timer named timer.animation2 has fired</description>
+  </event>
+</eventdefinitions>

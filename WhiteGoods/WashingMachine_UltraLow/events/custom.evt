@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.AMBIENT_waterBG" type="0x8">
+    <label>AMBIENT_waterBG animation complete</label>
+    <description>The animation named AMBIENT_waterBG has completed</description>
+  </event>
+  <event name="gre.animate.complete.btn_cancel" type="0x8">
+    <label>btn_cancel animation complete</label>
+    <description>The animation named btn_cancel has completed</description>
+  </event>
+  <event name="gre.animate.complete.btn_pause" type="0x8">
+    <label>btn_pause animation complete</label>
+    <description>The animation named btn_pause has completed</description>
+  </event>
+  <event name="gre.animate.complete.btn_reset" type="0x8">
+    <label>btn_reset animation complete</label>
+    <description>The animation named btn_reset has completed</description>
+  </event>
+  <event name="gre.animate.complete.btn_start" type="0x8">
+    <label>btn_start animation complete</label>
+    <description>The animation named btn_start has completed</description>
+  </event>
+  <event name="gre.animate.complete.bubbles1" type="0x8">
+    <label>bubbles1 animation complete</label>
+    <description>The animation named bubbles1 has completed</description>
+  </event>
+  <event name="gre.animate.complete.bubbles2" type="0x8">
+    <label>bubbles2 animation complete</label>
+    <description>The animation named bubbles2 has completed</description>
+  </event>
+  <event name="gre.animate.complete.cycle_complete" type="0x8">
+    <label>cycle_complete animation complete</label>
+    <description>The animation named cycle_complete has completed</description>
+  </event>
+  <event name="gre.animate.complete.cycle_setup" type="0x8">
+    <label>cycle_setup animation complete</label>
+    <description>The animation named cycle_setup has completed</description>
+  </event>
+  <event name="gre.animate.complete.fab1_2" type="0x8">
+    <label>fab1_2 animation complete</label>
+    <description>The animation named fab1_2 has completed</description>
+  </event>
+  <event name="gre.animate.complete.fab1_3" type="0x8">
+    <label>fab1_3 animation complete</label>
+    <description>The animation named fab1_3 has completed</description>
+  </event>
+  <event name="gre.animate.complete.fab2_1" type="0x8">
+    <label>fab2_1 animation complete</label>
+    <description>The animation named fab2_1 has completed</description>
+  </event>
+  <event name="gre.animate.complete.fab2_3" type="0x8">
+    <label>fab2_3 animation complete</label>
+    <description>The animation named fab2_3 has completed</description>
+  </event>
+  <event name="gre.animate.complete.fab3_1" type="0x8">
+    <label>fab3_1 animation complete</label>
+    <description>The animation named fab3_1 has completed</description>
+  </event>
+  <event name="gre.animate.complete.fab3_2" type="0x8">
+    <label>fab3_2 animation complete</label>
+    <description>The animation named fab3_2 has completed</description>
+  </event>
+  <event name="gre.animate.complete.prewash" type="0x8">
+    <label>prewash animation complete</label>
+    <description>The animation named prewash has completed</description>
+  </event>
+  <event name="gre.animate.complete.prewash_complete" type="0x8">
+    <label>prewash_complete animation complete</label>
+    <description>The animation named prewash_complete has completed</description>
+  </event>
+  <event name="gre.animate.complete.prewash_start" type="0x8">
+    <label>prewash_start animation complete</label>
+    <description>The animation named prewash_start has completed</description>
+  </event>
+  <event name="gre.animate.complete.rinse" type="0x8">
+    <label>rinse animation complete</label>
+    <description>The animation named rinse has completed</description>
+  </event>
+  <event name="gre.animate.complete.rinse_complete" type="0x8">
+    <label>rinse_complete animation complete</label>
+    <description>The animation named rinse_complete has completed</description>
+  </event>
+  <event name="gre.animate.complete.rinse_start" type="0x8">
+    <label>rinse_start animation complete</label>
+    <description>The animation named rinse_start has completed</description>
+  </event>
+  <event name="gre.animate.complete.select1" type="0x8">
+    <label>select1 animation complete</label>
+    <description>The animation named select1 has completed</description>
+  </event>
+  <event name="gre.animate.complete.select2" type="0x8">
+    <label>select2 animation complete</label>
+    <description>The animation named select2 has completed</description>
+  </event>
+  <event name="gre.animate.complete.select3" type="0x8">
+    <label>select3 animation complete</label>
+    <description>The animation named select3 has completed</description>
+  </event>
+  <event name="gre.animate.complete.set_to_wash" type="0x8">
+    <label>set_to_wash animation complete</label>
+    <description>The animation named set_to_wash has completed</description>
+  </event>
+  <event name="gre.animate.complete.SETTINGS_pressOption" type="0x8">
+    <label>SETTINGS_pressOption animation complete</label>
+    <description>The animation named SETTINGS_pressOption has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_extras" type="0x8">
+    <label>show_extras animation complete</label>
+    <description>The animation named show_extras has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_extras_reversed" type="0x8">
+    <label>show_extras_reversed animation complete</label>
+    <description>The animation named show_extras_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_spin" type="0x8">
+    <label>show_spin animation complete</label>
+    <description>The animation named show_spin has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_spin_reversed" type="0x8">
+    <label>show_spin_reversed animation complete</label>
+    <description>The animation named show_spin_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_temperature" type="0x8">
+    <label>show_temperature animation complete</label>
+    <description>The animation named show_temperature has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_temperature_reversed" type="0x8">
+    <label>show_temperature_reversed animation complete</label>
+    <description>The animation named show_temperature_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_wash_settings" type="0x8">
+    <label>show_wash_settings animation complete</label>
+    <description>The animation named show_wash_settings has completed</description>
+  </event>
+  <event name="gre.animate.complete.spin" type="0x8">
+    <label>spin animation complete</label>
+    <description>The animation named spin has completed</description>
+  </event>
+  <event name="gre.animate.complete.spin_complete" type="0x8">
+    <label>spin_complete animation complete</label>
+    <description>The animation named spin_complete has completed</description>
+  </event>
+  <event name="gre.animate.complete.spin_start" type="0x8">
+    <label>spin_start animation complete</label>
+    <description>The animation named spin_start has completed</description>
+  </event>
+  <event name="gre.animate.complete.START_selectFabric" type="0x8">
+    <label>START_selectFabric animation complete</label>
+    <description>The animation named START_selectFabric has completed</description>
+  </event>
+  <event name="gre.animate.complete.start_to_set" type="0x8">
+    <label>start_to_set animation complete</label>
+    <description>The animation named start_to_set has completed</description>
+  </event>
+  <event name="gre.animate.complete.start_to_set_reversed" type="0x8">
+    <label>start_to_set_reversed animation complete</label>
+    <description>The animation named start_to_set_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.washing" type="0x8">
+    <label>washing animation complete</label>
+    <description>The animation named washing has completed</description>
+  </event>
+  <event name="gre.animate.complete.washing2" type="0x8">
+    <label>washing2 animation complete</label>
+    <description>The animation named washing2 has completed</description>
+  </event>
+  <event name="gre.animate.complete.washing_complete" type="0x8">
+    <label>washing_complete animation complete</label>
+    <description>The animation named washing_complete has completed</description>
+  </event>
+  <event name="gre.animate.complete.washing_start" type="0x8">
+    <label>washing_start animation complete</label>
+    <description>The animation named washing_start has completed</description>
+  </event>
+  <event name="gre.animate.stop.AMBIENT_waterBG" type="0x8">
+    <label>AMBIENT_waterBG animation stopped</label>
+    <description>The animation named AMBIENT_waterBG has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.btn_cancel" type="0x8">
+    <label>btn_cancel animation stopped</label>
+    <description>The animation named btn_cancel has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.btn_pause" type="0x8">
+    <label>btn_pause animation stopped</label>
+    <description>The animation named btn_pause has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.btn_reset" type="0x8">
+    <label>btn_reset animation stopped</label>
+    <description>The animation named btn_reset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.btn_start" type="0x8">
+    <label>btn_start animation stopped</label>
+    <description>The animation named btn_start has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.bubbles1" type="0x8">
+    <label>bubbles1 animation stopped</label>
+    <description>The animation named bubbles1 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.bubbles2" type="0x8">
+    <label>bubbles2 animation stopped</label>
+    <description>The animation named bubbles2 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.cycle_complete" type="0x8">
+    <label>cycle_complete animation stopped</label>
+    <description>The animation named cycle_complete has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.cycle_setup" type="0x8">
+    <label>cycle_setup animation stopped</label>
+    <description>The animation named cycle_setup has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fab1_2" type="0x8">
+    <label>fab1_2 animation stopped</label>
+    <description>The animation named fab1_2 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fab1_3" type="0x8">
+    <label>fab1_3 animation stopped</label>
+    <description>The animation named fab1_3 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fab2_1" type="0x8">
+    <label>fab2_1 animation stopped</label>
+    <description>The animation named fab2_1 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fab2_3" type="0x8">
+    <label>fab2_3 animation stopped</label>
+    <description>The animation named fab2_3 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fab3_1" type="0x8">
+    <label>fab3_1 animation stopped</label>
+    <description>The animation named fab3_1 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fab3_2" type="0x8">
+    <label>fab3_2 animation stopped</label>
+    <description>The animation named fab3_2 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.prewash" type="0x8">
+    <label>prewash animation stopped</label>
+    <description>The animation named prewash has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.prewash_complete" type="0x8">
+    <label>prewash_complete animation stopped</label>
+    <description>The animation named prewash_complete has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.prewash_start" type="0x8">
+    <label>prewash_start animation stopped</label>
+    <description>The animation named prewash_start has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.rinse" type="0x8">
+    <label>rinse animation stopped</label>
+    <description>The animation named rinse has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.rinse_complete" type="0x8">
+    <label>rinse_complete animation stopped</label>
+    <description>The animation named rinse_complete has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.rinse_start" type="0x8">
+    <label>rinse_start animation stopped</label>
+    <description>The animation named rinse_start has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.select1" type="0x8">
+    <label>select1 animation stopped</label>
+    <description>The animation named select1 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.select2" type="0x8">
+    <label>select2 animation stopped</label>
+    <description>The animation named select2 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.select3" type="0x8">
+    <label>select3 animation stopped</label>
+    <description>The animation named select3 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.set_to_wash" type="0x8">
+    <label>set_to_wash animation stopped</label>
+    <description>The animation named set_to_wash has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.SETTINGS_pressOption" type="0x8">
+    <label>SETTINGS_pressOption animation stopped</label>
+    <description>The animation named SETTINGS_pressOption has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_extras" type="0x8">
+    <label>show_extras animation stopped</label>
+    <description>The animation named show_extras has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_extras_reversed" type="0x8">
+    <label>show_extras_reversed animation stopped</label>
+    <description>The animation named show_extras_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_spin" type="0x8">
+    <label>show_spin animation stopped</label>
+    <description>The animation named show_spin has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_spin_reversed" type="0x8">
+    <label>show_spin_reversed animation stopped</label>
+    <description>The animation named show_spin_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_temperature" type="0x8">
+    <label>show_temperature animation stopped</label>
+    <description>The animation named show_temperature has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_temperature_reversed" type="0x8">
+    <label>show_temperature_reversed animation stopped</label>
+    <description>The animation named show_temperature_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_wash_settings" type="0x8">
+    <label>show_wash_settings animation stopped</label>
+    <description>The animation named show_wash_settings has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.spin" type="0x8">
+    <label>spin animation stopped</label>
+    <description>The animation named spin has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.spin_complete" type="0x8">
+    <label>spin_complete animation stopped</label>
+    <description>The animation named spin_complete has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.spin_start" type="0x8">
+    <label>spin_start animation stopped</label>
+    <description>The animation named spin_start has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.START_selectFabric" type="0x8">
+    <label>START_selectFabric animation stopped</label>
+    <description>The animation named START_selectFabric has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.start_to_set" type="0x8">
+    <label>start_to_set animation stopped</label>
+    <description>The animation named start_to_set has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.start_to_set_reversed" type="0x8">
+    <label>start_to_set_reversed animation stopped</label>
+    <description>The animation named start_to_set_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.washing" type="0x8">
+    <label>washing animation stopped</label>
+    <description>The animation named washing has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.washing2" type="0x8">
+    <label>washing2 animation stopped</label>
+    <description>The animation named washing2 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.washing_complete" type="0x8">
+    <label>washing_complete animation stopped</label>
+    <description>The animation named washing_complete has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.washing_start" type="0x8">
+    <label>washing_start animation stopped</label>
+    <description>The animation named washing_start has been stopped</description>
+  </event>
+  <event name="timer.wash_complete" type="0x0">
+    <description>The timer named timer.wash_complete has fired</description>
+  </event>
+</eventdefinitions>

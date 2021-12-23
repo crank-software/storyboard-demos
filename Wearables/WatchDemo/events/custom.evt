@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.hour_hand_rotation" type="0x8">
+    <label>hour_hand_rotation animation complete</label>
+    <description>The animation named hour_hand_rotation has completed</description>
+  </event>
+  <event name="gre.animate.complete.minute_hand_rotation" type="0x8">
+    <label>minute_hand_rotation animation complete</label>
+    <description>The animation named minute_hand_rotation has completed</description>
+  </event>
+  <event name="gre.animate.complete.second_hand_rotation" type="0x8">
+    <label>second_hand_rotation animation complete</label>
+    <description>The animation named second_hand_rotation has completed</description>
+  </event>
+  <event name="gre.animate.complete.song_progress_arc" type="0x8">
+    <label>song_progress_arc animation complete</label>
+    <description>The animation named song_progress_arc has completed</description>
+  </event>
+  <event name="gre.animate.complete.step_tracker_arcs" type="0x8">
+    <label>step_tracker_arcs animation complete</label>
+    <description>The animation named step_tracker_arcs has completed</description>
+  </event>
+  <event name="gre.animate.complete.step_tracker_rotation" type="0x8">
+    <label>step_tracker_rotation animation complete</label>
+    <description>The animation named step_tracker_rotation has completed</description>
+  </event>
+  <event name="gre.animate.complete.volume_arc_animation" type="0x8">
+    <label>volume_arc_animation animation complete</label>
+    <description>The animation named volume_arc_animation has completed</description>
+  </event>
+  <event name="gre.animate.complete.volume_bars" type="0x8">
+    <label>volume_bars animation complete</label>
+    <description>The animation named volume_bars has completed</description>
+  </event>
+  <event name="gre.animate.stop.hour_hand_rotation" type="0x8">
+    <label>hour_hand_rotation animation stopped</label>
+    <description>The animation named hour_hand_rotation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.minute_hand_rotation" type="0x8">
+    <label>minute_hand_rotation animation stopped</label>
+    <description>The animation named minute_hand_rotation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.second_hand_rotation" type="0x8">
+    <label>second_hand_rotation animation stopped</label>
+    <description>The animation named second_hand_rotation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.song_progress_arc" type="0x8">
+    <label>song_progress_arc animation stopped</label>
+    <description>The animation named song_progress_arc has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.step_tracker_arcs" type="0x8">
+    <label>step_tracker_arcs animation stopped</label>
+    <description>The animation named step_tracker_arcs has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.step_tracker_rotation" type="0x8">
+    <label>step_tracker_rotation animation stopped</label>
+    <description>The animation named step_tracker_rotation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.volume_arc_animation" type="0x8">
+    <label>volume_arc_animation animation stopped</label>
+    <description>The animation named volume_arc_animation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.volume_bars" type="0x8">
+    <label>volume_bars animation stopped</label>
+    <description>The animation named volume_bars has been stopped</description>
+  </event>
+</eventdefinitions>

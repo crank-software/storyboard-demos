@@ -1,0 +1,190 @@
+
+gre.animate.complete.Settings_KeypadPress##Settings_KeypadPress animation complete #The animation named Settings_KeypadPress has completed
+
+gre.animate.complete.Settings_Advanced##Settings_Advanced animation complete #The animation named Settings_Advanced has completed
+
+gre.animate.complete.Settings_AdvancedReset##Settings_AdvancedReset animation complete #The animation named Settings_AdvancedReset has completed
+
+gre.animate.complete.Settings_IntervalsRadialOn##Settings_IntervalsRadialOn animation complete #The animation named Settings_IntervalsRadialOn has completed
+
+gre.animate.complete.Settings_IntervalsRadialOff##Settings_IntervalsRadialOff animation complete #The animation named Settings_IntervalsRadialOff has completed
+
+gre.animate.complete.Settings_IntervalsCheckOn##Settings_IntervalsCheckOn animation complete #The animation named Settings_IntervalsCheckOn has completed
+
+gre.animate.complete.Settings_IntervalsCheckOff##Settings_IntervalsCheckOff animation complete #The animation named Settings_IntervalsCheckOff has completed
+
+gre.animate.complete.Settings_IntervalsSubmit##Settings_IntervalsSubmit animation complete #The animation named Settings_IntervalsSubmit has completed
+
+gre.animate.complete.Settings_IntervalsAnimation##Settings_IntervalsAnimation animation complete #The animation named Settings_IntervalsAnimation has completed
+
+gre.animate.complete.Settings_IntervalsBack##Settings_IntervalsBack animation complete #The animation named Settings_IntervalsBack has completed
+
+gre.animate.complete.Settings_IntervalsAnimationEnd##Settings_IntervalsAnimationEnd animation complete #The animation named Settings_IntervalsAnimationEnd has completed
+
+gre.animate.complete.Settings_ShowAdvanced##Settings_ShowAdvanced animation complete #The animation named Settings_ShowAdvanced has completed
+
+gre.animate.complete.Settings_ShowProfiles##Settings_ShowProfiles animation complete #The animation named Settings_ShowProfiles has completed
+
+gre.animate.complete.Settings_ShowClinician##Settings_ShowClinician animation complete #The animation named Settings_ShowClinician has completed
+
+gre.animate.complete.Settings_ShowDevice##Settings_ShowDevice animation complete #The animation named Settings_ShowDevice has completed
+
+gre.animate.complete.Settings_ShowIntervals##Settings_ShowIntervals animation complete #The animation named Settings_ShowIntervals has completed
+
+gre.animate.complete.App_homeScreenHide##App_homeScreenHide animation complete #The animation named App_homeScreenHide has completed
+
+gre.animate.complete.App_homeScreenShow##App_homeScreenShow animation complete #The animation named App_homeScreenShow has completed
+
+gre.animate.complete.App_PatientScreenHide##App_PatientScreenHide animation complete #The animation named App_PatientScreenHide has completed
+
+gre.animate.complete.App_PatientScreenShow##App_PatientScreenShow animation complete #The animation named App_PatientScreenShow has completed
+
+gre.animate.complete.App_SettingsScreenHide##App_SettingsScreenHide animation complete #The animation named App_SettingsScreenHide has completed
+
+gre.animate.complete.App_SettingsScreenShow##App_SettingsScreenShow animation complete #The animation named App_SettingsScreenShow has completed
+
+goto_Settings##goto_Settings
+
+goto_Home##goto_Home
+
+goto_Patient##goto_Patient
+
+gre.animate.complete.App_bottomNav##App_bottomNav animation complete #The animation named App_bottomNav has completed
+
+gre.animate.complete.App_bottomNavClear##App_bottomNavClear animation complete #The animation named App_bottomNavClear has completed
+
+updatePulseEvent##updatePulseEvent
+
+updateTempEvent##updateTempEvent
+
+updateSpEvent##updateSpEvent
+
+updateBpEvent##updateBpEvent
+
+gre.animate.complete.sliderPress##sliderPress animation complete #The animation named sliderPress has completed
+
+gre.animate.complete.sliderRelease##sliderRelease animation complete #The animation named sliderRelease has completed
+
+gre.animate.complete.switchOn##switchOn animation complete #The animation named switchOn has completed
+
+gre.animate.complete.switchOff##switchOff animation complete #The animation named switchOff has completed
+
+homeScreenShow##homeScreenShow
+
+homeScreenHide##homeScreenHide
+
+settingsScreenShow##settingsScreenShow
+
+settingsScreenHide##settingsScreenHide
+
+patientScreenShow##patientScreenShow
+
+patientScreenHide##patientScreenHide
+
+crankScreenHide##crankScreenHide
+
+crankScreenShow##crankScreenShow
+
+gre.animate.complete.App_CrankScreenHide##App_CrankScreenHide animation complete #The animation named App_CrankScreenHide has completed
+
+gre.animate.complete.App_CrankScreenShow##App_CrankScreenShow animation complete #The animation named App_CrankScreenShow has completed
+
+gre.animate.complete.CrankFeatures##CrankFeatures animation complete #The animation named CrankFeatures has completed
+
+timer.timer##timer.timer timer fired #The timer named timer.timer has fired
+
+gre.animate.stop.Settings_AdvancedReset##Settings_AdvancedReset animation complete #The animation named Settings_AdvancedReset has been stopped
+
+gre.animate.stop.Settings_IntervalsAnimation##Settings_IntervalsAnimation animation complete #The animation named Settings_IntervalsAnimation has been stopped
+
+gre.animate.stop.Settings_ShowClinician##Settings_ShowClinician animation complete #The animation named Settings_ShowClinician has been stopped
+
+gre.animate.stop.App_SettingsScreenShow##App_SettingsScreenShow animation complete #The animation named App_SettingsScreenShow has been stopped
+
+gre.animate.stop.App_homeScreenHide##App_homeScreenHide animation complete #The animation named App_homeScreenHide has been stopped
+
+gre.animate.stop.Settings_IntervalsRadialOff##Settings_IntervalsRadialOff animation complete #The animation named Settings_IntervalsRadialOff has been stopped
+
+gre.animate.stop.Settings_KeypadPress##Settings_KeypadPress animation complete #The animation named Settings_KeypadPress has been stopped
+
+gre.animate.stop.Settings_ShowProfiles##Settings_ShowProfiles animation complete #The animation named Settings_ShowProfiles has been stopped
+
+gre.animate.stop.App_SettingsScreenHide##App_SettingsScreenHide animation complete #The animation named App_SettingsScreenHide has been stopped
+
+gre.animate.stop.App_bottomNav##App_bottomNav animation complete #The animation named App_bottomNav has been stopped
+
+gre.animate.stop.Settings_IntervalsCheckOn##Settings_IntervalsCheckOn animation complete #The animation named Settings_IntervalsCheckOn has been stopped
+
+gre.animate.stop.Settings_IntervalsBack##Settings_IntervalsBack animation complete #The animation named Settings_IntervalsBack has been stopped
+
+gre.animate.stop.App_homeScreenShow##App_homeScreenShow animation complete #The animation named App_homeScreenShow has been stopped
+
+gre.animate.stop.Settings_ShowAdvanced##Settings_ShowAdvanced animation complete #The animation named Settings_ShowAdvanced has been stopped
+
+gre.animate.stop.switchOn##switchOn animation complete #The animation named switchOn has been stopped
+
+gre.animate.stop.sliderPress##sliderPress animation complete #The animation named sliderPress has been stopped
+
+gre.animate.stop.Settings_IntervalsRadialOn##Settings_IntervalsRadialOn animation complete #The animation named Settings_IntervalsRadialOn has been stopped
+
+gre.animate.stop.App_CrankScreenShow##App_CrankScreenShow animation complete #The animation named App_CrankScreenShow has been stopped
+
+gre.animate.stop.App_CrankScreenHide##App_CrankScreenHide animation complete #The animation named App_CrankScreenHide has been stopped
+
+gre.animate.stop.sliderRelease##sliderRelease animation complete #The animation named sliderRelease has been stopped
+
+gre.animate.stop.Settings_ShowDevice##Settings_ShowDevice animation complete #The animation named Settings_ShowDevice has been stopped
+
+gre.animate.stop.App_bottomNavClear##App_bottomNavClear animation complete #The animation named App_bottomNavClear has been stopped
+
+gre.animate.stop.CrankFeatures##CrankFeatures animation complete #The animation named CrankFeatures has been stopped
+
+gre.animate.stop.Settings_IntervalsCheckOff##Settings_IntervalsCheckOff animation complete #The animation named Settings_IntervalsCheckOff has been stopped
+
+gre.animate.stop.Settings_ShowIntervals##Settings_ShowIntervals animation complete #The animation named Settings_ShowIntervals has been stopped
+
+gre.animate.stop.App_PatientScreenHide##App_PatientScreenHide animation complete #The animation named App_PatientScreenHide has been stopped
+
+gre.animate.stop.Settings_IntervalsAnimationEnd##Settings_IntervalsAnimationEnd animation complete #The animation named Settings_IntervalsAnimationEnd has been stopped
+
+gre.animate.stop.switchOff##switchOff animation complete #The animation named switchOff has been stopped
+
+gre.animate.stop.App_PatientScreenShow##App_PatientScreenShow animation complete #The animation named App_PatientScreenShow has been stopped
+
+gre.animate.stop.Settings_Advanced##Settings_Advanced animation complete #The animation named Settings_Advanced has been stopped
+
+gre.animate.stop.Settings_IntervalsSubmit##Settings_IntervalsSubmit animation complete #The animation named Settings_IntervalsSubmit has been stopped
+
+startPlayback##startPlayback
+
+gre.animate.complete.App_homeScreenHide2##App_homeScreenHide2 animation complete #The animation named App_homeScreenHide2 has completed
+
+gre.animate.stop.App_homeScreenHide2##App_homeScreenHide2 animation stopped #The animation named App_homeScreenHide2 has been stopped
+
+gre.animate.complete.App_homeScreenShow2##App_homeScreenShow2 animation complete #The animation named App_homeScreenShow2 has completed
+
+gre.animate.stop.App_homeScreenShow2##App_homeScreenShow2 animation stopped #The animation named App_homeScreenShow2 has been stopped
+
+gre.animate.complete.App_PatientScreenShow2##App_PatientScreenShow2 animation complete #The animation named App_PatientScreenShow2 has completed
+
+gre.animate.stop.App_PatientScreenShow2##App_PatientScreenShow2 animation stopped #The animation named App_PatientScreenShow2 has been stopped
+
+gre.animate.complete.App_PatientScreenHide2##App_PatientScreenHide2 animation complete #The animation named App_PatientScreenHide2 has completed
+
+gre.animate.stop.App_PatientScreenHide2##App_PatientScreenHide2 animation stopped #The animation named App_PatientScreenHide2 has been stopped
+
+gre.animate.complete.App_SettingsScreenShow2##App_SettingsScreenShow2 animation complete #The animation named App_SettingsScreenShow2 has completed
+
+gre.animate.stop.App_SettingsScreenShow2##App_SettingsScreenShow2 animation stopped #The animation named App_SettingsScreenShow2 has been stopped
+
+gre.animate.complete.App_SettingsScreenHide2##App_SettingsScreenHide2 animation complete #The animation named App_SettingsScreenHide2 has completed
+
+gre.animate.stop.App_SettingsScreenHide2##App_SettingsScreenHide2 animation stopped #The animation named App_SettingsScreenHide2 has been stopped
+
+gre.animate.complete.features##features animation complete #The animation named features has completed
+
+gre.animate.stop.features##features animation stopped #The animation named features has been stopped
+
+gre.animate.complete.features2##features2 animation complete #The animation named features2 has completed
+
+gre.animate.stop.features2##features2 animation stopped #The animation named features2 has been stopped

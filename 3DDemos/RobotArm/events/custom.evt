@@ -1,0 +1,64 @@
+
+gre.animate.complete.ShowPieces##ShowPieces animation complete #The animation named ShowPieces has completed
+
+gre.animate.complete.HidePieces##HidePieces animation complete #The animation named HidePieces has completed
+
+gre.animate.complete.HideAnims##HideAnims animation complete #The animation named HideAnims has completed
+
+gre.animate.complete.ShowAnims##ShowAnims animation complete #The animation named ShowAnims has completed
+
+gre.animate.complete.rotateAndMove##rotateAndMove animation complete #The animation named rotateAndMove has completed
+
+gre.animate.complete.pickup01##pickup01 animation complete #The animation named pickup01 has completed
+
+gre.animate.complete.extension##extension animation complete #The animation named extension has completed
+
+gre.animate.complete.pickup02##pickup02 animation complete #The animation named pickup02 has completed
+
+gre.animate.complete.pressCamera##pressCamera animation complete #The animation named pressCamera has completed
+
+gre.animate.complete.cameraActiveWarning##cameraActiveWarning animation complete #The animation named cameraActiveWarning has completed
+
+gre.animate.complete.Deactivate##Deactivate animation complete #The animation named Deactivate has completed
+
+gre.animate.complete.Activate##Activate animation complete #The animation named Activate has completed
+
+gre.animate.complete.pressLargeButton##pressLargeButton animation complete #The animation named pressLargeButton has completed
+
+gre.animate.complete.hideAndShowPieces##hideAndShowPieces animation complete #The animation named hideAndShowPieces has completed
+
+gre.animate.complete.animActiveWarning##animActiveWarning animation complete #The animation named animActiveWarning has completed
+
+gre.animate.complete.idleLoop##idleLoop animation complete #The animation named idleLoop has completed
+
+gre.animate.stop.pickup01##pickup01 animation complete #The animation named pickup01 has been stopped
+
+gre.animate.stop.extension##extension animation complete #The animation named extension has been stopped
+
+gre.animate.stop.pickup02##pickup02 animation complete #The animation named pickup02 has been stopped
+
+gre.animate.stop.HideAnims##HideAnims animation complete #The animation named HideAnims has been stopped
+
+gre.animate.stop.hideAndShowPieces##hideAndShowPieces animation complete #The animation named hideAndShowPieces has been stopped
+
+gre.animate.stop.cameraActiveWarning##cameraActiveWarning animation complete #The animation named cameraActiveWarning has been stopped
+
+gre.animate.stop.rotateAndMove##rotateAndMove animation complete #The animation named rotateAndMove has been stopped
+
+gre.animate.stop.idleLoop##idleLoop animation complete #The animation named idleLoop has been stopped
+
+gre.animate.stop.pressLargeButton##pressLargeButton animation complete #The animation named pressLargeButton has been stopped
+
+gre.animate.stop.ShowAnims##ShowAnims animation complete #The animation named ShowAnims has been stopped
+
+gre.animate.stop.Activate##Activate animation complete #The animation named Activate has been stopped
+
+gre.animate.stop.animActiveWarning##animActiveWarning animation complete #The animation named animActiveWarning has been stopped
+
+gre.animate.stop.Deactivate##Deactivate animation complete #The animation named Deactivate has been stopped
+
+gre.animate.stop.HidePieces##HidePieces animation complete #The animation named HidePieces has been stopped
+
+gre.animate.stop.pressCamera##pressCamera animation complete #The animation named pressCamera has been stopped
+
+gre.animate.stop.ShowPieces##ShowPieces animation complete #The animation named ShowPieces has been stopped

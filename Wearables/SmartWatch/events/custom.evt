@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="enable_screen_drag" type="0x40"/>
+  <event name="fitness_offset_updated" type="0x10"/>
+  <event name="gre.animate.complete.digital_ii_5_second" type="0x8">
+    <label>digital_ii_5_second animation complete</label>
+    <description>The animation named digital_ii_5_second has completed</description>
+  </event>
+  <event name="gre.animate.complete.digital_ii_second_red_tick" type="0x8">
+    <label>digital_ii_second_red_tick animation complete</label>
+    <description>The animation named digital_ii_second_red_tick has completed</description>
+  </event>
+  <event name="gre.animate.complete.fitness_selection" type="0x8">
+    <label>fitness_selection animation complete</label>
+    <description>The animation named fitness_selection has completed</description>
+  </event>
+  <event name="gre.animate.complete.heartrate_waves" type="0x8">
+    <label>heartrate_waves animation complete</label>
+    <description>The animation named heartrate_waves has completed</description>
+  </event>
+  <event name="gre.animate.complete.hour_hand_rotation" type="0x8">
+    <label>hour_hand_rotation animation complete</label>
+    <description>The animation named hour_hand_rotation has completed</description>
+  </event>
+  <event name="gre.animate.complete.minute_hour_hand_rotation" type="0x8">
+    <label>minute_hour_hand_rotation animation complete</label>
+    <description>The animation named minute_hour_hand_rotation has completed</description>
+  </event>
+  <event name="gre.animate.complete.partly_cloudy_animation" type="0x8">
+    <label>partly_cloudy_animation animation complete</label>
+    <description>The animation named partly_cloudy_animation has completed</description>
+  </event>
+  <event name="gre.animate.complete.rain_drops" type="0x8">
+    <label>rain_drops animation complete</label>
+    <description>The animation named rain_drops has completed</description>
+  </event>
+  <event name="gre.animate.complete.rain_drops_copy" type="0x8">
+    <label>rain_drops_copy animation complete</label>
+    <description>The animation named rain_drops_copy has completed</description>
+  </event>
+  <event name="gre.animate.complete.reset_fitness_controls" type="0x8">
+    <label>reset_fitness_controls animation complete</label>
+    <description>The animation named reset_fitness_controls has completed</description>
+  </event>
+  <event name="gre.animate.complete.screen_menu_select" type="0x8">
+    <label>screen_menu_select animation complete</label>
+    <description>The animation named screen_menu_select has completed</description>
+  </event>
+  <event name="gre.animate.complete.second_hand_rotation" type="0x8">
+    <label>second_hand_rotation animation complete</label>
+    <description>The animation named second_hand_rotation has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_waves" type="0x8">
+    <label>show_waves animation complete</label>
+    <description>The animation named show_waves has completed</description>
+  </event>
+  <event name="gre.animate.complete.song_progress" type="0x8">
+    <label>song_progress animation complete</label>
+    <description>The animation named song_progress has completed</description>
+  </event>
+  <event name="gre.animate.complete.stopwatch_timer_arc" type="0x8">
+    <label>stopwatch_timer_arc animation complete</label>
+    <description>The animation named stopwatch_timer_arc has completed</description>
+  </event>
+  <event name="gre.animate.complete.sunny_animation" type="0x8">
+    <label>sunny_animation animation complete</label>
+    <description>The animation named sunny_animation has completed</description>
+  </event>
+  <event name="gre.animate.stop.digital_ii_5_second" type="0x8">
+    <label>digital_ii_5_second animation stopped</label>
+    <description>The animation named digital_ii_5_second has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.digital_ii_second_red_tick" type="0x8">
+    <label>digital_ii_second_red_tick animation stopped</label>
+    <description>The animation named digital_ii_second_red_tick has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fitness_selection" type="0x8">
+    <label>fitness_selection animation stopped</label>
+    <description>The animation named fitness_selection has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.heartrate_waves" type="0x8">
+    <label>heartrate_waves animation stopped</label>
+    <description>The animation named heartrate_waves has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.hour_hand_rotation" type="0x8">
+    <label>hour_hand_rotation animation stopped</label>
+    <description>The animation named hour_hand_rotation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.minute_hour_hand_rotation" type="0x8">
+    <label>minute_hour_hand_rotation animation stopped</label>
+    <description>The animation named minute_hour_hand_rotation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.partly_cloudy_animation" type="0x8">
+    <label>partly_cloudy_animation animation stopped</label>
+    <description>The animation named partly_cloudy_animation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.rain_drops" type="0x8">
+    <label>rain_drops animation stopped</label>
+    <description>The animation named rain_drops has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.rain_drops_copy" type="0x8">
+    <label>rain_drops_copy animation stopped</label>
+    <description>The animation named rain_drops_copy has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.reset_fitness_controls" type="0x8">
+    <label>reset_fitness_controls animation stopped</label>
+    <description>The animation named reset_fitness_controls has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.screen_menu_select" type="0x8">
+    <label>screen_menu_select animation stopped</label>
+    <description>The animation named screen_menu_select has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.second_hand_rotation" type="0x8">
+    <label>second_hand_rotation animation stopped</label>
+    <description>The animation named second_hand_rotation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_waves" type="0x8">
+    <label>show_waves animation stopped</label>
+    <description>The animation named show_waves has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.song_progress" type="0x8">
+    <label>song_progress animation stopped</label>
+    <description>The animation named song_progress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.stopwatch_timer_arc" type="0x8">
+    <label>stopwatch_timer_arc animation stopped</label>
+    <description>The animation named stopwatch_timer_arc has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.sunny_animation" type="0x8">
+    <label>sunny_animation animation stopped</label>
+    <description>The animation named sunny_animation has been stopped</description>
+  </event>
+  <event name="screen_navigate" type="0x40"/>
+  <event name="timer.clock_timer" type="0x8">
+    <description>The timer named timer.clock_timer has fired</description>
+  </event>
+  <event name="update_screen_menu_offset" type="0x10"/>
+  <event name="update_song_menu_offset" type="0x10"/>
+</eventdefinitions>

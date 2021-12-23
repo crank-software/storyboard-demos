@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.activate_nav_buttons" type="0x8">
+    <label>activate_nav_buttons animation complete</label>
+    <description>The animation named activate_nav_buttons has completed</description>
+  </event>
+  <event name="gre.animate.complete.main_menu_close" type="0x8">
+    <label>main_menu_close animation complete</label>
+    <description>The animation named main_menu_close has completed</description>
+  </event>
+  <event name="gre.animate.complete.main_menu_hide_dc" type="0x8">
+    <label>main_menu_hide_dc animation complete</label>
+    <description>The animation named main_menu_hide_dc has completed</description>
+  </event>
+  <event name="gre.animate.complete.main_menu_open" type="0x8">
+    <label>main_menu_open animation complete</label>
+    <description>The animation named main_menu_open has completed</description>
+  </event>
+  <event name="gre.animate.complete.nav_bar_movement_tween" type="0x8">
+    <label>nav_bar_movement_tween animation complete</label>
+    <description>The animation named nav_bar_movement_tween has completed</description>
+  </event>
+  <event name="gre.animate.complete.post_transition_settings_to_thermostat" type="0x8">
+    <label>post_transition_settings_to_thermostat animation complete</label>
+    <description>The animation named post_transition_settings_to_thermostat has completed</description>
+  </event>
+  <event name="gre.animate.complete.post_transition_settings_to_weather" type="0x8">
+    <label>post_transition_settings_to_weather animation complete</label>
+    <description>The animation named post_transition_settings_to_weather has completed</description>
+  </event>
+  <event name="gre.animate.complete.post_transition_thermostat_to_settings" type="0x8">
+    <label>post_transition_thermostat_to_settings animation complete</label>
+    <description>The animation named post_transition_thermostat_to_settings has completed</description>
+  </event>
+  <event name="gre.animate.complete.post_transition_thermostat_to_weather" type="0x8">
+    <label>post_transition_thermostat_to_weather animation complete</label>
+    <description>The animation named post_transition_thermostat_to_weather has completed</description>
+  </event>
+  <event name="gre.animate.complete.post_transition_weather_to_settings" type="0x8">
+    <label>post_transition_weather_to_settings animation complete</label>
+    <description>The animation named post_transition_weather_to_settings has completed</description>
+  </event>
+  <event name="gre.animate.complete.post_transition_weather_to_thermostat" type="0x8">
+    <label>post_transition_weather_to_thermostat animation complete</label>
+    <description>The animation named post_transition_weather_to_thermostat has completed</description>
+  </event>
+  <event name="gre.animate.complete.pre_transition_settings_to_thermostat" type="0x8">
+    <label>pre_transition_settings_to_thermostat animation complete</label>
+    <description>The animation named pre_transition_settings_to_thermostat has completed</description>
+  </event>
+  <event name="gre.animate.complete.pre_transition_settings_to_weather" type="0x8">
+    <label>pre_transition_settings_to_weather animation complete</label>
+    <description>The animation named pre_transition_settings_to_weather has completed</description>
+  </event>
+  <event name="gre.animate.complete.pre_transition_thermostat_to_settings" type="0x8">
+    <label>pre_transition_thermostat_to_settings animation complete</label>
+    <description>The animation named pre_transition_thermostat_to_settings has completed</description>
+  </event>
+  <event name="gre.animate.complete.pre_transition_thermostat_to_weather" type="0x8">
+    <label>pre_transition_thermostat_to_weather animation complete</label>
+    <description>The animation named pre_transition_thermostat_to_weather has completed</description>
+  </event>
+  <event name="gre.animate.complete.pre_transition_weather_to_settings" type="0x8">
+    <label>pre_transition_weather_to_settings animation complete</label>
+    <description>The animation named pre_transition_weather_to_settings has completed</description>
+  </event>
+  <event name="gre.animate.complete.pre_transition_weather_to_thermostat" type="0x8">
+    <label>pre_transition_weather_to_thermostat animation complete</label>
+    <description>The animation named pre_transition_weather_to_thermostat has completed</description>
+  </event>
+  <event name="gre.animate.complete.settings_change_menu" type="0x8">
+    <label>settings_change_menu animation complete</label>
+    <description>The animation named settings_change_menu has completed</description>
+  </event>
+  <event name="gre.animate.complete.settings_change_menu_reversed" type="0x8">
+    <label>settings_change_menu_reversed animation complete</label>
+    <description>The animation named settings_change_menu_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.slider_press" type="0x8">
+    <label>slider_press animation complete</label>
+    <description>The animation named slider_press has completed</description>
+  </event>
+  <event name="gre.animate.complete.slider_release" type="0x8">
+    <label>slider_release animation complete</label>
+    <description>The animation named slider_release has completed</description>
+  </event>
+  <event name="gre.animate.complete.temp_down" type="0x8">
+    <label>temp_down animation complete</label>
+    <description>The animation named temp_down has completed</description>
+  </event>
+  <event name="gre.animate.complete.temp_down_thermostat_glow" type="0x8">
+    <label>temp_down_thermostat_glow animation complete</label>
+    <description>The animation named temp_down_thermostat_glow has completed</description>
+  </event>
+  <event name="gre.animate.complete.temp_up" type="0x8">
+    <label>temp_up animation complete</label>
+    <description>The animation named temp_up has completed</description>
+  </event>
+  <event name="gre.animate.complete.temp_up_thermostat_glow" type="0x8">
+    <label>temp_up_thermostat_glow animation complete</label>
+    <description>The animation named temp_up_thermostat_glow has completed</description>
+  </event>
+  <event name="gre.animate.complete.toggle_anim" type="0x8">
+    <label>toggle_anim animation complete</label>
+    <description>The animation named toggle_anim has completed</description>
+  </event>
+  <event name="gre.animate.complete.toggle_temperature_unit" type="0x8">
+    <label>toggle_temperature_unit animation complete</label>
+    <description>The animation named toggle_temperature_unit has completed</description>
+  </event>
+  <event name="gre.animate.stop.activate_nav_buttons" type="0x8">
+    <label>activate_nav_buttons animation stopped</label>
+    <description>The animation named activate_nav_buttons has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.main_menu_close" type="0x8">
+    <label>main_menu_close animation stopped</label>
+    <description>The animation named main_menu_close has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.main_menu_hide_dc" type="0x8">
+    <label>main_menu_hide_dc animation stopped</label>
+    <description>The animation named main_menu_hide_dc has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.main_menu_open" type="0x8">
+    <label>main_menu_open animation stopped</label>
+    <description>The animation named main_menu_open has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.nav_bar_movement_tween" type="0x8">
+    <label>nav_bar_movement_tween animation stopped</label>
+    <description>The animation named nav_bar_movement_tween has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.post_transition_settings_to_thermostat" type="0x8">
+    <label>post_transition_settings_to_thermostat animation stopped</label>
+    <description>The animation named post_transition_settings_to_thermostat has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.post_transition_settings_to_weather" type="0x8">
+    <label>post_transition_settings_to_weather animation stopped</label>
+    <description>The animation named post_transition_settings_to_weather has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.post_transition_thermostat_to_settings" type="0x8">
+    <label>post_transition_thermostat_to_settings animation stopped</label>
+    <description>The animation named post_transition_thermostat_to_settings has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.post_transition_thermostat_to_weather" type="0x8">
+    <label>post_transition_thermostat_to_weather animation stopped</label>
+    <description>The animation named post_transition_thermostat_to_weather has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.post_transition_weather_to_settings" type="0x8">
+    <label>post_transition_weather_to_settings animation stopped</label>
+    <description>The animation named post_transition_weather_to_settings has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.post_transition_weather_to_thermostat" type="0x8">
+    <label>post_transition_weather_to_thermostat animation stopped</label>
+    <description>The animation named post_transition_weather_to_thermostat has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pre_transition_settings_to_thermostat" type="0x8">
+    <label>pre_transition_settings_to_thermostat animation stopped</label>
+    <description>The animation named pre_transition_settings_to_thermostat has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pre_transition_settings_to_weather" type="0x8">
+    <label>pre_transition_settings_to_weather animation stopped</label>
+    <description>The animation named pre_transition_settings_to_weather has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pre_transition_thermostat_to_settings" type="0x8">
+    <label>pre_transition_thermostat_to_settings animation stopped</label>
+    <description>The animation named pre_transition_thermostat_to_settings has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pre_transition_thermostat_to_weather" type="0x8">
+    <label>pre_transition_thermostat_to_weather animation stopped</label>
+    <description>The animation named pre_transition_thermostat_to_weather has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pre_transition_weather_to_settings" type="0x8">
+    <label>pre_transition_weather_to_settings animation stopped</label>
+    <description>The animation named pre_transition_weather_to_settings has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pre_transition_weather_to_thermostat" type="0x8">
+    <label>pre_transition_weather_to_thermostat animation stopped</label>
+    <description>The animation named pre_transition_weather_to_thermostat has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.settings_change_menu" type="0x8">
+    <label>settings_change_menu animation stopped</label>
+    <description>The animation named settings_change_menu has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.settings_change_menu_reversed" type="0x8">
+    <label>settings_change_menu_reversed animation stopped</label>
+    <description>The animation named settings_change_menu_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.slider_press" type="0x8">
+    <label>slider_press animation stopped</label>
+    <description>The animation named slider_press has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.slider_release" type="0x8">
+    <label>slider_release animation stopped</label>
+    <description>The animation named slider_release has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.temp_down" type="0x8">
+    <label>temp_down animation stopped</label>
+    <description>The animation named temp_down has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.temp_down_thermostat_glow" type="0x8">
+    <label>temp_down_thermostat_glow animation stopped</label>
+    <description>The animation named temp_down_thermostat_glow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.temp_up" type="0x8">
+    <label>temp_up animation stopped</label>
+    <description>The animation named temp_up has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.temp_up_thermostat_glow" type="0x8">
+    <label>temp_up_thermostat_glow animation stopped</label>
+    <description>The animation named temp_up_thermostat_glow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.toggle_anim" type="0x8">
+    <label>toggle_anim animation stopped</label>
+    <description>The animation named toggle_anim has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.toggle_temperature_unit" type="0x8">
+    <label>toggle_temperature_unit animation stopped</label>
+    <description>The animation named toggle_temperature_unit has been stopped</description>
+  </event>
+  <event name="gre.media.complete" type="0x40"/>
+  <event name="MEDIA_START" type="0x40"/>
+  <event name="MEDIA_STOP" type="0x40"/>
+  <event name="screen_navigate" type="0x40"/>
+</eventdefinitions>

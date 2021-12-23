@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.turn_light_off" type="0x8">
+    <label>turn_light_off animation complete</label>
+    <description>The animation named turn_light_off has completed</description>
+  </event>
+  <event name="gre.animate.complete.turn_light_on" type="0x8">
+    <label>turn_light_on animation complete</label>
+    <description>The animation named turn_light_on has completed</description>
+  </event>
+  <event name="gre.animate.stop.turn_light_off" type="0x8">
+    <label>turn_light_off animation stopped</label>
+    <description>The animation named turn_light_off has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.turn_light_on" type="0x8">
+    <label>turn_light_on animation stopped</label>
+    <description>The animation named turn_light_on has been stopped</description>
+  </event>
+</eventdefinitions>

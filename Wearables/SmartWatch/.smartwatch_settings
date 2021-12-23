@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item key="pref.editor_zoom" value="1.0"/>
+	<item key="pref.default_control_name" value="vibrant_bg"/>
+	<item key="anim-second_hand_rotation" value="${app:analog_second_angle}"/>
+	<item key="anim-heartrate_waves" value="${app:heartrate_layer.heart_rate.text}&#x0A;${app:heartrate_layer.wave1.grd_x}&#x0A;${app:heartrate_layer.wave1_2.grd_x}&#x0A;${app:heartrate_layer.wave2.grd_x}&#x0A;${app:heartrate_layer.wave2_2.grd_x}&#x0A;${app:heartrate_layer.wave3.grd_x}&#x0A;${app:heartrate_layer.wave3_2.grd_x}"/>
+	<item key="pref.default_fps" value="30"/>
+	<item key="anim-show_waves" value="${app:heartrate_layer.wave_alpha}"/>
+	<item key="anim-hour_hand_rotation" value="${app:analog_hour_angle}"/>
+	<item key="anim-fitness_selection" value="${control:grd_height}&#x0A;${control:grd_width}&#x0A;${control:grd_x}&#x0A;${control:grd_y}&#x0A;${control:green_alpha}"/>
+	<item key="anim-digital_ii_second_red_tick" value="${app:digital_layer.seconds_6_degree_rotations.angle}"/>
+	<item key="anim-stopwatch_timer_arc" value="${app:stopwatch_layer.arc.endAngle}"/>
+	<item key="anim-rain_drops_copy" value="${app:weather1.rain_drops.alpha}&#x0A;${app:weather1.rain_drops.grd_x}&#x0A;${app:weather1.rain_drops.grd_y}&#x0A;${app:weather1.rain_drops_2.alpha}&#x0A;${app:weather1.rain_drops_2.grd_x}&#x0A;${app:weather1.rain_drops_2.grd_y}"/>
+	<list key="pref.screen_list_order">
+		<item value="analog_ii"/>
+		<item value="analog_simple"/>
+		<item value="digital_ii"/>
+		<item value="digital_simple"/>
+		<item value="fitness"/>
+		<item value="heartrate"/>
+		<item value="now_playing"/>
+		<item value="photo"/>
+		<item value="songs"/>
+		<item value="start_workout"/>
+		<item value="stopwatch"/>
+		<item value="timer"/>
+		<item value="vibrant"/>
+		<item value="weather"/>
+		<item value="weather_3day"/>
+	</list>
+</section>

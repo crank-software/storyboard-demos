@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.phone_answer" type="0x8">
+    <label>phone_answer animation complete</label>
+    <description>The animation named phone_answer has completed</description>
+  </event>
+  <event name="gre.animate.complete.showPhone" type="0x8">
+    <label>showPhone animation complete</label>
+    <description>The animation named showPhone has completed</description>
+  </event>
+  <event name="gre.animate.stop.phone_answer" type="0x8">
+    <label>phone_answer animation stopped</label>
+    <description>The animation named phone_answer has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.showPhone" type="0x8">
+    <label>showPhone animation stopped</label>
+    <description>The animation named showPhone has been stopped</description>
+  </event>
+</eventdefinitions>

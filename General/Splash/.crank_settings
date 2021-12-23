@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item value="60" key="pref.default_fps"/>
+	<item value="1.0" key="pref.editor_zoom"/>
+	<item value="${app:crank_layer.bar_green.grd_x}&#x0A;${app:crank_layer.sb_logo.grd_x}&#x0A;${app:crank_layer.website.grd_x}&#x0A;${app:crank_layer.image_blurred_bg.grd_height}&#x0A;${app:crank_layer.crank_bot.alpha}&#x0A;${app:crank_layer.crank_top.alpha}&#x0A;${app:crank_layer.crank_logo.alpha_top}&#x0A;${app:crank_layer.crank_logo.alpha_bot}" key="anim-crank_web"/>
+	<item value="crank_top" key="pref.default_control_name"/>
+	<item value="${app:crank_layer.image_blurred_bg.grd_y}&#x0A;${app:crank_layer.image_blurred_bg.grd_height}&#x0A;${app:crank_layer.crank_logo.alpha_bot}&#x0A;${app:crank_layer.crank_logo.alpha_top}&#x0A;${app:crank_layer.crank_logo.angle_bot}&#x0A;${app:crank_layer.crank_logo.angle_top}&#x0A;${app:crank_layer.crank_top.alpha}&#x0A;${app:crank_layer.crank_top.grd_y}&#x0A;${app:crank_layer.crank_bot.grd_y}&#x0A;${app:crank_layer.crank_bot.alpha}" key="anim-logo_animation"/>
+</section>

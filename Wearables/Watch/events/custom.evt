@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.call_answer" type="0x0">
+    <label>call_answer animation complete</label>
+    <description>The animation named call_answer has completed</description>
+  </event>
+  <event name="gre.animate.complete.call_answer_decline" type="0x0">
+    <label>call_answer_decline animation complete</label>
+    <description>The animation named call_answer_decline has completed</description>
+  </event>
+  <event name="gre.animate.complete.call_decline" type="0x0">
+    <label>call_decline animation complete</label>
+    <description>The animation named call_decline has completed</description>
+  </event>
+  <event name="gre.animate.complete.call_end" type="0x0">
+    <label>call_end animation complete</label>
+    <description>The animation named call_end has completed</description>
+  </event>
+  <event name="gre.animate.complete.fill" type="0x0">
+    <label>fill animation complete</label>
+    <description>The animation named fill has completed</description>
+  </event>
+  <event name="gre.animate.complete.fit_bpm" type="0x0">
+    <label>fit_bpm animation complete</label>
+    <description>The animation named fit_bpm has completed</description>
+  </event>
+  <event name="gre.animate.complete.fit_popup" type="0x0">
+    <label>fit_popup animation complete</label>
+    <description>The animation named fit_popup has completed</description>
+  </event>
+  <event name="gre.animate.complete.fit_popup_reversed" type="0x0">
+    <label>fit_popup_reversed animation complete</label>
+    <description>The animation named fit_popup_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.fit_run" type="0x0">
+    <label>fit_run animation complete</label>
+    <description>The animation named fit_run has completed</description>
+  </event>
+  <event name="gre.animate.complete.fit_walk" type="0x0">
+    <label>fit_walk animation complete</label>
+    <description>The animation named fit_walk has completed</description>
+  </event>
+  <event name="gre.animate.complete.hands_seconds" type="0x0">
+    <label>hands_seconds animation complete</label>
+    <description>The animation named hands_seconds has completed</description>
+  </event>
+  <event name="gre.animate.complete.message_show" type="0x0">
+    <label>message_show animation complete</label>
+    <description>The animation named message_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.message_show_reversed" type="0x0">
+    <label>message_show_reversed animation complete</label>
+    <description>The animation named message_show_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.mlb_1_2" type="0x0">
+    <label>mlb_1_2 animation complete</label>
+    <description>The animation named mlb_1_2 has completed</description>
+  </event>
+  <event name="gre.animate.complete.mlb_1_2_reversed" type="0x0">
+    <label>mlb_1_2_reversed animation complete</label>
+    <description>The animation named mlb_1_2_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.nav_location" type="0x0">
+    <label>nav_location animation complete</label>
+    <description>The animation named nav_location has completed</description>
+  </event>
+  <event name="gre.animate.complete.next_highlight" type="0x0">
+    <label>next_highlight animation complete</label>
+    <description>The animation named next_highlight has completed</description>
+  </event>
+  <event name="gre.animate.complete.phone_answer" type="0x0">
+    <label>phone_answer animation complete</label>
+    <description>The animation named phone_answer has completed</description>
+  </event>
+  <event name="gre.animate.complete.phone_decline" type="0x0">
+    <label>phone_decline animation complete</label>
+    <description>The animation named phone_decline has completed</description>
+  </event>
+  <event name="gre.animate.complete.phone_end" type="0x0">
+    <label>phone_end animation complete</label>
+    <description>The animation named phone_end has completed</description>
+  </event>
+  <event name="gre.animate.complete.phone_green_glow" type="0x0">
+    <label>phone_green_glow animation complete</label>
+    <description>The animation named phone_green_glow has completed</description>
+  </event>
+  <event name="gre.animate.complete.phone_incoming" type="0x0">
+    <label>phone_incoming animation complete</label>
+    <description>The animation named phone_incoming has completed</description>
+  </event>
+  <event name="gre.animate.complete.phone_incoming1" type="0x0">
+    <label>phone_incoming1 animation complete</label>
+    <description>The animation named phone_incoming1 has completed</description>
+  </event>
+  <event name="gre.animate.complete.phone_to_analog" type="0x0">
+    <label>phone_to_analog animation complete</label>
+    <description>The animation named phone_to_analog has completed</description>
+  </event>
+  <event name="gre.animate.complete.popup_cal_lead" type="0x0">
+    <label>popup_cal_lead animation complete</label>
+    <description>The animation named popup_cal_lead has completed</description>
+  </event>
+  <event name="gre.animate.complete.popup_cal_tar" type="0x0">
+    <label>popup_cal_tar animation complete</label>
+    <description>The animation named popup_cal_tar has completed</description>
+  </event>
+  <event name="gre.animate.complete.popup_lead_cal" type="0x0">
+    <label>popup_lead_cal animation complete</label>
+    <description>The animation named popup_lead_cal has completed</description>
+  </event>
+  <event name="gre.animate.complete.popup_lead_step" type="0x0">
+    <label>popup_lead_step animation complete</label>
+    <description>The animation named popup_lead_step has completed</description>
+  </event>
+  <event name="gre.animate.complete.popup_step_lead" type="0x0">
+    <label>popup_step_lead animation complete</label>
+    <description>The animation named popup_step_lead has completed</description>
+  </event>
+  <event name="gre.animate.complete.popup_step_tar" type="0x0">
+    <label>popup_step_tar animation complete</label>
+    <description>The animation named popup_step_tar has completed</description>
+  </event>
+  <event name="gre.animate.complete.popup_tar_cal" type="0x0">
+    <label>popup_tar_cal animation complete</label>
+    <description>The animation named popup_tar_cal has completed</description>
+  </event>
+  <event name="gre.animate.complete.popup_tar_step" type="0x0">
+    <label>popup_tar_step animation complete</label>
+    <description>The animation named popup_tar_step has completed</description>
+  </event>
+  <event name="gre.animate.complete.prev_highlight" type="0x0">
+    <label>prev_highlight animation complete</label>
+    <description>The animation named prev_highlight has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_tm_alert" type="0x0">
+    <label>show_tm_alert animation complete</label>
+    <description>The animation named show_tm_alert has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_tm_alert_reversed" type="0x0">
+    <label>show_tm_alert_reversed animation complete</label>
+    <description>The animation named show_tm_alert_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.sport_mlb" type="0x0">
+    <label>sport_mlb animation complete</label>
+    <description>The animation named sport_mlb has completed</description>
+  </event>
+  <event name="gre.animate.complete.sport_nba" type="0x0">
+    <label>sport_nba animation complete</label>
+    <description>The animation named sport_nba has completed</description>
+  </event>
+  <event name="gre.animate.complete.sport_nfl" type="0x0">
+    <label>sport_nfl animation complete</label>
+    <description>The animation named sport_nfl has completed</description>
+  </event>
+  <event name="gre.animate.complete.sport_nhl" type="0x0">
+    <label>sport_nhl animation complete</label>
+    <description>The animation named sport_nhl has completed</description>
+  </event>
+  <event name="gre.animate.complete.step_fill" type="0x0">
+    <label>step_fill animation complete</label>
+    <description>The animation named step_fill has completed</description>
+  </event>
+  <event name="gre.animate.complete.timer_set_select" type="0x0">
+    <label>timer_set_select animation complete</label>
+    <description>The animation named timer_set_select has completed</description>
+  </event>
+  <event name="gre.animate.complete.tm_alert_done" type="0x0">
+    <label>tm_alert_done animation complete</label>
+    <description>The animation named tm_alert_done has completed</description>
+  </event>
+  <event name="gre.animate.complete.turn_by_turn" type="0x0">
+    <label>turn_by_turn animation complete</label>
+    <description>The animation named turn_by_turn has completed</description>
+  </event>
+  <event name="gre.animate.complete.z_phone_to_analog" type="0x0">
+    <label>z_phone_to_analog animation complete</label>
+    <description>The animation named z_phone_to_analog has completed</description>
+  </event>
+  <event name="gre.animate.stop.call_answer" type="0x8">
+    <label>call_answer animation stopped</label>
+    <description>The animation named call_answer has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.call_answer_decline" type="0x8">
+    <label>call_answer_decline animation stopped</label>
+    <description>The animation named call_answer_decline has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.call_decline" type="0x8">
+    <label>call_decline animation stopped</label>
+    <description>The animation named call_decline has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.call_end" type="0x8">
+    <label>call_end animation stopped</label>
+    <description>The animation named call_end has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fill" type="0x8">
+    <label>fill animation stopped</label>
+    <description>The animation named fill has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fit_bpm" type="0x8">
+    <label>fit_bpm animation stopped</label>
+    <description>The animation named fit_bpm has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fit_popup" type="0x8">
+    <label>fit_popup animation stopped</label>
+    <description>The animation named fit_popup has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fit_popup_reversed" type="0x8">
+    <label>fit_popup_reversed animation stopped</label>
+    <description>The animation named fit_popup_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fit_run" type="0x8">
+    <label>fit_run animation stopped</label>
+    <description>The animation named fit_run has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fit_walk" type="0x8">
+    <label>fit_walk animation stopped</label>
+    <description>The animation named fit_walk has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.hands_seconds" type="0x8">
+    <label>hands_seconds animation stopped</label>
+    <description>The animation named hands_seconds has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.message_show" type="0x8">
+    <label>message_show animation stopped</label>
+    <description>The animation named message_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.message_show_reversed" type="0x8">
+    <label>message_show_reversed animation stopped</label>
+    <description>The animation named message_show_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.mlb_1_2" type="0x8">
+    <label>mlb_1_2 animation stopped</label>
+    <description>The animation named mlb_1_2 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.mlb_1_2_reversed" type="0x8">
+    <label>mlb_1_2_reversed animation stopped</label>
+    <description>The animation named mlb_1_2_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.nav_location" type="0x8">
+    <label>nav_location animation stopped</label>
+    <description>The animation named nav_location has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.next_highlight" type="0x8">
+    <label>next_highlight animation stopped</label>
+    <description>The animation named next_highlight has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.phone_answer" type="0x8">
+    <label>phone_answer animation stopped</label>
+    <description>The animation named phone_answer has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.phone_decline" type="0x8">
+    <label>phone_decline animation stopped</label>
+    <description>The animation named phone_decline has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.phone_end" type="0x8">
+    <label>phone_end animation stopped</label>
+    <description>The animation named phone_end has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.phone_green_glow" type="0x8">
+    <label>phone_green_glow animation stopped</label>
+    <description>The animation named phone_green_glow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.phone_incoming" type="0x8">
+    <label>phone_incoming animation stopped</label>
+    <description>The animation named phone_incoming has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.phone_incoming1" type="0x8">
+    <label>phone_incoming1 animation stopped</label>
+    <description>The animation named phone_incoming1 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.phone_to_analog" type="0x8">
+    <label>phone_to_analog animation stopped</label>
+    <description>The animation named phone_to_analog has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.popup_cal_lead" type="0x8">
+    <label>popup_cal_lead animation stopped</label>
+    <description>The animation named popup_cal_lead has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.popup_cal_tar" type="0x8">
+    <label>popup_cal_tar animation stopped</label>
+    <description>The animation named popup_cal_tar has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.popup_lead_cal" type="0x8">
+    <label>popup_lead_cal animation stopped</label>
+    <description>The animation named popup_lead_cal has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.popup_lead_step" type="0x8">
+    <label>popup_lead_step animation stopped</label>
+    <description>The animation named popup_lead_step has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.popup_step_lead" type="0x8">
+    <label>popup_step_lead animation stopped</label>
+    <description>The animation named popup_step_lead has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.popup_step_tar" type="0x8">
+    <label>popup_step_tar animation stopped</label>
+    <description>The animation named popup_step_tar has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.popup_tar_cal" type="0x8">
+    <label>popup_tar_cal animation stopped</label>
+    <description>The animation named popup_tar_cal has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.popup_tar_step" type="0x8">
+    <label>popup_tar_step animation stopped</label>
+    <description>The animation named popup_tar_step has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.prev_highlight" type="0x8">
+    <label>prev_highlight animation stopped</label>
+    <description>The animation named prev_highlight has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_tm_alert" type="0x8">
+    <label>show_tm_alert animation stopped</label>
+    <description>The animation named show_tm_alert has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_tm_alert_reversed" type="0x8">
+    <label>show_tm_alert_reversed animation stopped</label>
+    <description>The animation named show_tm_alert_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.sport_mlb" type="0x8">
+    <label>sport_mlb animation stopped</label>
+    <description>The animation named sport_mlb has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.sport_nba" type="0x8">
+    <label>sport_nba animation stopped</label>
+    <description>The animation named sport_nba has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.sport_nfl" type="0x8">
+    <label>sport_nfl animation stopped</label>
+    <description>The animation named sport_nfl has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.sport_nhl" type="0x8">
+    <label>sport_nhl animation stopped</label>
+    <description>The animation named sport_nhl has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.step_fill" type="0x8">
+    <label>step_fill animation stopped</label>
+    <description>The animation named step_fill has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.timer_set_select" type="0x8">
+    <label>timer_set_select animation stopped</label>
+    <description>The animation named timer_set_select has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.tm_alert_done" type="0x8">
+    <label>tm_alert_done animation stopped</label>
+    <description>The animation named tm_alert_done has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.turn_by_turn" type="0x8">
+    <label>turn_by_turn animation stopped</label>
+    <description>The animation named turn_by_turn has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.z_phone_to_analog" type="0x8">
+    <label>z_phone_to_analog animation stopped</label>
+    <description>The animation named z_phone_to_analog has been stopped</description>
+  </event>
+  <event name="gre.gesture.down" type="0x0"/>
+  <event name="gre.gesture.left" type="0x0"/>
+  <event name="gre.gesture.right" type="0x0"/>
+  <event name="gre.gesture.up" type="0x0"/>
+  <event name="stop_fit_bpm_animation" type="0x0"/>
+  <event name="stop_fit_run_animation" type="0x0"/>
+  <event name="stop_fit_walk_animation" type="0x0"/>
+  <event name="timer.clockTimer" type="0x0">
+    <description>The timer named timer.clockTimer has fired</description>
+  </event>
+</eventdefinitions>

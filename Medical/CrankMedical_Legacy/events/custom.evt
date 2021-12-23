@@ -1,0 +1,26 @@
+
+timer.clock##clock timer fired #The timer named clock is firing
+
+gre.animate.complete.slide_right##slide_right animation complete #The animation named slide_right has completed
+
+gre.animate.complete.girl_to_boy##girl_to_boy animation complete #The animation named girl_to_boy has completed
+
+go_right
+
+go_left
+
+gre.animate.complete.slide_left##slide_left animation complete #The animation named slide_left has completed
+
+gre.animate.complete.boy_to_girl##boy_to_girl animation complete #The animation named boy_to_girl has completed
+
+timer.timer##timer timer fired #The timer named timer is firing
+
+focus_next
+
+timer.num_update##num_update timer fired #The timer named num_update is firing
+
+gre.animate.complete.## animation complete #The animation named  has completed
+
+update_temp
+
+gre.animate.complete.move_temp##move_temp animation complete #The animation named move_temp has completed

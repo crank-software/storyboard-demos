@@ -1,0 +1,240 @@
+
+gre.animate.complete.app_navigation_open##app_navigation_open animation complete #The animation named app_navigation_open has completed
+
+gre.animate.complete.app_navigation_close##app_navigation_close animation complete #The animation named app_navigation_close has completed
+
+app_to_home##app_to_home
+
+app_stop_open_animation##app_stop_open_animation
+
+gre.animate.complete.media_cd_open##media_cd_open animation complete #The animation named media_cd_open has completed
+
+gre.animate.complete.media_aux_screen##media_aux_screen animation complete #The animation named media_aux_screen has completed
+
+gre.animate.complete.media_radio_screen##media_radio_screen animation complete #The animation named media_radio_screen has completed
+
+gre.animate.complete.media_main_screen##media_main_screen animation complete #The animation named media_main_screen has completed
+
+gre.animate.complete.app_settings_open##app_settings_open animation complete #The animation named app_settings_open has completed
+
+gre.animate.complete.climate_tofan##climate_tofan animation complete #The animation named climate_tofan has completed
+
+gre.animate.complete.climate_totemp##climate_totemp animation complete #The animation named climate_totemp has completed
+
+gre.animate.complete.navi_show_keyboard##navi_show_keyboard animation complete #The animation named navi_show_keyboard has completed
+
+gre.animate.complete.navi_keyboard_enter##navi_keyboard_enter animation complete #The animation named navi_keyboard_enter has completed
+
+gre.animate.complete.navi_suggestion_select##navi_suggestion_select animation complete #The animation named navi_suggestion_select has completed
+
+gre.animate.complete.navi_location_select##navi_location_select animation complete #The animation named navi_location_select has completed
+
+gre.animate.complete.navi_route_select##navi_route_select animation complete #The animation named navi_route_select has completed
+
+gre.animate.complete.navi_recent_select##navi_recent_select animation complete #The animation named navi_recent_select has completed
+
+gre.animate.complete.navi_recent_route_select##navi_recent_route_select animation complete #The animation named navi_recent_route_select has completed
+
+gre.animate.complete.navi_favorites_select##navi_favorites_select animation complete #The animation named navi_favorites_select has completed
+
+gre.animate.complete.navi_favorites_route_select##navi_favorites_route_select animation complete #The animation named navi_favorites_route_select has completed
+
+gre.animate.complete.navi_poi_select_poi##navi_poi_select_poi animation complete #The animation named navi_poi_select_poi has completed
+
+gre.animate.complete.phone_call_contact##phone_call_contact animation complete #The animation named phone_call_contact has completed
+
+gre.animate.complete.media_cd_close##media_cd_close animation complete #The animation named media_cd_close has completed
+
+gre.animate.complete.media_library_open##media_library_open animation complete #The animation named media_library_open has completed
+
+gre.animate.complete.media_library_close##media_library_close animation complete #The animation named media_library_close has completed
+
+gre.animate.complete.app_settings_close##app_settings_close animation complete #The animation named app_settings_close has completed
+
+gre.animate.complete.app_navigation_vm_hover##app_navigation_vm_hover animation complete #The animation named app_navigation_vm_hover has completed
+
+gre.animate.complete.app_navigation_navi_hover##app_navigation_navi_hover animation complete #The animation named app_navigation_navi_hover has completed
+
+gre.animate.complete.app_navigation_climate_hover##app_navigation_climate_hover animation complete #The animation named app_navigation_climate_hover has completed
+
+gre.animate.complete.app_navigation_media_hover##app_navigation_media_hover animation complete #The animation named app_navigation_media_hover has completed
+
+gre.animate.complete.app_navigation_phone_hover##app_navigation_phone_hover animation complete #The animation named app_navigation_phone_hover has completed
+
+gre.animate.complete.settings_units_toimperial##settings_units_toimperial animation complete #The animation named settings_units_toimperial has completed
+
+gre.animate.complete.settings_units_tometric##settings_units_tometric animation complete #The animation named settings_units_tometric has completed
+
+gre.animate.complete.settings_wifi_hide##settings_wifi_hide animation complete #The animation named settings_wifi_hide has completed
+
+gre.animate.complete.settings_wifi_show##settings_wifi_show animation complete #The animation named settings_wifi_show has completed
+
+gre.animate.complete.settings_eq_show##settings_eq_show animation complete #The animation named settings_eq_show has completed
+
+gre.animate.complete.settings_eq_hide##settings_eq_hide animation complete #The animation named settings_eq_hide has completed
+
+gre.animate.complete.settings_phone_show##settings_phone_show animation complete #The animation named settings_phone_show has completed
+
+gre.animate.complete.settings_phone_hide##settings_phone_hide animation complete #The animation named settings_phone_hide has completed
+
+gre.animate.complete.settings_navi_show##settings_navi_show animation complete #The animation named settings_navi_show has completed
+
+gre.animate.complete.settings_navi_hide##settings_navi_hide animation complete #The animation named settings_navi_hide has completed
+
+gre.animate.complete.phone_call_keypad##phone_call_keypad animation complete #The animation named phone_call_keypad has completed
+
+gre.animate.complete.phone_keypad_open##phone_keypad_open animation complete #The animation named phone_keypad_open has completed
+
+gre.animate.complete.phone_keypad_close##phone_keypad_close animation complete #The animation named phone_keypad_close has completed
+
+gre.animate.complete.phone_recent_open##phone_recent_open animation complete #The animation named phone_recent_open has completed
+
+gre.animate.complete.phone_recent_close##phone_recent_close animation complete #The animation named phone_recent_close has completed
+
+gre.animate.complete.phone_favorites_open##phone_favorites_open animation complete #The animation named phone_favorites_open has completed
+
+gre.animate.complete.phone_favorites_close##phone_favorites_close animation complete #The animation named phone_favorites_close has completed
+
+gre.animate.complete.phone_contacts_open##phone_contacts_open animation complete #The animation named phone_contacts_open has completed
+
+gre.animate.complete.phone_contacts_close##phone_contacts_close animation complete #The animation named phone_contacts_close has completed
+
+gre.animate.complete.navi_directions_open##navi_directions_open animation complete #The animation named navi_directions_open has completed
+
+gre.animate.complete.navi_directions_close##navi_directions_close animation complete #The animation named navi_directions_close has completed
+
+gre.animate.complete.navi_favorites_open##navi_favorites_open animation complete #The animation named navi_favorites_open has completed
+
+gre.animate.complete.navi_favorites_close##navi_favorites_close animation complete #The animation named navi_favorites_close has completed
+
+gre.animate.complete.navi_poi_open##navi_poi_open animation complete #The animation named navi_poi_open has completed
+
+gre.animate.complete.navi_poi_close##navi_poi_close animation complete #The animation named navi_poi_close has completed
+
+gre.animate.complete.navi_recent_open##navi_recent_open animation complete #The animation named navi_recent_open has completed
+
+gre.animate.complete.navi_recent_close##navi_recent_close animation complete #The animation named navi_recent_close has completed
+
+gre.animate.complete.vm_brakes_show##vm_brakes_show animation complete #The animation named vm_brakes_show has completed
+
+gre.animate.complete.vm_engine_show##vm_engine_show animation complete #The animation named vm_engine_show has completed
+
+gre.animate.complete.vm_fluid_show##vm_fluid_show animation complete #The animation named vm_fluid_show has completed
+
+gre.animate.complete.vm_tyres_show##vm_tyres_show animation complete #The animation named vm_tyres_show has completed
+
+gre.animate.complete.vm_tyres_hide##vm_tyres_hide animation complete #The animation named vm_tyres_hide has completed
+
+gre.animate.complete.vm_fluid_hide##vm_fluid_hide animation complete #The animation named vm_fluid_hide has completed
+
+gre.animate.complete.vm_engine_hide##vm_engine_hide animation complete #The animation named vm_engine_hide has completed
+
+gre.animate.complete.vm_brakes_hide##vm_brakes_hide animation complete #The animation named vm_brakes_hide has completed
+
+gre.animate.complete.settings_phone_to_on##settings_phone_to_on animation complete #The animation named settings_phone_to_on has completed
+
+gre.animate.complete.settings_phone_to_off##settings_phone_to_off animation complete #The animation named settings_phone_to_off has completed
+
+gre.animate.complete.settings_climate_to_off##settings_climate_to_off animation complete #The animation named settings_climate_to_off has completed
+
+gre.animate.complete.settings_climate_to_on##settings_climate_to_on animation complete #The animation named settings_climate_to_on has completed
+
+gre.animate.complete.settings_climate_to_on1##settings_climate_to_on1 animation complete #The animation named settings_climate_to_on1 has completed
+
+gre.animate.complete.settings_climate_to_off1##settings_climate_to_off1 animation complete #The animation named settings_climate_to_off1 has completed
+
+gre.animate.complete.settings_navi_to_on##settings_navi_to_on animation complete #The animation named settings_navi_to_on has completed
+
+gre.animate.complete.settings_navi_to_off##settings_navi_to_off animation complete #The animation named settings_navi_to_off has completed
+
+gre.animate.complete.settings_vm_to_on##settings_vm_to_on animation complete #The animation named settings_vm_to_on has completed
+
+gre.animate.complete.settings_vm_to_off##settings_vm_to_off animation complete #The animation named settings_vm_to_off has completed
+
+gre.animate.complete.phone_keypad_button_press##phone_keypad_button_press animation complete #The animation named phone_keypad_button_press has completed
+
+gre.animate.complete.climate_main_button_press##climate_main_button_press animation complete #The animation named climate_main_button_press has completed
+
+gre.animate.complete.phone_show_phone_icons##phone_show_phone_icons animation complete #The animation named phone_show_phone_icons has completed
+
+gre.animate.complete.phone_end_call_button##phone_end_call_button animation complete #The animation named phone_end_call_button has completed
+
+gre.animate.complete.phone_active_call_animation##phone_active_call_animation animation complete #The animation named phone_active_call_animation has completed
+
+gre.animate.complete.climate_road_open##climate_road_open animation complete #The animation named climate_road_open has completed
+
+gre.animate.complete.climate_road_close##climate_road_close animation complete #The animation named climate_road_close has completed
+
+gre.animate.complete.climate_exterior_open##climate_exterior_open animation complete #The animation named climate_exterior_open has completed
+
+gre.animate.complete.climate_exterior_close##climate_exterior_close animation complete #The animation named climate_exterior_close has completed
+
+gre.animate.complete.navi_keyboard_button_press##navi_keyboard_button_press animation complete #The animation named navi_keyboard_button_press has completed
+
+gre.animate.complete.phone_active_call_end##phone_active_call_end animation complete #The animation named phone_active_call_end has completed
+
+gre.animate.complete.app_incoming_call##app_incoming_call animation complete #The animation named app_incoming_call has completed
+
+gre.animate.complete.app_incoming_call_close##app_incoming_call_close animation complete #The animation named app_incoming_call_close has completed
+
+gre.animate.complete.media_play_pause_press##media_play_pause_press animation complete #The animation named media_play_pause_press has completed
+
+gre.animate.complete.navi_route_onmap_show##navi_route_onmap_show animation complete #The animation named navi_route_onmap_show has completed
+
+gre.animate.complete.home_show_icons##home_show_icons animation complete #The animation named home_show_icons has completed
+
+gre.animate.complete.home_show_climate##home_show_climate animation complete #The animation named home_show_climate has completed
+
+gre.animate.complete.home_show_navi##home_show_navi animation complete #The animation named home_show_navi has completed
+
+gre.animate.complete.home_show_vm##home_show_vm animation complete #The animation named home_show_vm has completed
+
+gre.animate.complete.home_show_music##home_show_music animation complete #The animation named home_show_music has completed
+
+gre.animate.complete.home_show_phone##home_show_phone animation complete #The animation named home_show_phone has completed
+
+gre.animate.complete.home_close_phone##home_close_phone animation complete #The animation named home_close_phone has completed
+
+gre.animate.complete.home_close_climate##home_close_climate animation complete #The animation named home_close_climate has completed
+
+gre.animate.complete.home_close_music##home_close_music animation complete #The animation named home_close_music has completed
+
+gre.animate.complete.home_close_navi##home_close_navi animation complete #The animation named home_close_navi has completed
+
+gre.animate.complete.home_close_vm##home_close_vm animation complete #The animation named home_close_vm has completed
+
+gre.animate.complete.media_show_song_data##media_show_song_data animation complete #The animation named media_show_song_data has completed
+
+gre.animate.complete.app_shutdown##app_shutdown animation complete #The animation named app_shutdown has completed
+
+gre.animate.complete.app_navigation_new_open##app_navigation_new_open animation complete #The animation named app_navigation_new_open has completed
+
+gre.animate.complete.app_navigation_new_close##app_navigation_new_close animation complete #The animation named app_navigation_new_close has completed
+
+gre.animate.complete.phone_main_layer_move_right##phone_main_layer_move_right animation complete #The animation named phone_main_layer_move_right has completed
+
+gre.animate.complete.phone_main_layer_move_left##phone_main_layer_move_left animation complete #The animation named phone_main_layer_move_left has completed
+
+gre.animate.complete.app_startup##app_startup animation complete #The animation named app_startup has completed
+
+phidget.button
+
+phidget.encoder
+
+app_to_media
+
+app_to_climate
+
+app_to_navi
+
+app_to_phone
+
+app_to_vm
+
+app_to_settings
+
+gre.animate.complete.media_library_category_select##media_library_category_select animation complete #The animation named media_library_category_select has completed
+
+gre.animate.complete.media_no_song_data##media_no_song_data animation complete #The animation named media_no_song_data has completed
+
+gre.animate.complete.media_song_data##media_song_data animation complete #The animation named media_song_data has completed

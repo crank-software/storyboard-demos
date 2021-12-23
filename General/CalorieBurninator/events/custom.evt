@@ -1,0 +1,24 @@
+
+tumbler_timer_start
+
+tumbler_timer_stop
+
+timer.tumbler##tumbler timer fired #The timer named tumbler is firing
+
+resize_table
+
+show_results
+
+set_activity
+
+gre.animate.complete.set_activity##set_activity animation complete #The animation named set_activity has completed
+
+ball_return
+
+gre.animate.complete.ball_return##ball_return animation complete #The animation named ball_return has completed
+
+start_weight_timer
+
+stop_weight_timer
+
+timer.weight##weight timer fired #The timer named weight is firing

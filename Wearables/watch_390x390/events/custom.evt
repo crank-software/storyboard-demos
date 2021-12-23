@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.heartrate" type="0x8">
+    <label>heartrate animation complete</label>
+    <description>The animation named heartrate has completed</description>
+  </event>
+  <event name="gre.animate.complete.minute_animation" type="0x8">
+    <label>minute_animation animation complete</label>
+    <description>The animation named minute_animation has completed</description>
+  </event>
+  <event name="gre.animate.stop.heartrate" type="0x8">
+    <label>heartrate animation stopped</label>
+    <description>The animation named heartrate has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.minute_animation" type="0x8">
+    <label>minute_animation animation stopped</label>
+    <description>The animation named minute_animation has been stopped</description>
+  </event>
+</eventdefinitions>

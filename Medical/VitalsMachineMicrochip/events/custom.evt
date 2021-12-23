@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="crankScreenHide" type="0x0"/>
+  <event name="crankScreenShow" type="0x0"/>
+  <event name="device_update" type="0x0">
+    <description>Update from the medical devices</description>
+  </event>
+  <event name="deviceScreenShow" type="0x0"/>
+  <event name="goto_Home" type="0x0"/>
+  <event name="goto_Patient" type="0x0"/>
+  <event name="goto_Settings" type="0x0"/>
+  <event name="gre.animate.complete.App_bottomNav" type="0x0">
+    <label>App_bottomNav animation complete</label>
+    <description>The animation named App_bottomNav has completed</description>
+  </event>
+  <event name="gre.animate.complete.App_bottomNavClear" type="0x0">
+    <label>App_bottomNavClear animation complete</label>
+    <description>The animation named App_bottomNavClear has completed</description>
+  </event>
+  <event name="gre.animate.complete.App_CrankScreenHide" type="0x0">
+    <label>App_CrankScreenHide animation complete</label>
+    <description>The animation named App_CrankScreenHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.App_CrankScreenShow" type="0x0">
+    <label>App_CrankScreenShow animation complete</label>
+    <description>The animation named App_CrankScreenShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.App_homeScreenHide" type="0x0">
+    <label>App_homeScreenHide animation complete</label>
+    <description>The animation named App_homeScreenHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.App_homeScreenShow" type="0x0">
+    <label>App_homeScreenShow animation complete</label>
+    <description>The animation named App_homeScreenShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.App_PatientScreenHide" type="0x0">
+    <label>App_PatientScreenHide animation complete</label>
+    <description>The animation named App_PatientScreenHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.App_PatientScreenShow" type="0x0">
+    <label>App_PatientScreenShow animation complete</label>
+    <description>The animation named App_PatientScreenShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.App_SettingsScreenHide" type="0x0">
+    <label>App_SettingsScreenHide animation complete</label>
+    <description>The animation named App_SettingsScreenHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.App_SettingsScreenShow" type="0x0">
+    <label>App_SettingsScreenShow animation complete</label>
+    <description>The animation named App_SettingsScreenShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.bloodP_deep_hide" type="0x8">
+    <label>bloodP_deep_hide animation complete</label>
+    <description>The animation named bloodP_deep_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.bloodP_deep_show" type="0x8">
+    <label>bloodP_deep_show animation complete</label>
+    <description>The animation named bloodP_deep_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.bloodP_expand" type="0x8">
+    <label>bloodP_expand animation complete</label>
+    <description>The animation named bloodP_expand has completed</description>
+  </event>
+  <event name="gre.animate.complete.bloodP_expand_reversed" type="0x8">
+    <label>bloodP_expand_reversed animation complete</label>
+    <description>The animation named bloodP_expand_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.bloodP_start_test" type="0x8">
+    <label>bloodP_start_test animation complete</label>
+    <description>The animation named bloodP_start_test has completed</description>
+  </event>
+  <event name="gre.animate.complete.bloodP_stop_test" type="0x8">
+    <label>bloodP_stop_test animation complete</label>
+    <description>The animation named bloodP_stop_test has completed</description>
+  </event>
+  <event name="gre.animate.complete.body_temperature" type="0x8">
+    <label>body_temperature animation complete</label>
+    <description>The animation named body_temperature has completed</description>
+  </event>
+  <event name="gre.animate.complete.CrankFeatures" type="0x0">
+    <label>CrankFeatures animation complete</label>
+    <description>The animation named CrankFeatures has completed</description>
+  </event>
+  <event name="gre.animate.complete.data_demo" type="0x8">
+    <label>data_demo animation complete</label>
+    <description>The animation named data_demo has completed</description>
+  </event>
+  <event name="gre.animate.complete.data_live" type="0x8">
+    <label>data_live animation complete</label>
+    <description>The animation named data_live has completed</description>
+  </event>
+  <event name="gre.animate.complete.ecg_deep_hide" type="0x0">
+    <label>ecg_deep_hide animation complete</label>
+    <description>The animation named ecg_deep_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.ecg_deep_hide" type="0x0">
+    <label>ecg_deep_hide animation complete</label>
+    <description>The animation named ecg_deep_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.ecg_deep_show" type="0x0">
+    <label>ecg_deep_show animation complete</label>
+    <description>The animation named ecg_deep_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.ecg_deep_show" type="0x0">
+    <label>ecg_deep_show animation complete</label>
+    <description>The animation named ecg_deep_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.ecg_expand" type="0x0">
+    <label>ecg_expand animation complete</label>
+    <description>The animation named ecg_expand has completed</description>
+  </event>
+  <event name="gre.animate.complete.ecg_expand_reversed" type="0x8">
+    <label>ecg_expand_reversed animation complete</label>
+    <description>The animation named ecg_expand_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.graph_hide" type="0x8">
+    <label>graph_hide animation complete</label>
+    <description>The animation named graph_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.graph_show" type="0x8">
+    <label>graph_show animation complete</label>
+    <description>The animation named graph_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.home_layer_fade" type="0x0">
+    <label>home_layer_fade animation complete</label>
+    <description>The animation named home_layer_fade has completed</description>
+  </event>
+  <event name="gre.animate.complete.menu_device" type="0x8">
+    <label>menu_device animation complete</label>
+    <description>The animation named menu_device has completed</description>
+  </event>
+  <event name="gre.animate.complete.menu_home" type="0x8">
+    <label>menu_home animation complete</label>
+    <description>The animation named menu_home has completed</description>
+  </event>
+  <event name="gre.animate.complete.menu_patient" type="0x8">
+    <label>menu_patient animation complete</label>
+    <description>The animation named menu_patient has completed</description>
+  </event>
+  <event name="gre.animate.complete.menu_settings" type="0x8">
+    <label>menu_settings animation complete</label>
+    <description>The animation named menu_settings has completed</description>
+  </event>
+  <event name="gre.animate.complete.postOx_deep_hide" type="0x8">
+    <label>postOx_deep_hide animation complete</label>
+    <description>The animation named postOx_deep_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.postOx_deep_show" type="0x8">
+    <label>postOx_deep_show animation complete</label>
+    <description>The animation named postOx_deep_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.pulseOx_expand" type="0x8">
+    <label>pulseOx_expand animation complete</label>
+    <description>The animation named pulseOx_expand has completed</description>
+  </event>
+  <event name="gre.animate.complete.pulseOx_expand_reversed" type="0x8">
+    <label>pulseOx_expand_reversed animation complete</label>
+    <description>The animation named pulseOx_expand_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.pulseOx_reset" type="0x8">
+    <label>pulseOx_reset animation complete</label>
+    <description>The animation named pulseOx_reset has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_Advanced" type="0x0">
+    <label>Settings_Advanced animation complete</label>
+    <description>The animation named Settings_Advanced has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_AdvancedReset" type="0x0">
+    <label>Settings_AdvancedReset animation complete</label>
+    <description>The animation named Settings_AdvancedReset has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsAnimation" type="0x0">
+    <label>Settings_IntervalsAnimation animation complete</label>
+    <description>The animation named Settings_IntervalsAnimation has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsAnimationEnd" type="0x0">
+    <label>Settings_IntervalsAnimationEnd animation complete</label>
+    <description>The animation named Settings_IntervalsAnimationEnd has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsBack" type="0x0">
+    <label>Settings_IntervalsBack animation complete</label>
+    <description>The animation named Settings_IntervalsBack has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsCheckOff" type="0x0">
+    <label>Settings_IntervalsCheckOff animation complete</label>
+    <description>The animation named Settings_IntervalsCheckOff has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsCheckOn" type="0x0">
+    <label>Settings_IntervalsCheckOn animation complete</label>
+    <description>The animation named Settings_IntervalsCheckOn has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsRadialOff" type="0x0">
+    <label>Settings_IntervalsRadialOff animation complete</label>
+    <description>The animation named Settings_IntervalsRadialOff has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsRadialOn" type="0x0">
+    <label>Settings_IntervalsRadialOn animation complete</label>
+    <description>The animation named Settings_IntervalsRadialOn has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_IntervalsSubmit" type="0x0">
+    <label>Settings_IntervalsSubmit animation complete</label>
+    <description>The animation named Settings_IntervalsSubmit has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_KeypadPress" type="0x0">
+    <label>Settings_KeypadPress animation complete</label>
+    <description>The animation named Settings_KeypadPress has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_ShowAdvanced" type="0x0">
+    <label>Settings_ShowAdvanced animation complete</label>
+    <description>The animation named Settings_ShowAdvanced has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_ShowClinician" type="0x0">
+    <label>Settings_ShowClinician animation complete</label>
+    <description>The animation named Settings_ShowClinician has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_ShowDevice" type="0x0">
+    <label>Settings_ShowDevice animation complete</label>
+    <description>The animation named Settings_ShowDevice has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_ShowIntervals" type="0x0">
+    <label>Settings_ShowIntervals animation complete</label>
+    <description>The animation named Settings_ShowIntervals has completed</description>
+  </event>
+  <event name="gre.animate.complete.Settings_ShowProfiles" type="0x0">
+    <label>Settings_ShowProfiles animation complete</label>
+    <description>The animation named Settings_ShowProfiles has completed</description>
+  </event>
+  <event name="gre.animate.complete.sliderPress" type="0x0">
+    <label>sliderPress animation complete</label>
+    <description>The animation named sliderPress has completed</description>
+  </event>
+  <event name="gre.animate.complete.sliderRelease" type="0x0">
+    <label>sliderRelease animation complete</label>
+    <description>The animation named sliderRelease has completed</description>
+  </event>
+  <event name="gre.animate.complete.switchOff" type="0x0">
+    <label>switchOff animation complete</label>
+    <description>The animation named switchOff has completed</description>
+  </event>
+  <event name="gre.animate.complete.switchOn" type="0x0">
+    <label>switchOn animation complete</label>
+    <description>The animation named switchOn has completed</description>
+  </event>
+  <event name="gre.animate.complete.temp_toggle_C" type="0x8">
+    <label>temp_toggle_C animation complete</label>
+    <description>The animation named temp_toggle_C has completed</description>
+  </event>
+  <event name="gre.animate.complete.temp_toggle_F" type="0x8">
+    <label>temp_toggle_F animation complete</label>
+    <description>The animation named temp_toggle_F has completed</description>
+  </event>
+  <event name="gre.animate.complete.time_toggle_12" type="0x8">
+    <label>time_toggle_12 animation complete</label>
+    <description>The animation named time_toggle_12 has completed</description>
+  </event>
+  <event name="gre.animate.complete.time_toggle_24" type="0x8">
+    <label>time_toggle_24 animation complete</label>
+    <description>The animation named time_toggle_24 has completed</description>
+  </event>
+  <event name="gre.animate.stop.App_bottomNav" type="0x0">
+    <label>App_bottomNav animation complete</label>
+    <description>The animation named App_bottomNav has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.App_bottomNavClear" type="0x0">
+    <label>App_bottomNavClear animation complete</label>
+    <description>The animation named App_bottomNavClear has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.App_CrankScreenHide" type="0x0">
+    <label>App_CrankScreenHide animation complete</label>
+    <description>The animation named App_CrankScreenHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.App_CrankScreenShow" type="0x0">
+    <label>App_CrankScreenShow animation complete</label>
+    <description>The animation named App_CrankScreenShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.App_homeScreenHide" type="0x0">
+    <label>App_homeScreenHide animation complete</label>
+    <description>The animation named App_homeScreenHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.App_homeScreenShow" type="0x0">
+    <label>App_homeScreenShow animation complete</label>
+    <description>The animation named App_homeScreenShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.App_PatientScreenHide" type="0x0">
+    <label>App_PatientScreenHide animation complete</label>
+    <description>The animation named App_PatientScreenHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.App_PatientScreenShow" type="0x0">
+    <label>App_PatientScreenShow animation complete</label>
+    <description>The animation named App_PatientScreenShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.App_SettingsScreenHide" type="0x0">
+    <label>App_SettingsScreenHide animation complete</label>
+    <description>The animation named App_SettingsScreenHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.App_SettingsScreenShow" type="0x0">
+    <label>App_SettingsScreenShow animation complete</label>
+    <description>The animation named App_SettingsScreenShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.bloodP_deep_hide" type="0x8">
+    <label>bloodP_deep_hide animation stopped</label>
+    <description>The animation named bloodP_deep_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.bloodP_deep_show" type="0x8">
+    <label>bloodP_deep_show animation stopped</label>
+    <description>The animation named bloodP_deep_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.bloodP_expand" type="0x8">
+    <label>bloodP_expand animation stopped</label>
+    <description>The animation named bloodP_expand has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.bloodP_expand_reversed" type="0x8">
+    <label>bloodP_expand_reversed animation stopped</label>
+    <description>The animation named bloodP_expand_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.bloodP_start_test" type="0x8">
+    <label>bloodP_start_test animation stopped</label>
+    <description>The animation named bloodP_start_test has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.bloodP_stop_test" type="0x8">
+    <label>bloodP_stop_test animation stopped</label>
+    <description>The animation named bloodP_stop_test has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.body_temperature" type="0x8">
+    <label>body_temperature animation stopped</label>
+    <description>The animation named body_temperature has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CrankFeatures" type="0x0">
+    <label>CrankFeatures animation complete</label>
+    <description>The animation named CrankFeatures has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.data_demo" type="0x8">
+    <label>data_demo animation stopped</label>
+    <description>The animation named data_demo has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.data_live" type="0x8">
+    <label>data_live animation stopped</label>
+    <description>The animation named data_live has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.ecg_deep_hide" type="0x0">
+    <label>ecg_deep_hide animation stopped</label>
+    <description>The animation named ecg_deep_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.ecg_deep_hide" type="0x0">
+    <label>ecg_deep_hide animation stopped</label>
+    <description>The animation named ecg_deep_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.ecg_deep_show" type="0x0">
+    <label>ecg_deep_show animation stopped</label>
+    <description>The animation named ecg_deep_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.ecg_deep_show" type="0x0">
+    <label>ecg_deep_show animation stopped</label>
+    <description>The animation named ecg_deep_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.ecg_expand" type="0x0">
+    <label>ecg_expand animation stopped</label>
+    <description>The animation named ecg_expand has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.ecg_expand_reversed" type="0x8">
+    <label>ecg_expand_reversed animation stopped</label>
+    <description>The animation named ecg_expand_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.graph_hide" type="0x8">
+    <label>graph_hide animation stopped</label>
+    <description>The animation named graph_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.graph_show" type="0x8">
+    <label>graph_show animation stopped</label>
+    <description>The animation named graph_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.home_layer_fade" type="0x0">
+    <label>home_layer_fade animation stopped</label>
+    <description>The animation named home_layer_fade has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.menu_device" type="0x8">
+    <label>menu_device animation stopped</label>
+    <description>The animation named menu_device has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.menu_home" type="0x8">
+    <label>menu_home animation stopped</label>
+    <description>The animation named menu_home has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.menu_patient" type="0x8">
+    <label>menu_patient animation stopped</label>
+    <description>The animation named menu_patient has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.menu_settings" type="0x8">
+    <label>menu_settings animation stopped</label>
+    <description>The animation named menu_settings has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.postOx_deep_hide" type="0x8">
+    <label>postOx_deep_hide animation stopped</label>
+    <description>The animation named postOx_deep_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.postOx_deep_show" type="0x8">
+    <label>postOx_deep_show animation stopped</label>
+    <description>The animation named postOx_deep_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pulseOx_expand" type="0x8">
+    <label>pulseOx_expand animation stopped</label>
+    <description>The animation named pulseOx_expand has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pulseOx_expand_reversed" type="0x8">
+    <label>pulseOx_expand_reversed animation stopped</label>
+    <description>The animation named pulseOx_expand_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pulseOx_reset" type="0x8">
+    <label>pulseOx_reset animation stopped</label>
+    <description>The animation named pulseOx_reset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_Advanced" type="0x0">
+    <label>Settings_Advanced animation complete</label>
+    <description>The animation named Settings_Advanced has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_AdvancedReset" type="0x0">
+    <label>Settings_AdvancedReset animation complete</label>
+    <description>The animation named Settings_AdvancedReset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsAnimation" type="0x0">
+    <label>Settings_IntervalsAnimation animation complete</label>
+    <description>The animation named Settings_IntervalsAnimation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsAnimationEnd" type="0x0">
+    <label>Settings_IntervalsAnimationEnd animation complete</label>
+    <description>The animation named Settings_IntervalsAnimationEnd has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsBack" type="0x0">
+    <label>Settings_IntervalsBack animation complete</label>
+    <description>The animation named Settings_IntervalsBack has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsCheckOff" type="0x0">
+    <label>Settings_IntervalsCheckOff animation complete</label>
+    <description>The animation named Settings_IntervalsCheckOff has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsCheckOn" type="0x0">
+    <label>Settings_IntervalsCheckOn animation complete</label>
+    <description>The animation named Settings_IntervalsCheckOn has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsRadialOff" type="0x0">
+    <label>Settings_IntervalsRadialOff animation complete</label>
+    <description>The animation named Settings_IntervalsRadialOff has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsRadialOn" type="0x0">
+    <label>Settings_IntervalsRadialOn animation complete</label>
+    <description>The animation named Settings_IntervalsRadialOn has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_IntervalsSubmit" type="0x0">
+    <label>Settings_IntervalsSubmit animation complete</label>
+    <description>The animation named Settings_IntervalsSubmit has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_KeypadPress" type="0x0">
+    <label>Settings_KeypadPress animation complete</label>
+    <description>The animation named Settings_KeypadPress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_ShowAdvanced" type="0x0">
+    <label>Settings_ShowAdvanced animation complete</label>
+    <description>The animation named Settings_ShowAdvanced has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_ShowClinician" type="0x0">
+    <label>Settings_ShowClinician animation complete</label>
+    <description>The animation named Settings_ShowClinician has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_ShowDevice" type="0x0">
+    <label>Settings_ShowDevice animation complete</label>
+    <description>The animation named Settings_ShowDevice has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_ShowIntervals" type="0x0">
+    <label>Settings_ShowIntervals animation complete</label>
+    <description>The animation named Settings_ShowIntervals has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.Settings_ShowProfiles" type="0x0">
+    <label>Settings_ShowProfiles animation complete</label>
+    <description>The animation named Settings_ShowProfiles has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.sliderPress" type="0x0">
+    <label>sliderPress animation complete</label>
+    <description>The animation named sliderPress has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.sliderRelease" type="0x0">
+    <label>sliderRelease animation complete</label>
+    <description>The animation named sliderRelease has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.switchOff" type="0x0">
+    <label>switchOff animation complete</label>
+    <description>The animation named switchOff has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.switchOn" type="0x0">
+    <label>switchOn animation complete</label>
+    <description>The animation named switchOn has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.temp_toggle_C" type="0x8">
+    <label>temp_toggle_C animation stopped</label>
+    <description>The animation named temp_toggle_C has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.temp_toggle_F" type="0x8">
+    <label>temp_toggle_F animation stopped</label>
+    <description>The animation named temp_toggle_F has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.time_toggle_12" type="0x8">
+    <label>time_toggle_12 animation stopped</label>
+    <description>The animation named time_toggle_12 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.time_toggle_24" type="0x8">
+    <label>time_toggle_24 animation stopped</label>
+    <description>The animation named time_toggle_24 has been stopped</description>
+  </event>
+  <event name="homeScreenHide" type="0x0"/>
+  <event name="homeScreenShow" type="0x0"/>
+  <event name="patientScreenHide" type="0x0"/>
+  <event name="patientScreenShow" type="0x0"/>
+  <event name="settingsScreenHide" type="0x0"/>
+  <event name="settingsScreenShow" type="0x0"/>
+  <event name="startPlayback" type="0x0"/>
+  <event name="timer.cpu_monitor" type="0x0">
+    <description>The timer named timer.cpu_monitor has fired</description>
+  </event>
+  <event name="updateBpEvent" type="0x0"/>
+  <event name="updatePulseEvent" type="0x0"/>
+  <event name="updateSpEvent" type="0x0"/>
+  <event name="updateTempEvent" type="0x0"/>
+</eventdefinitions>

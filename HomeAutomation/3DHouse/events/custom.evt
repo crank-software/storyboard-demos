@@ -1,0 +1,352 @@
+
+gre.animate.complete.press_bedroom_navigation##press_bedroom_navigation animation complete #The animation named press_bedroom_navigation has completed
+
+gre.animate.complete.press_open_camera##press_open_camera animation complete #The animation named press_open_camera has completed
+
+gre.animate.complete.notification_popout##notification_popout animation complete #The animation named notification_popout has completed
+
+gre.animate.complete.foyer_lock_dialouge_open##foyer_lock_dialouge_open animation complete #The animation named foyer_lock_dialouge_open has completed
+
+gre.animate.complete.foyer_lock_press_lock##foyer_lock_press_lock animation complete #The animation named foyer_lock_press_lock has completed
+
+gre.animate.complete.foyer_lock_press_unlock##foyer_lock_press_unlock animation complete #The animation named foyer_lock_press_unlock has completed
+
+timer.foyer_status##timer.foyer_status timer fired #The timer named timer.foyer_status has fired
+
+gre.animate.complete.foyer_light_open##foyer_light_open animation complete #The animation named foyer_light_open has completed
+
+gre.animate.complete.foyer_light_close##foyer_light_close animation complete #The animation named foyer_light_close has completed
+
+gre.animate.complete.notification_close##notification_close animation complete #The animation named notification_close has completed
+
+gre.animate.complete.notification_press##notification_press animation complete #The animation named notification_press has completed
+
+gre.animate.complete.notification_push_down##notification_push_down animation complete #The animation named notification_push_down has completed
+
+gre.animate.complete.kitchen_thermostat_open##kitchen_thermostat_open animation complete #The animation named kitchen_thermostat_open has completed
+
+to_screen_overall##to_screen_overall
+
+to_screen_bedroom##to_screen_bedroom
+
+to_screen_kitchen##to_screen_kitchen
+
+to_screen_livingroom##to_screen_livingroom
+
+gre.animate.complete.kitchen_status_open##kitchen_status_open animation complete #The animation named kitchen_status_open has completed
+
+timer.kitchen_status##timer.kitchen_status timer fired #The timer named timer.kitchen_status has fired
+
+gre.animate.complete.kitchen_light_open##kitchen_light_open animation complete #The animation named kitchen_light_open has completed
+
+gre.animate.complete.kitchen_status_closed##kitchen_status_closed animation complete #The animation named kitchen_status_closed has completed
+
+gre.animate.complete.kitchen_light_close##kitchen_light_close animation complete #The animation named kitchen_light_close has completed
+
+gre.animate.complete.bedroom_light_open##bedroom_light_open animation complete #The animation named bedroom_light_open has completed
+
+gre.animate.complete.bedroom_light_close##bedroom_light_close animation complete #The animation named bedroom_light_close has completed
+
+gre.animate.complete.camera_open##camera_open animation complete #The animation named camera_open has completed
+
+gre.animate.complete.camera_close##camera_close animation complete #The animation named camera_close has completed
+
+gre.animate.complete.kitchen_thermostat_close##kitchen_thermostat_close animation complete #The animation named kitchen_thermostat_close has completed
+
+gre.animate.complete.foyer_lock_dialouge_close##foyer_lock_dialouge_close animation complete #The animation named foyer_lock_dialouge_close has completed
+
+gre.animate.complete.light_main_open##light_main_open animation complete #The animation named light_main_open has completed
+
+gre.animate.complete.light_main_close##light_main_close animation complete #The animation named light_main_close has completed
+
+resize_table##resize_table
+
+close_control##close_control
+
+to_screen_entryway##to_screen_entryway
+
+gre.animate.complete.light_to_temp##light_to_temp animation complete #The animation named light_to_temp has completed
+
+gre.animate.complete.light_to_brightness##light_to_brightness animation complete #The animation named light_to_brightness has completed
+
+gre.animate.complete.light_toggle_off##light_toggle_off animation complete #The animation named light_toggle_off has completed
+
+gre.animate.complete.light_to_hue##light_to_hue animation complete #The animation named light_to_hue has completed
+
+gre.animate.complete.light_press##light_press animation complete #The animation named light_press has completed
+
+gre.animate.complete.light_toggle_on##light_toggle_on animation complete #The animation named light_toggle_on has completed
+
+gre.animate.complete.light_from_temp##light_from_temp animation complete #The animation named light_from_temp has completed
+
+gre.animate.complete.light_close##light_close animation complete #The animation named light_close has completed
+
+gre.animate.complete.thermostat_open##thermostat_open animation complete #The animation named thermostat_open has completed
+
+gre.animate.complete.utility_graph_to_offpeak##utility_graph_to_offpeak animation complete #The animation named utility_graph_to_offpeak has completed
+
+gre.animate.complete.utility_to_midpeak##utility_to_midpeak animation complete #The animation named utility_to_midpeak has completed
+
+gre.animate.complete.utility_graph_to_midpeak##utility_graph_to_midpeak animation complete #The animation named utility_graph_to_midpeak has completed
+
+gre.animate.complete.utility_to_onpeak##utility_to_onpeak animation complete #The animation named utility_to_onpeak has completed
+
+gre.animate.complete.utility_to_offpeak##utility_to_offpeak animation complete #The animation named utility_to_offpeak has completed
+
+gre.animate.complete.utility_open##utility_open animation complete #The animation named utility_open has completed
+
+gre.animate.complete.utility_moving_graph##utility_moving_graph animation complete #The animation named utility_moving_graph has completed
+
+gre.animate.complete.utility_graph_to_onpeak##utility_graph_to_onpeak animation complete #The animation named utility_graph_to_onpeak has completed
+
+gre.animate.complete.utility_close##utility_close animation complete #The animation named utility_close has completed
+
+light_to_hue2##light_to_hue2
+
+light_toggle_on2##light_toggle_on2
+
+gre.animate.complete.light_toggle_on2##light_toggle_on2 animation complete #The animation named light_toggle_on2 has completed
+
+gre.animate.complete.light_to_hue2##light_to_hue2 animation complete #The animation named light_to_hue2 has completed
+
+gre.animate.complete.light_to_saturation##light_to_saturation animation complete #The animation named light_to_saturation has completed
+
+light_open##light_open
+
+light_open2##light_open2
+
+gre.animate.complete.lock_open##lock_open animation complete #The animation named lock_open has completed
+
+lock_close##lock_close
+
+lock_locked##lock_locked
+
+gre.animate.complete.lock_to_locked##lock_to_locked animation complete #The animation named lock_to_locked has completed
+
+lock_unlocked##lock_unlocked
+
+gre.animate.complete.status_open##status_open animation complete #The animation named status_open has completed
+
+gre.animate.complete.light_to_brightness2##light_to_brightness2 animation complete #The animation named light_to_brightness2 has completed
+
+light_to_brightness2##light_to_brightness2
+
+gre.animate.complete.lock_to_unlocked##lock_to_unlocked animation complete #The animation named lock_to_unlocked has completed
+
+gre.animate.complete.lock_close##lock_close animation complete #The animation named lock_close has completed
+
+gre.animate.complete.status_close##status_close animation complete #The animation named status_close has completed
+
+gre.animate.complete.thermostat_close##thermostat_close animation complete #The animation named thermostat_close has completed
+
+notification_hide##notification_hide
+
+gre.animate.complete.global_light_animate_open##global_light_animate_open animation complete #The animation named global_light_animate_open has completed
+
+gre.animate.complete.global_light_animate_close##global_light_animate_close animation complete #The animation named global_light_animate_close has completed
+
+light_open3##light_open3
+
+gre.animate.complete.light_open3##light_open3 animation complete #The animation named light_open3 has completed
+
+video_init##video_init #trigger for video actions
+
+video_pause##video_pause
+
+updateMessage##updateMessage
+
+toScreen##toScreen
+
+launch_eco_open##launch_eco_open
+
+launch_light_open##launch_light_open
+
+launch_therm_open##launch_therm_open
+
+launch_eco_close##launch_eco_close
+
+launch_therm_close##launch_therm_close
+
+launch_light_close##launch_light_close
+
+gre.animate.complete.IDLESCREEN_iconsCarosel##IDLESCREEN_iconsCarosel animation complete #The animation named IDLESCREEN_iconsCarosel has completed
+
+gre.animate.complete.HOUSE_KitchenOpen##HOUSE_KitchenOpen animation complete #The animation named HOUSE_KitchenOpen has completed
+
+gre.animate.complete.HOUSE_RoofOn##HOUSE_RoofOn animation complete #The animation named HOUSE_RoofOn has completed
+
+gre.animate.complete.HOUSE_LivingOpen##HOUSE_LivingOpen animation complete #The animation named HOUSE_LivingOpen has completed
+
+gre.animate.complete.HOUSE_BedroomOpen##HOUSE_BedroomOpen animation complete #The animation named HOUSE_BedroomOpen has completed
+
+gre.animate.complete.HOUSE_BedroomClose##HOUSE_BedroomClose animation complete #The animation named HOUSE_BedroomClose has completed
+
+gre.animate.complete.HOUSE_KitchenClose##HOUSE_KitchenClose animation complete #The animation named HOUSE_KitchenClose has completed
+
+gre.animate.complete.HOUSE_LivingClose##HOUSE_LivingClose animation complete #The animation named HOUSE_LivingClose has completed
+
+gre.animate.complete.HOUSE_RoofOff##HOUSE_RoofOff animation complete #The animation named HOUSE_RoofOff has completed
+
+gre.animate.complete.HOUSE_FrontClose##HOUSE_FrontClose animation complete #The animation named HOUSE_FrontClose has completed
+
+gre.animate.complete.HOUSE_FrontOpen##HOUSE_FrontOpen animation complete #The animation named HOUSE_FrontOpen has completed
+
+gre.animate.complete.HOUSE_BackOpen##HOUSE_BackOpen animation complete #The animation named HOUSE_BackOpen has completed
+
+gre.animate.complete.HOUSE_BackClose##HOUSE_BackClose animation complete #The animation named HOUSE_BackClose has completed
+
+gre.animate.complete.PRESS_OverallHouseControl##PRESS_OverallHouseControl animation complete #The animation named PRESS_OverallHouseControl has completed
+
+gre.animate.complete.AMBIENT_OverallHouseIcons##AMBIENT_OverallHouseIcons animation complete #The animation named AMBIENT_OverallHouseIcons has completed
+
+swapIdleScreen##swapIdleScreen
+
+gre.animate.stop.HOUSE_FrontClose##HOUSE_FrontClose animation complete #The animation named HOUSE_FrontClose has been stopped
+
+gre.animate.stop.notification_popout##notification_popout animation complete #The animation named notification_popout has been stopped
+
+gre.animate.stop.foyer_lock_dialouge_close##foyer_lock_dialouge_close animation complete #The animation named foyer_lock_dialouge_close has been stopped
+
+gre.animate.stop.light_toggle_on2##light_toggle_on2 animation complete #The animation named light_toggle_on2 has been stopped
+
+gre.animate.stop.foyer_light_open##foyer_light_open animation complete #The animation named foyer_light_open has been stopped
+
+gre.animate.stop.press_open_camera##press_open_camera animation complete #The animation named press_open_camera has been stopped
+
+gre.animate.stop.kitchen_light_close##kitchen_light_close animation complete #The animation named kitchen_light_close has been stopped
+
+gre.animate.stop.HOUSE_BedroomClose##HOUSE_BedroomClose animation complete #The animation named HOUSE_BedroomClose has been stopped
+
+gre.animate.stop.bedroom_light_open##bedroom_light_open animation complete #The animation named bedroom_light_open has been stopped
+
+gre.animate.stop.notification_push_down##notification_push_down animation complete #The animation named notification_push_down has been stopped
+
+gre.animate.stop.light_open3##light_open3 animation complete #The animation named light_open3 has been stopped
+
+gre.animate.stop.camera_open##camera_open animation complete #The animation named camera_open has been stopped
+
+gre.animate.stop.global_light_animate_open##global_light_animate_open animation complete #The animation named global_light_animate_open has been stopped
+
+gre.animate.stop.IDLESCREEN_iconsCarosel##IDLESCREEN_iconsCarosel animation complete #The animation named IDLESCREEN_iconsCarosel has been stopped
+
+gre.animate.stop.light_main_close##light_main_close animation complete #The animation named light_main_close has been stopped
+
+gre.animate.stop.foyer_lock_dialouge_open##foyer_lock_dialouge_open animation complete #The animation named foyer_lock_dialouge_open has been stopped
+
+gre.animate.stop.notification_press##notification_press animation complete #The animation named notification_press has been stopped
+
+gre.animate.stop.status_open##status_open animation complete #The animation named status_open has been stopped
+
+gre.animate.stop.notification_close##notification_close animation complete #The animation named notification_close has been stopped
+
+gre.animate.stop.utility_graph_to_offpeak##utility_graph_to_offpeak animation complete #The animation named utility_graph_to_offpeak has been stopped
+
+gre.animate.stop.lock_to_locked##lock_to_locked animation complete #The animation named lock_to_locked has been stopped
+
+gre.animate.stop.HOUSE_BackClose##HOUSE_BackClose animation complete #The animation named HOUSE_BackClose has been stopped
+
+gre.animate.stop.kitchen_status_closed##kitchen_status_closed animation complete #The animation named kitchen_status_closed has been stopped
+
+gre.animate.stop.light_to_hue##light_to_hue animation complete #The animation named light_to_hue has been stopped
+
+gre.animate.stop.utility_to_midpeak##utility_to_midpeak animation complete #The animation named utility_to_midpeak has been stopped
+
+gre.animate.stop.HOUSE_BackOpen##HOUSE_BackOpen animation complete #The animation named HOUSE_BackOpen has been stopped
+
+gre.animate.stop.light_press##light_press animation complete #The animation named light_press has been stopped
+
+gre.animate.stop.status_close##status_close animation complete #The animation named status_close has been stopped
+
+gre.animate.stop.HOUSE_LivingClose##HOUSE_LivingClose animation complete #The animation named HOUSE_LivingClose has been stopped
+
+gre.animate.stop.light_toggle_on##light_toggle_on animation complete #The animation named light_toggle_on has been stopped
+
+gre.animate.stop.HOUSE_KitchenOpen##HOUSE_KitchenOpen animation complete #The animation named HOUSE_KitchenOpen has been stopped
+
+gre.animate.stop.camera_close##camera_close animation complete #The animation named camera_close has been stopped
+
+gre.animate.stop.utility_graph_to_midpeak##utility_graph_to_midpeak animation complete #The animation named utility_graph_to_midpeak has been stopped
+
+gre.animate.stop.PRESS_OverallHouseControl##PRESS_OverallHouseControl animation complete #The animation named PRESS_OverallHouseControl has been stopped
+
+gre.animate.stop.light_close##light_close animation complete #The animation named light_close has been stopped
+
+gre.animate.stop.utility_close##utility_close animation complete #The animation named utility_close has been stopped
+
+gre.animate.stop.light_to_saturation##light_to_saturation animation complete #The animation named light_to_saturation has been stopped
+
+gre.animate.stop.light_to_brightness2##light_to_brightness2 animation complete #The animation named light_to_brightness2 has been stopped
+
+gre.animate.stop.HOUSE_FrontOpen##HOUSE_FrontOpen animation complete #The animation named HOUSE_FrontOpen has been stopped
+
+gre.animate.stop.utility_to_onpeak##utility_to_onpeak animation complete #The animation named utility_to_onpeak has been stopped
+
+gre.animate.stop.foyer_lock_press_unlock##foyer_lock_press_unlock animation complete #The animation named foyer_lock_press_unlock has been stopped
+
+gre.animate.stop.lock_open##lock_open animation complete #The animation named lock_open has been stopped
+
+gre.animate.stop.utility_to_offpeak##utility_to_offpeak animation complete #The animation named utility_to_offpeak has been stopped
+
+gre.animate.stop.light_to_temp##light_to_temp animation complete #The animation named light_to_temp has been stopped
+
+gre.animate.stop.foyer_light_close##foyer_light_close animation complete #The animation named foyer_light_close has been stopped
+
+gre.animate.stop.HOUSE_KitchenClose##HOUSE_KitchenClose animation complete #The animation named HOUSE_KitchenClose has been stopped
+
+gre.animate.stop.thermostat_close##thermostat_close animation complete #The animation named thermostat_close has been stopped
+
+gre.animate.stop.kitchen_thermostat_open##kitchen_thermostat_open animation complete #The animation named kitchen_thermostat_open has been stopped
+
+gre.animate.stop.utility_open##utility_open animation complete #The animation named utility_open has been stopped
+
+gre.animate.stop.light_to_brightness##light_to_brightness animation complete #The animation named light_to_brightness has been stopped
+
+gre.animate.stop.lock_close##lock_close animation complete #The animation named lock_close has been stopped
+
+gre.animate.stop.thermostat_open##thermostat_open animation complete #The animation named thermostat_open has been stopped
+
+gre.animate.stop.light_toggle_off##light_toggle_off animation complete #The animation named light_toggle_off has been stopped
+
+gre.animate.stop.AMBIENT_OverallHouseIcons##AMBIENT_OverallHouseIcons animation complete #The animation named AMBIENT_OverallHouseIcons has been stopped
+
+gre.animate.stop.bedroom_light_close##bedroom_light_close animation complete #The animation named bedroom_light_close has been stopped
+
+gre.animate.stop.light_to_hue2##light_to_hue2 animation complete #The animation named light_to_hue2 has been stopped
+
+gre.animate.stop.utility_moving_graph##utility_moving_graph animation complete #The animation named utility_moving_graph has been stopped
+
+gre.animate.stop.HOUSE_RoofOn##HOUSE_RoofOn animation complete #The animation named HOUSE_RoofOn has been stopped
+
+gre.animate.stop.kitchen_light_open##kitchen_light_open animation complete #The animation named kitchen_light_open has been stopped
+
+gre.animate.stop.press_bedroom_navigation##press_bedroom_navigation animation complete #The animation named press_bedroom_navigation has been stopped
+
+gre.animate.stop.HOUSE_LivingOpen##HOUSE_LivingOpen animation complete #The animation named HOUSE_LivingOpen has been stopped
+
+gre.animate.stop.foyer_lock_press_lock##foyer_lock_press_lock animation complete #The animation named foyer_lock_press_lock has been stopped
+
+gre.animate.stop.light_main_open##light_main_open animation complete #The animation named light_main_open has been stopped
+
+gre.animate.stop.kitchen_status_open##kitchen_status_open animation complete #The animation named kitchen_status_open has been stopped
+
+gre.animate.stop.global_light_animate_close##global_light_animate_close animation complete #The animation named global_light_animate_close has been stopped
+
+gre.animate.stop.HOUSE_BedroomOpen##HOUSE_BedroomOpen animation complete #The animation named HOUSE_BedroomOpen has been stopped
+
+gre.animate.stop.kitchen_thermostat_close##kitchen_thermostat_close animation complete #The animation named kitchen_thermostat_close has been stopped
+
+gre.animate.stop.light_from_temp##light_from_temp animation complete #The animation named light_from_temp has been stopped
+
+gre.animate.stop.utility_graph_to_onpeak##utility_graph_to_onpeak animation complete #The animation named utility_graph_to_onpeak has been stopped
+
+gre.animate.stop.HOUSE_RoofOff##HOUSE_RoofOff animation complete #The animation named HOUSE_RoofOff has been stopped
+
+gre.animate.stop.lock_to_unlocked##lock_to_unlocked animation complete #The animation named lock_to_unlocked has been stopped
+
+gre.animate.complete.light_open##light_open animation complete #The animation named light_open has completed
+
+gre.animate.complete.light_open2##light_open2 animation complete #The animation named light_open2 has completed
+
+gre.animate.stop.light_open##light_open animation complete #The animation named light_open has been stopped
+
+gre.animate.stop.light_open2##light_open2 animation complete #The animation named light_open2 has been stopped

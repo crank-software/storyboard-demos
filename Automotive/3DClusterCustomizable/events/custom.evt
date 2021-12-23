@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="dialsDataEvent" type="0x10"/>
+  <event name="dialUpdateEvent" type="0x10"/>
+  <event name="gre.animate.complete.APP_dialsData" type="0x8">
+    <label>APP_dialsData animation complete</label>
+    <description>The animation named APP_dialsData has completed</description>
+  </event>
+  <event name="gre.animate.stop.APP_dialsData" type="0x8">
+    <label>APP_dialsData animation stopped</label>
+    <description>The animation named APP_dialsData has been stopped</description>
+  </event>
+  <event name="preloadingComplete" type="0x10"/>
+</eventdefinitions>

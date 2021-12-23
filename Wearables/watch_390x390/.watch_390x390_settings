@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item value="24" key="pref.default_fps"/>
+	<item value="1.0" key="pref.editor_zoom"/>
+	<item value="${app:menu_layer.workout_group.selected.alpha}" key="anim-workout"/>
+	<item value="${app:menu_layer.heartrate_group.BPM_value.bpm}&#x0A;${app:menu_layer.heartrate_group.heart_red.grd_width}&#x0A;${app:menu_layer.heartrate_group.background_overlay.grd_height}" key="anim-heartrate"/>
+	<item value="${app:menu_layer.time_group.hand_minute.minute_angle}" key="anim-minute_animation"/>
+	<item value="${app:menu_layer.heartrate_group.heart_red.grd_width}" key="anim-hearrate"/>
+</section>

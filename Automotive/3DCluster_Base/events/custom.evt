@@ -1,0 +1,80 @@
+
+updateSpeedEvent##updateSpeedEvent
+
+updateRPMEvent##updateRPMEvent
+
+gre.animate.complete.speedUpdate##speedUpdate animation complete #The animation named speedUpdate has completed
+
+gre.animate.complete.showSmallTBT##showSmallTBT animation complete #The animation named showSmallTBT has completed
+
+gre.animate.complete.showLargeTBT##showLargeTBT animation complete #The animation named showLargeTBT has completed
+
+gre.animate.complete.cycleTBTCards##cycleTBTCards animation complete #The animation named cycleTBTCards has completed
+
+dialsBack##dialsBack
+
+speedStart##speedStart
+
+dialsUp##dialsUp
+
+gre.animate.complete.blinkerLeft##blinkerLeft animation complete #The animation named blinkerLeft has completed
+
+updateGearEvent##updateGearEvent
+
+timer.read_pps##timer.read_pps timer fired #The timer named timer.read_pps has fired
+
+_TIDEMO_SPEEDTEXT##_TIDEMO_SPEEDTEXT
+
+_TIDEMO_RPMTEXT##_TIDEMO_RPMTEXT
+
+gre.animate.complete.StartupAnimation##StartupAnimation animation complete #The animation named StartupAnimation has completed
+
+gre.animate.complete.startupSmallTBT##startupSmallTBT animation complete #The animation named startupSmallTBT has completed
+
+gre.animate.complete.hideSmallTBT##hideSmallTBT animation complete #The animation named hideSmallTBT has completed
+
+gre.animate.complete.largeTBTToMaintenance##largeTBTToMaintenance animation complete #The animation named largeTBTToMaintenance has completed
+
+gre.animate.complete.showMaintenance##showMaintenance animation complete #The animation named showMaintenance has completed
+
+gre.animate.complete.MaintenanceCarBuild##MaintenanceCarBuild animation complete #The animation named MaintenanceCarBuild has completed
+
+gre.animate.complete.hideMaintenance##hideMaintenance animation complete #The animation named hideMaintenance has completed
+
+gre.animate.complete.ClosingAnimation##ClosingAnimation animation complete #The animation named ClosingAnimation has completed
+
+gre.animate.complete.TBTToArrival##TBTToArrival animation complete #The animation named TBTToArrival has completed
+
+gre.animate.complete.speedometer##speedometer animation complete #The animation named speedometer has completed
+
+gre.animate.complete.mapOpening##mapOpening animation complete #The animation named mapOpening has completed
+
+gre.animate.complete.speedometerEnd##speedometerEnd animation complete #The animation named speedometerEnd has completed
+
+gre.animate.complete.loadModelsAnim##loadModelsAnim animation complete #The animation named loadModelsAnim has completed
+
+gre.animate.complete.Doors##Doors animation complete #The animation named Doors has completed
+
+gre.animate.complete.Brake##Brake animation complete #The animation named Brake has completed
+
+gre.animate.complete.Engine##Engine animation complete #The animation named Engine has completed
+
+gre.animate.complete.Tire##Tire animation complete #The animation named Tire has completed
+
+gre.animate.complete.Headlights##Headlights animation complete #The animation named Headlights has completed
+
+gre.animate.complete.CAR_cabin##CAR_cabin animation complete #The animation named CAR_cabin has completed
+
+gre.animate.complete.CAR_doors##CAR_doors animation complete #The animation named CAR_doors has completed
+
+gre.animate.complete.CAR_brake##CAR_brake animation complete #The animation named CAR_brake has completed
+
+gre.animate.complete.maintenanceCarBuild_REDONE##maintenanceCarBuild_REDONE animation complete #The animation named maintenanceCarBuild_REDONE has completed
+
+gre.animate.complete.dialsBack##dialsBack animation complete #The animation named dialsBack has completed
+
+gre.animate.complete.dialsUp##dialsUp animation complete #The animation named dialsUp has completed
+
+gre.animate.complete.mapReset##mapReset animation complete #The animation named mapReset has completed
+
+gre.animate.complete.hideLauncherOverlay##hideLauncherOverlay animation complete #The animation named hideLauncherOverlay has completed
