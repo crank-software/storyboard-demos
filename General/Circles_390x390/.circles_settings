@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item key="pref.editor_zoom" value="1.0"/>
+	<item key="sbio.is_remote" value="false"/>
+	<item key="sbio.local" value="Circles"/>
+	<item key="pref.default_screen_name" value="Screen"/>
+	<item key="pref.default_control_name" value="circle3_center"/>
+	<item key="pref.default_layer_name" value="TestLayer"/>
+	<section name="workingsets">
+		<section name="">
+			<item key="includeDesignStates" value="true"/>
+			<list key="elements">
+				<item value="gauge_screen"/>
+				<item value="increments_screen"/>
+				<item value="blackFade_screen"/>
+				<item value="circularFill_screen"/>
+				<item value="dashedLine_screen"/>
+				<item value="doubleCircle_screen"/>
+				<item value="graphData_screen"/>
+				<item value="spinner_screen"/>
+				<item value="Screen"/>
+				<item value="Screen"/>
+			</list>
+			<section name="gauge_screen">
+			</section>
+			<section name="increments_screen">
+			</section>
+			<section name="blackFade_screen">
+			</section>
+			<section name="circularFill_screen">
+			</section>
+			<section name="dashedLine_screen">
+			</section>
+			<section name="doubleCircle_screen">
+			</section>
+			<section name="graphData_screen">
+			</section>
+			<section name="spinner_screen">
+			</section>
+			<section name="Screen">
+			</section>
+		</section>
+	</section>
+</section>

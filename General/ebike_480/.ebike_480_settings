@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item key="pref.editor_zoom" value="1.25"/>
+	<item key="sbio.is_remote" value="false"/>
+	<item key="sbio.local" value="application"/>
+	<item key="pref.default_table_name" value="Table"/>
+	<item key="pref.default_control_name" value="Control"/>
+	<section name="workingsets">
+		<section name="">
+			<item key="includeDesignStates" value="true"/>
+			<list key="elements">
+				<item value="eBike"/>
+				<item value="Artboard_1"/>
+			</list>
+			<section name="eBike">
+			</section>
+			<section name="Artboard_1">
+			</section>
+		</section>
+	</section>
+</section>

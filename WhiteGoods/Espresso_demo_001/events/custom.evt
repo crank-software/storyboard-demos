@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.americano_click_animation" type="0x8">
+    <label>americano_click_animation animation complete</label>
+    <description>The animation named americano_click_animation has completed</description>
+  </event>
+  <event name="gre.animate.complete.cup_click_animation" type="0x8">
+    <label>cup_click_animation animation complete</label>
+    <description>The animation named cup_click_animation has completed</description>
+  </event>
+  <event name="gre.animate.complete.custom_settings_animation" type="0x8">
+    <label>custom_settings_animation animation complete</label>
+    <description>The animation named custom_settings_animation has completed</description>
+  </event>
+  <event name="gre.animate.complete.macchiato_hover_animation" type="0x8">
+    <label>macchiato_hover_animation animation complete</label>
+    <description>The animation named macchiato_hover_animation has completed</description>
+  </event>
+  <event name="gre.animate.complete.mocha_click_animation" type="0x8">
+    <label>mocha_click_animation animation complete</label>
+    <description>The animation named mocha_click_animation has completed</description>
+  </event>
+  <event name="gre.animate.complete.pressure_gauge_animation" type="0x8">
+    <label>pressure_gauge_animation animation complete</label>
+    <description>The animation named pressure_gauge_animation has completed</description>
+  </event>
+  <event name="gre.animate.complete.pressure_gauge_start_animation" type="0x8">
+    <label>pressure_gauge_start_animation animation complete</label>
+    <description>The animation named pressure_gauge_start_animation has completed</description>
+  </event>
+  <event name="gre.animate.complete.settings_menu_animation" type="0x8">
+    <label>settings_menu_animation animation complete</label>
+    <description>The animation named settings_menu_animation has completed</description>
+  </event>
+  <event name="gre.animate.complete.strength_1" type="0x8">
+    <label>strength_1 animation complete</label>
+    <description>The animation named strength_1 has completed</description>
+  </event>
+  <event name="gre.animate.complete.timer_arc_animation" type="0x8">
+    <label>timer_arc_animation animation complete</label>
+    <description>The animation named timer_arc_animation has completed</description>
+  </event>
+  <event name="gre.animate.stop.americano_click_animation" type="0x8">
+    <label>americano_click_animation animation stopped</label>
+    <description>The animation named americano_click_animation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.cup_click_animation" type="0x8">
+    <label>cup_click_animation animation stopped</label>
+    <description>The animation named cup_click_animation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.custom_settings_animation" type="0x8">
+    <label>custom_settings_animation animation stopped</label>
+    <description>The animation named custom_settings_animation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.macchiato_hover_animation" type="0x8">
+    <label>macchiato_hover_animation animation stopped</label>
+    <description>The animation named macchiato_hover_animation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.mocha_click_animation" type="0x8">
+    <label>mocha_click_animation animation stopped</label>
+    <description>The animation named mocha_click_animation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pressure_gauge_animation" type="0x8">
+    <label>pressure_gauge_animation animation stopped</label>
+    <description>The animation named pressure_gauge_animation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pressure_gauge_start_animation" type="0x8">
+    <label>pressure_gauge_start_animation animation stopped</label>
+    <description>The animation named pressure_gauge_start_animation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.settings_menu_animation" type="0x8">
+    <label>settings_menu_animation animation stopped</label>
+    <description>The animation named settings_menu_animation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.strength_1" type="0x8">
+    <label>strength_1 animation stopped</label>
+    <description>The animation named strength_1 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.timer_arc_animation" type="0x8">
+    <label>timer_arc_animation animation stopped</label>
+    <description>The animation named timer_arc_animation has been stopped</description>
+  </event>
+  <event name="timer.timer_sec" type="0x8">
+    <description>The timer named timer.timer_sec has fired</description>
+  </event>
+</eventdefinitions>

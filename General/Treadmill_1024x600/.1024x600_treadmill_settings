@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item key="pref.editor_zoom" value="0.84375"/>
+	<item key="sbio.is_remote" value="false"/>
+	<item key="sbio.local" value="Treadmill.gapp"/>
+	<section name="workingsets">
+		<section name="">
+			<item key="includeDesignStates" value="true"/>
+			<list key="elements">
+				<item value="start"/>
+				<item value="complete"/>
+				<item value="customize"/>
+				<item value="running"/>
+			</list>
+			<section name="start">
+			</section>
+			<section name="complete">
+			</section>
+			<section name="customize">
+			</section>
+			<section name="running">
+			</section>
+		</section>
+	</section>
+</section>

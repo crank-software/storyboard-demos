@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="circ1_update" type="0x0"/>
+  <event name="circ2_update" type="0x0"/>
+  <event name="circ3_update" type="0x0"/>
+  <event name="circ6_update" type="0x0"/>
+  <event name="circ7_update" type="0x0"/>
+  <event name="circ_01" type="0x0"/>
+  <event name="circ_02" type="0x0"/>
+  <event name="circ_03" type="0x0"/>
+  <event name="circ_04" type="0x0"/>
+  <event name="circ_06" type="0x0"/>
+  <event name="circ_gauge_update" type="0x0"/>
+  <event name="gre.animate.complete.90_percent" type="0x0">
+    <label>90_percent animation complete</label>
+    <description>The animation named 90_percent has completed</description>
+  </event>
+  <event name="gre.animate.complete.back_btn" type="0x0">
+    <label>back_btn animation complete</label>
+    <description>The animation named back_btn has completed</description>
+  </event>
+  <event name="gre.animate.complete.circle3" type="0x0">
+    <label>circle3 animation complete</label>
+    <description>The animation named circle3 has completed</description>
+  </event>
+  <event name="gre.animate.complete.circle8" type="0x0">
+    <label>circle8 animation complete</label>
+    <description>The animation named circle8 has completed</description>
+  </event>
+  <event name="gre.animate.complete.circle8_rotate" type="0x0">
+    <label>circle8_rotate animation complete</label>
+    <description>The animation named circle8_rotate has completed</description>
+  </event>
+  <event name="gre.animate.complete.circle_black_fade" type="0x0">
+    <label>circle_black_fade animation complete</label>
+    <description>The animation named circle_black_fade has completed</description>
+  </event>
+  <event name="gre.animate.complete.close" type="0x0">
+    <label>close animation complete</label>
+    <description>The animation named close has completed</description>
+  </event>
+  <event name="gre.animate.complete.loading_ring" type="0x0">
+    <label>loading_ring animation complete</label>
+    <description>The animation named loading_ring has completed</description>
+  </event>
+  <event name="gre.animate.complete.market_share" type="0x0">
+    <label>market_share animation complete</label>
+    <description>The animation named market_share has completed</description>
+  </event>
+  <event name="gre.animate.complete.next_btn" type="0x0">
+    <label>next_btn animation complete</label>
+    <description>The animation named next_btn has completed</description>
+  </event>
+  <event name="gre.animate.complete.psi" type="0x0">
+    <label>psi animation complete</label>
+    <description>The animation named psi has completed</description>
+  </event>
+  <event name="gre.animate.complete.tick_fill" type="0x0">
+    <label>tick_fill animation complete</label>
+    <description>The animation named tick_fill has completed</description>
+  </event>
+  <event name="gre.animate.stop.90_percent" type="0x0">
+    <label>90_percent animation complete</label>
+    <description>The animation named 90_percent has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.back_btn" type="0x0">
+    <label>back_btn animation complete</label>
+    <description>The animation named back_btn has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.circle3" type="0x0">
+    <label>circle3 animation complete</label>
+    <description>The animation named circle3 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.circle8" type="0x0">
+    <label>circle8 animation complete</label>
+    <description>The animation named circle8 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.circle8_rotate" type="0x0">
+    <label>circle8_rotate animation complete</label>
+    <description>The animation named circle8_rotate has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.circle_black_fade" type="0x0">
+    <label>circle_black_fade animation complete</label>
+    <description>The animation named circle_black_fade has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.close" type="0x0">
+    <label>close animation complete</label>
+    <description>The animation named close has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.loading_ring" type="0x0">
+    <label>loading_ring animation complete</label>
+    <description>The animation named loading_ring has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.market_share" type="0x0">
+    <label>market_share animation complete</label>
+    <description>The animation named market_share has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.next_btn" type="0x0">
+    <label>next_btn animation complete</label>
+    <description>The animation named next_btn has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.psi" type="0x0">
+    <label>psi animation complete</label>
+    <description>The animation named psi has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.tick_fill" type="0x0">
+    <label>tick_fill animation complete</label>
+    <description>The animation named tick_fill has been stopped</description>
+  </event>
+  <event name="timer.DoTest" type="0x8">
+    <label>timer.DoTest timer fired</label>
+    <description>The timer named timer.DoTest has fired</description>
+  </event>
+</eventdefinitions>

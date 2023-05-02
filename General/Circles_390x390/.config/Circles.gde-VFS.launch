@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.crank.gdt.ui.export.GREExport">
+    <intAttribute key="com.crank.resource.tab.fake.entry" value="1"/>
+    <stringAttribute key="gre.export.gde_file" value="Circles.gde"/>
+    <mapAttribute key="gre.export.packaging.attrs">
+        <mapEntry key="cheader.export.fonts" value="true"/>
+        <mapEntry key="cheader.export.other" value="true"/>
+        <mapEntry key="cheader.export.scripts" value="true"/>
+        <mapEntry key="cheader.export_ccallbacks" value="true"/>
+        <mapEntry key="cheader.export_images" value="true"/>
+        <mapEntry key="cheader.export_model" value="true"/>
+        <mapEntry key="cheader.last_ccallback_path" value="sbengine_model.h"/>
+        <mapEntry key="cheader.last_font_path" value="sbengine_model.h"/>
+        <mapEntry key="cheader.last_image_path" value="sbengine_model.h"/>
+        <mapEntry key="cheader.last_model_path" value="sbengine_model.h"/>
+        <mapEntry key="cheader.last_other_path" value="sbengine_model.h"/>
+        <mapEntry key="cheader.last_script_path" value="sbengine_model.h"/>
+    </mapAttribute>
+    <stringAttribute key="gre.export.packaging.name" value="package.cheader"/>
+    <stringAttribute key="gre.export.resource.configuration" value="Circles.gde-VFS"/>
+    <stringAttribute key="gre.export.resource_inclusion_changed" value="Default"/>
+    <stringAttribute key="gre.export.sb.project" value="CirclesRZ_390"/>
+    <mapAttribute key="gre.export.transfer.attrs">
+        <mapEntry key="filesystem.copy_new_only" value="false"/>
+        <mapEntry key="filesystem.output_dir" value="C:\crank\workspaces\storyboard_workspace_7_1_RC0\CirclesRZ_390"/>
+        <mapEntry key="filesystem.use_home" value="true"/>
+    </mapAttribute>
+    <stringAttribute key="gre.export.transfer.name" value="transfer.filesystem"/>
+    <stringAttribute key="gre.export.workspace_configuration" value="false"/>
+</launchConfiguration>

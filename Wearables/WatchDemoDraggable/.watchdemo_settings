@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item key="pref.editor_zoom" value="1.0"/>
+	<item key="sbio.is_remote" value="false"/>
+	<item key="sbio.local" value="application"/>
+	<item key="anim-second_hand_rotation" value="${app:analog_clock_layer.second_hand.angle}"/>
+	<item key="anim-MenuIn" value="${app:menu_layer.cancel_button.alpha}&#x0A;${app:menu_layer.clocks_button.grd_x}&#x0A;${app:menu_layer.clocks_button.grd_y}&#x0A;${app:menu_layer.exercise_button.grd_y}&#x0A;${app:menu_layer.music_button.grd_x}&#x0A;${app:menu_layer.music_button.grd_y}"/>
+	<item key="pref.default_fps" value="30"/>
+	<item key="anim-MenuIn_reversed" value="${app:menu_layer.cancel_button.alpha}&#x0A;${app:menu_layer.clocks_button.grd_x}&#x0A;${app:menu_layer.clocks_button.grd_y}&#x0A;${app:menu_layer.exercise_button.grd_y}&#x0A;${app:menu_layer.music_button.grd_x}&#x0A;${app:menu_layer.music_button.grd_y}"/>
+	<item key="anim-MenuHide" value="${app:menu_layer.cancel_button.alpha}&#x0A;${app:menu_layer.clocks_button.grd_x}&#x0A;${app:menu_layer.clocks_button.grd_y}&#x0A;${app:menu_layer.exercise_button.grd_y}&#x0A;${app:menu_layer.music_button.grd_x}&#x0A;${app:menu_layer.music_button.grd_y}"/>
+	<item key="anim-hands_seconds" value="${app:analog_clock_layer.second_hand.angle}"/>
+	<item key="anim-second_hand_rotation_copy" value="${app:analog_clock_layer.second_hand.angle}"/>
+	<item key="anim-hour_hand_rotation" value="${app:analog_clock_layer.hour_hand.angle}"/>
+	<item key="anim-minute_hand_rotation" value="${app:analog_clock_layer.minute_hand.angle}"/>
+	<section name="workingsets">
+		<section name="">
+			<item key="includeDesignStates" value="true"/>
+			<list key="elements">
+				<item value="digital_clock_screen"/>
+				<item value="analog_clock_screen"/>
+				<item value="menu_screen"/>
+				<item value="music_player_screen"/>
+				<item value="running_screen"/>
+				<item value="step_tracker_screen"/>
+				<item value="volume_screen"/>
+			</list>
+			<section name="digital_clock_screen">
+			</section>
+			<section name="analog_clock_screen">
+			</section>
+			<section name="menu_screen">
+			</section>
+			<section name="music_player_screen">
+			</section>
+			<section name="running_screen">
+			</section>
+			<section name="step_tracker_screen">
+			</section>
+			<section name="volume_screen">
+			</section>
+		</section>
+	</section>
+</section>

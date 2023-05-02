@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.bearing_hide" type="0x8">
+    <label>bearing_hide animation complete</label>
+    <description>The animation named bearing_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.bearing_show" type="0x8">
+    <label>bearing_show animation complete</label>
+    <description>The animation named bearing_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.fade_startup" type="0x8">
+    <label>fade_startup animation complete</label>
+    <description>The animation named fade_startup has completed</description>
+  </event>
+  <event name="gre.animate.complete.mode_music_hide" type="0x8">
+    <label>mode_music_hide animation complete</label>
+    <description>The animation named mode_music_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.mode_music_show" type="0x8">
+    <label>mode_music_show animation complete</label>
+    <description>The animation named mode_music_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.mode_navigation_hide" type="0x8">
+    <label>mode_navigation_hide animation complete</label>
+    <description>The animation named mode_navigation_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.mode_navigation_show" type="0x8">
+    <label>mode_navigation_show animation complete</label>
+    <description>The animation named mode_navigation_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.mode_watts_hide" type="0x8">
+    <label>mode_watts_hide animation complete</label>
+    <description>The animation named mode_watts_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.mode_watts_show" type="0x8">
+    <label>mode_watts_show animation complete</label>
+    <description>The animation named mode_watts_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_map" type="0x8">
+    <label>show_map animation complete</label>
+    <description>The animation named show_map has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_watt_hours" type="0x8">
+    <label>show_watt_hours animation complete</label>
+    <description>The animation named show_watt_hours has completed</description>
+  </event>
+  <event name="gre.animate.complete.speed_line" type="0x8">
+    <label>speed_line animation complete</label>
+    <description>The animation named speed_line has completed</description>
+  </event>
+  <event name="gre.animate.complete.speedometer_arc" type="0x8">
+    <label>speedometer_arc animation complete</label>
+    <description>The animation named speedometer_arc has completed</description>
+  </event>
+  <event name="gre.animate.complete.speedometer_arc2" type="0x8">
+    <label>speedometer_arc2 animation complete</label>
+    <description>The animation named speedometer_arc2 has completed</description>
+  </event>
+  <event name="gre.animate.complete.startup_populate" type="0x8">
+    <label>startup_populate animation complete</label>
+    <description>The animation named startup_populate has completed</description>
+  </event>
+  <event name="gre.animate.complete.trend_line" type="0x8">
+    <label>trend_line animation complete</label>
+    <description>The animation named trend_line has completed</description>
+  </event>
+  <event name="gre.animate.complete.turn_by_turn_hide" type="0x8">
+    <label>turn_by_turn_hide animation complete</label>
+    <description>The animation named turn_by_turn_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.turn_by_turn_show" type="0x8">
+    <label>turn_by_turn_show animation complete</label>
+    <description>The animation named turn_by_turn_show has completed</description>
+  </event>
+  <event name="gre.animate.stop.bearing_hide" type="0x8">
+    <label>bearing_hide animation stopped</label>
+    <description>The animation named bearing_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.bearing_show" type="0x8">
+    <label>bearing_show animation stopped</label>
+    <description>The animation named bearing_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.fade_startup" type="0x8">
+    <label>fade_startup animation stopped</label>
+    <description>The animation named fade_startup has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.mode_music_hide" type="0x8">
+    <label>mode_music_hide animation stopped</label>
+    <description>The animation named mode_music_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.mode_music_show" type="0x8">
+    <label>mode_music_show animation stopped</label>
+    <description>The animation named mode_music_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.mode_navigation_hide" type="0x8">
+    <label>mode_navigation_hide animation stopped</label>
+    <description>The animation named mode_navigation_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.mode_navigation_show" type="0x8">
+    <label>mode_navigation_show animation stopped</label>
+    <description>The animation named mode_navigation_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.mode_watts_hide" type="0x8">
+    <label>mode_watts_hide animation stopped</label>
+    <description>The animation named mode_watts_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.mode_watts_show" type="0x8">
+    <label>mode_watts_show animation stopped</label>
+    <description>The animation named mode_watts_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_map" type="0x8">
+    <label>show_map animation stopped</label>
+    <description>The animation named show_map has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_watt_hours" type="0x8">
+    <label>show_watt_hours animation stopped</label>
+    <description>The animation named show_watt_hours has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.speed_line" type="0x8">
+    <label>speed_line animation stopped</label>
+    <description>The animation named speed_line has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.speedometer_arc" type="0x8">
+    <label>speedometer_arc animation stopped</label>
+    <description>The animation named speedometer_arc has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.speedometer_arc2" type="0x8">
+    <label>speedometer_arc2 animation stopped</label>
+    <description>The animation named speedometer_arc2 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.startup_populate" type="0x8">
+    <label>startup_populate animation stopped</label>
+    <description>The animation named startup_populate has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.trend_line" type="0x8">
+    <label>trend_line animation stopped</label>
+    <description>The animation named trend_line has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.turn_by_turn_hide" type="0x8">
+    <label>turn_by_turn_hide animation stopped</label>
+    <description>The animation named turn_by_turn_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.turn_by_turn_show" type="0x8">
+    <label>turn_by_turn_show animation stopped</label>
+    <description>The animation named turn_by_turn_show has been stopped</description>
+  </event>
+  <event name="update_speed" type="0x10"/>
+</eventdefinitions>

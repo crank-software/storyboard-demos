@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item key="pref.editor_zoom" value="0.75"/>
+	<item key="anim-show_map" value="${app:road.map.y}"/>
+	<item key="anim-speed_line" value="${app:road.speed_line.y}"/>
+	<item key="anim-speedometer_arc" value="${app:speedometer.glow.endAngle}"/>
+	<item key="pref.default_layer_name" value="secondary"/>
+	<item key="pref.default_fps" value="30"/>
+	<item key="anim-show_watt_hours" value="${app:cluster.watt_hours.grd_hidden}&#x0A;${app:map_graph.circle_transition.alpha}&#x0A;${app:cluster.map.grd_hidden}"/>
+	<item key="anim-fade_startup" value="${app:cluster.startup_animation.grd_hidden}&#x0A;${app:startup_animation.startup.alpha}"/>
+	<item key="anim-trend_line" value="${app:watt_hours.trend_line_placeholder.x}"/>
+	<item key="anim-speedometer_arc2" value="${app:speedometer.glow.endAngle}"/>
+	<item key="anim-startup_telltales" value="${app:telltales_layer.tt_ABS.alpha}&#x0A;${app:telltales_layer.tt_airbag.alpha}&#x0A;${app:telltales_layer.tt_brake.alpha}&#x0A;${app:telltales_layer.tt_doors.alpha}&#x0A;${app:telltales_layer.tt_engine.alpha}&#x0A;${app:telltales_layer.tt_highbeam.alpha}&#x0A;${app:telltales_layer.tt_lights.alpha}&#x0A;${app:telltales_layer.tt_seatbelt.alpha}&#x0A;${app:telltales_layer.tt_tire_pressure.alpha}&#x0A;${app:telltales_layer.tt_traction.alpha}&#x0A;${app:telltales_layer.tt_signal_right.alpha}&#x0A;${app:telltales_layer.tt_signal_left.alpha}&#x0A;${app:bg.drive_state.alpha}"/>
+	<item key="anim-turn_by_turn_hide" value="${app:map.turn_by_turn.y1}&#x0A;${app:map.turn_by_turn.y2}&#x0A;${app:map.turn_by_turn.y}"/>
+	<item key="anim-bearing_hide" value="${app:map.bearing_bg.grd_x}"/>
+	<item key="anim-turn_by_turn_show" value="${app:map.turn_by_turn.y1}&#x0A;${app:map.turn_by_turn.y2}&#x0A;${app:map.turn_by_turn.y}"/>
+	<item key="anim-NewAnimation" value="${app:watt_hours.energy_bg_loop.alpha}"/>
+	<item key="anim-mode_navigation_hide" value="${app:cluster.map.grd_alpha}&#x0A;${app:cluster.map.grd_hidden}"/>
+	<item key="anim-mode_navigation_show" value="${app:cluster.map.grd_alpha}&#x0A;${app:cluster.map.grd_hidden}"/>
+	<item key="anim-mode_watts_hide" value="${app:cluster.watt_hours.grd_alpha}&#x0A;${app:cluster.watt_hours.grd_hidden}"/>
+	<item key="anim-mode_watts_show" value="${app:cluster.watt_hours.grd_alpha}&#x0A;${app:cluster.watt_hours.grd_hidden}"/>
+	<item key="anim-mode_music_hide" value="${app:cluster.music_layer.grd_alpha}&#x0A;${app:cluster.music_layer.grd_hidden}"/>
+	<item key="anim-mode_music_show" value="${app:cluster.music_layer.grd_alpha}&#x0A;${app:cluster.music_layer.grd_hidden}"/>
+	<section name="workingsets">
+		<section name="">
+			<item key="includeDesignStates" value="true"/>
+			<list key="elements">
+				<item value="cluster"/>
+				<item value="music"/>
+			</list>
+			<section name="cluster">
+			</section>
+			<section name="music">
+			</section>
+		</section>
+	</section>
+</section>

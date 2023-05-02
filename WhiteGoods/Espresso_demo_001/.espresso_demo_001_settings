@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item key="sbio.is_remote" value="false"/>
+	<item key="sbio.local" value="application"/>
+	<item key="pref.editor_zoom" value="1.0"/>
+	<item key="pref.default_fill_color" value="0:0:0:"/>
+	<item key="pref.default_control_name" value="menu_item1"/>
+	<item key="pref.default_fps" value="30"/>
+	<item key="anim-pressure_gauge_animation" value="${app:pressure_coffee_layer.pointer_control.angle}&#x0A;${app:customize_timer_layer.label_timer_value.grd_opaque}"/>
+	<item key="anim-timer_load_animation" value=""/>
+	<item key="anim-timer_arc_animation" value="${app:customize_timer_layer.timer_arc_control.arc_startAngle}"/>
+	<item key="anim-timer_animation" value="${app:customize_timer_layer.label_timer_value.timer_valu_text}&#x0A;${app:customize_timer_layer.timer_arc_control.arc_endAngle}"/>
+	<item key="anim-pressure_gauge_start_animation" value="${app:pressure_coffee_layer.pointer_control.angle}"/>
+	<item key="anim-NewAnimation" value="${app:bg_layer.left_flyout.grd_width}&#x0A;${app:bg_layer.left_flyout.grd_x}&#x0A;${app:bg_layer.right_flyout.grd_width}&#x0A;${app:bg_layer.right_flyout.grd_x}&#x0A;${app:pressure_coffee_layer.pointer_controlGroup.frame_shadow.grd_x}&#x0A;${app:pressure_coffee_layer.pointer_controlGroup.coffee_video_loop.grd_x}&#x0A;${app:pressure_coffee_layer.pointer_controlGroup.pressure_coffee_window.grd_x}&#x0A;${app:pressure_coffee_layer.pointer_controlGroup.pointer_control.grd_x}&#x0A;${app:temperature_layer.label_temperatureGroup.temperature_bg.grd_x}&#x0A;${app:temperature_layer.label_temperatureGroup.heating_control.grd_x}&#x0A;${app:temperature_layer.label_temperatureGroup.label_farenheit.grd_x}&#x0A;${app:temperature_layer.label_temperatureGroup.label_temperature.grd_x}"/>
+	<item key="anim-macchiato_hover_animation" value="${app:menu_layer.menu_item_y_position}"/>
+	<item key="anim-NewAnimation1" value="${app:bg_layer.left_flyout.grd_width}&#x0A;${app:bg_layer.left_flyout.grd_x}&#x0A;${app:pressure_coffee_layer.pointer_controlGroup.grd_x}&#x0A;${app:temperature_layer.label_temperatureGroup.grd_x}&#x0A;${app:bg_layer.btn_settings.alpha}&#x0A;${app:bg_layer.left_flyout.alpha}&#x0A;${app:bg_layer.right_flyout.grd_height}&#x0A;${app:bg_layer.right_flyout.grd_width}&#x0A;${app:bg_layer.right_flyout.grd_x}&#x0A;${app:bg_layer.right_flyout.grd_y}&#x0A;${app:drink_details_layer.label_drinkGroup.label_1oz.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_2oz.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_drink.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_STRONG.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_temp_pressure.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.SIZE_HIGHLIGHT.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.strong1_control.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.strong2_control.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.strong3_control.alpha}&#x0A;${app:customize_timer_layer.btn_brew_control.grd_hidden}&#x0A;${app:pressure_coffee_layer.pointer_controlGroup.grd_y}&#x0A;${app:settings_menu.customize_timer_layer.grd_alpha}&#x0A;${app:temperature_layer.label_temperatureGroup.grd_y}&#x0A;${app:settings_menu_layer.label_SETTINGS.grd_opaque}&#x0A;${app:settings_menu_layer.Table.grd_x}&#x0A;${app:settings_menu_layer.pagination_control.grd_x}&#x0A;${app:settings_menu_layer.btn_BACK_control.grd_opaque}&#x0A;${app:customize_timer_layer.label_timer_value.grd_hidden}&#x0A;${app:customize_timer_layer.label_timer_SEC.grd_hidden}&#x0A;${app:expresso.settings_menu_layer.grd_hidden}&#x0A;${app:settings_menu_layer.btn_grind_control1Group.grd_x}&#x0A;${app:expresso.bg_mask_layer.grd_hidden}&#x0A;${app:customize_timer_layer.CustomizeGroup.grd_hidden}"/>
+	<item key="pref.default_layer_name" value="settings_scrolling1"/>
+	<item key="pref.default_table_name" value="Table"/>
+	<item key="anim-custom_settings_animation" value="${app:bg_layer.btn_settings.alpha}&#x0A;${app:bg_layer.left_flyout.alpha}&#x0A;${app:bg_layer.left_flyout.grd_width}&#x0A;${app:bg_layer.left_flyout.grd_x}&#x0A;${app:bg_layer.right_flyout.grd_height}&#x0A;${app:bg_layer.right_flyout.grd_width}&#x0A;${app:bg_layer.right_flyout.grd_x}&#x0A;${app:bg_layer.right_flyout.grd_y}&#x0A;${app:customize_timer_layer.btn_brew_control.grd_hidden}&#x0A;${app:customize_timer_layer.CustomizeGroup.grd_hidden}&#x0A;${app:customize_timer_layer.label_timer_SEC.grd_hidden}&#x0A;${app:customize_timer_layer.label_timer_value.grd_hidden}&#x0A;${app:drink_details_layer.label_drinkGroup.label_1oz.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_2oz.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_drink.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_STRONG.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_temp_pressure.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.SIZE_HIGHLIGHT.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.strong1_control.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.strong2_control.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.strong3_control.alpha}&#x0A;${app:expresso.bg_mask_layer.grd_hidden}&#x0A;${app:pressure_coffee_layer.pointer_controlGroup.grd_x}&#x0A;${app:pressure_coffee_layer.pointer_controlGroup.grd_y}&#x0A;${app:settings_menu_layer.btn_grind_control1Group.grd_x}&#x0A;${app:temperature_layer.label_temperatureGroup.grd_x}&#x0A;${app:temperature_layer.label_temperatureGroup.grd_y}&#x0A;${app:expresso.customize_settings_layer.grd_hidden}"/>
+	<item key="anim-settings_menu_animation" value="${app:bg_layer.btn_settings.alpha}&#x0A;${app:bg_layer.left_flyout.alpha}&#x0A;${app:bg_layer.left_flyout.grd_width}&#x0A;${app:bg_layer.left_flyout.grd_x}&#x0A;${app:bg_layer.right_flyout.grd_height}&#x0A;${app:bg_layer.right_flyout.grd_width}&#x0A;${app:bg_layer.right_flyout.grd_x}&#x0A;${app:bg_layer.right_flyout.grd_y}&#x0A;${app:customize_timer_layer.btn_brew_control.grd_hidden}&#x0A;${app:customize_timer_layer.CustomizeGroup.grd_hidden}&#x0A;${app:customize_timer_layer.label_timer_SEC.grd_hidden}&#x0A;${app:customize_timer_layer.label_timer_value.grd_hidden}&#x0A;${app:drink_details_layer.label_drinkGroup.label_1oz.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_2oz.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_drink.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_STRONG.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.label_temp_pressure.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.SIZE_HIGHLIGHT.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.strong1_control.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.strong2_control.alpha}&#x0A;${app:drink_details_layer.label_drinkGroup.strong3_control.alpha}&#x0A;${app:expresso.bg_mask_layer.grd_hidden}&#x0A;${app:expresso.settings_menu_layer.grd_hidden}&#x0A;${app:pressure_coffee_layer.pointer_controlGroup.grd_x}&#x0A;${app:pressure_coffee_layer.pointer_controlGroup.grd_y}&#x0A;${app:settings_menu.customize_timer_layer.grd_alpha}&#x0A;${app:settings_menu_layer.btn_BACK_control.grd_opaque}&#x0A;${app:settings_menu_layer.btn_grind_control1Group.grd_x}&#x0A;${app:settings_menu_layer.label_SETTINGS.grd_opaque}&#x0A;${app:settings_menu_layer.pagination_control.grd_x}&#x0A;${app:settings_menu_layer.Table.grd_x}&#x0A;${app:temperature_layer.label_temperatureGroup.grd_x}&#x0A;${app:temperature_layer.label_temperatureGroup.grd_y}"/>
+	<item key="anim-latte_click_animation" value="${app:menu_layer.cup_change_control.cup_image_y_position}"/>
+	<item key="anim-americano_click_animation" value="${app:menu_layer.americano_on_control.grd_y}"/>
+	<item key="anim-mocha_click_animation" value="${app:menu_layer.mocha_on_control.mocha_y_position}"/>
+	<section name="workingsets">
+		<section name="">
+			<item key="includeDesignStates" value="true"/>
+			<list key="elements">
+				<item value="espresso"/>
+				<item value="espresso1"/>
+				<item value="settings_menu"/>
+			</list>
+			<section name="espresso">
+				<list key="designStates">
+					<item value="espresso_design_state"/>
+				</list>
+				<section name="designStates">
+					<section name="espresso_design_state">
+					</section>
+				</section>
+			</section>
+			<section name="espresso1">
+			</section>
+			<section name="settings_menu">
+			</section>
+		</section>
+	</section>
+</section>

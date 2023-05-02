@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="get_frame" type="0x10"/>
+  <event name="gre.animate.complete.battery_charge_initialize" type="0x8">
+    <label>battery_charge_initialize animation complete</label>
+    <description>The animation named battery_charge_initialize has completed</description>
+  </event>
+  <event name="gre.animate.complete.btn_next" type="0x8">
+    <label>btn_next animation complete</label>
+    <description>The animation named btn_next has completed</description>
+  </event>
+  <event name="gre.animate.complete.btn_next_charger" type="0x8">
+    <label>btn_next_charger animation complete</label>
+    <description>The animation named btn_next_charger has completed</description>
+  </event>
+  <event name="gre.animate.complete.btn_next_payment" type="0x8">
+    <label>btn_next_payment animation complete</label>
+    <description>The animation named btn_next_payment has completed</description>
+  </event>
+  <event name="gre.animate.complete.charger_chademo_selected" type="0x8">
+    <label>charger_chademo_selected animation complete</label>
+    <description>The animation named charger_chademo_selected has completed</description>
+  </event>
+  <event name="gre.animate.complete.charger_CSS_selected" type="0x8">
+    <label>charger_CSS_selected animation complete</label>
+    <description>The animation named charger_CSS_selected has completed</description>
+  </event>
+  <event name="gre.animate.complete.charging_complete" type="0x8">
+    <label>charging_complete animation complete</label>
+    <description>The animation named charging_complete has completed</description>
+  </event>
+  <event name="gre.animate.complete.driving1" type="0x8">
+    <label>driving1 animation complete</label>
+    <description>The animation named driving1 has completed</description>
+  </event>
+  <event name="gre.animate.complete.driving2" type="0x8">
+    <label>driving2 animation complete</label>
+    <description>The animation named driving2 has completed</description>
+  </event>
+  <event name="gre.animate.complete.driving3" type="0x8">
+    <label>driving3 animation complete</label>
+    <description>The animation named driving3 has completed</description>
+  </event>
+  <event name="gre.animate.complete.driving4" type="0x8">
+    <label>driving4 animation complete</label>
+    <description>The animation named driving4 has completed</description>
+  </event>
+  <event name="gre.animate.complete.hide_charging_layer" type="0x8">
+    <label>hide_charging_layer animation complete</label>
+    <description>The animation named hide_charging_layer has completed</description>
+  </event>
+  <event name="gre.animate.complete.hide_plug_in_layer" type="0x8">
+    <label>hide_plug_in_layer animation complete</label>
+    <description>The animation named hide_plug_in_layer has completed</description>
+  </event>
+  <event name="gre.animate.complete.hide_select_charger" type="0x8">
+    <label>hide_select_charger animation complete</label>
+    <description>The animation named hide_select_charger has completed</description>
+  </event>
+  <event name="gre.animate.complete.hide_start_button" type="0x8">
+    <label>hide_start_button animation complete</label>
+    <description>The animation named hide_start_button has completed</description>
+  </event>
+  <event name="gre.animate.complete.pay_apple_selected" type="0x8">
+    <label>pay_apple_selected animation complete</label>
+    <description>The animation named pay_apple_selected has completed</description>
+  </event>
+  <event name="gre.animate.complete.pay_google_selected" type="0x8">
+    <label>pay_google_selected animation complete</label>
+    <description>The animation named pay_google_selected has completed</description>
+  </event>
+  <event name="gre.animate.complete.pay_tap_selected" type="0x8">
+    <label>pay_tap_selected animation complete</label>
+    <description>The animation named pay_tap_selected has completed</description>
+  </event>
+  <event name="gre.animate.complete.payment_received" type="0x8">
+    <label>payment_received animation complete</label>
+    <description>The animation named payment_received has completed</description>
+  </event>
+  <event name="gre.animate.complete.payment_selected" type="0x8">
+    <label>payment_selected animation complete</label>
+    <description>The animation named payment_selected has completed</description>
+  </event>
+  <event name="gre.animate.complete.plug_confirmation" type="0x8">
+    <label>plug_confirmation animation complete</label>
+    <description>The animation named plug_confirmation has completed</description>
+  </event>
+  <event name="gre.animate.complete.reset_logo_start_btn" type="0x8">
+    <label>reset_logo_start_btn animation complete</label>
+    <description>The animation named reset_logo_start_btn has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_charging_layer" type="0x8">
+    <label>show_charging_layer animation complete</label>
+    <description>The animation named show_charging_layer has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_payment" type="0x8">
+    <label>show_payment animation complete</label>
+    <description>The animation named show_payment has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_plug_in_vehicle" type="0x8">
+    <label>show_plug_in_vehicle animation complete</label>
+    <description>The animation named show_plug_in_vehicle has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_select_charger" type="0x8">
+    <label>show_select_charger animation complete</label>
+    <description>The animation named show_select_charger has completed</description>
+  </event>
+  <event name="gre.animate.complete.show_start_button" type="0x8">
+    <label>show_start_button animation complete</label>
+    <description>The animation named show_start_button has completed</description>
+  </event>
+  <event name="gre.animate.complete.step_1" type="0x8">
+    <label>step_1 animation complete</label>
+    <description>The animation named step_1 has completed</description>
+  </event>
+  <event name="gre.animate.complete.swap_plug_in_out_fade" type="0x8">
+    <label>swap_plug_in_out_fade animation complete</label>
+    <description>The animation named swap_plug_in_out_fade has completed</description>
+  </event>
+  <event name="gre.animate.complete.trees" type="0x8">
+    <label>trees animation complete</label>
+    <description>The animation named trees has completed</description>
+  </event>
+  <event name="gre.animate.complete.trees2" type="0x8">
+    <label>trees2 animation complete</label>
+    <description>The animation named trees2 has completed</description>
+  </event>
+  <event name="gre.animate.stop.battery_charge_initialize" type="0x8">
+    <label>battery_charge_initialize animation stopped</label>
+    <description>The animation named battery_charge_initialize has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.btn_next" type="0x8">
+    <label>btn_next animation stopped</label>
+    <description>The animation named btn_next has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.btn_next_charger" type="0x8">
+    <label>btn_next_charger animation stopped</label>
+    <description>The animation named btn_next_charger has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.btn_next_payment" type="0x8">
+    <label>btn_next_payment animation stopped</label>
+    <description>The animation named btn_next_payment has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.charger_chademo_selected" type="0x8">
+    <label>charger_chademo_selected animation stopped</label>
+    <description>The animation named charger_chademo_selected has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.charger_CSS_selected" type="0x8">
+    <label>charger_CSS_selected animation stopped</label>
+    <description>The animation named charger_CSS_selected has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.charging_complete" type="0x8">
+    <label>charging_complete animation stopped</label>
+    <description>The animation named charging_complete has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.driving1" type="0x8">
+    <label>driving1 animation stopped</label>
+    <description>The animation named driving1 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.driving2" type="0x8">
+    <label>driving2 animation stopped</label>
+    <description>The animation named driving2 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.driving3" type="0x8">
+    <label>driving3 animation stopped</label>
+    <description>The animation named driving3 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.driving4" type="0x8">
+    <label>driving4 animation stopped</label>
+    <description>The animation named driving4 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.hide_charging_layer" type="0x8">
+    <label>hide_charging_layer animation stopped</label>
+    <description>The animation named hide_charging_layer has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.hide_plug_in_layer" type="0x8">
+    <label>hide_plug_in_layer animation stopped</label>
+    <description>The animation named hide_plug_in_layer has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.hide_select_charger" type="0x8">
+    <label>hide_select_charger animation stopped</label>
+    <description>The animation named hide_select_charger has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.hide_start_button" type="0x8">
+    <label>hide_start_button animation stopped</label>
+    <description>The animation named hide_start_button has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pay_apple_selected" type="0x8">
+    <label>pay_apple_selected animation stopped</label>
+    <description>The animation named pay_apple_selected has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pay_google_selected" type="0x8">
+    <label>pay_google_selected animation stopped</label>
+    <description>The animation named pay_google_selected has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.pay_tap_selected" type="0x8">
+    <label>pay_tap_selected animation stopped</label>
+    <description>The animation named pay_tap_selected has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.payment_received" type="0x8">
+    <label>payment_received animation stopped</label>
+    <description>The animation named payment_received has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.payment_selected" type="0x8">
+    <label>payment_selected animation stopped</label>
+    <description>The animation named payment_selected has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.plug_confirmation" type="0x8">
+    <label>plug_confirmation animation stopped</label>
+    <description>The animation named plug_confirmation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.reset_logo_start_btn" type="0x8">
+    <label>reset_logo_start_btn animation stopped</label>
+    <description>The animation named reset_logo_start_btn has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_charging_layer" type="0x8">
+    <label>show_charging_layer animation stopped</label>
+    <description>The animation named show_charging_layer has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_payment" type="0x8">
+    <label>show_payment animation stopped</label>
+    <description>The animation named show_payment has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_plug_in_vehicle" type="0x8">
+    <label>show_plug_in_vehicle animation stopped</label>
+    <description>The animation named show_plug_in_vehicle has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_select_charger" type="0x8">
+    <label>show_select_charger animation stopped</label>
+    <description>The animation named show_select_charger has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.show_start_button" type="0x8">
+    <label>show_start_button animation stopped</label>
+    <description>The animation named show_start_button has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.step_1" type="0x8">
+    <label>step_1 animation stopped</label>
+    <description>The animation named step_1 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.swap_plug_in_out_fade" type="0x8">
+    <label>swap_plug_in_out_fade animation stopped</label>
+    <description>The animation named swap_plug_in_out_fade has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.trees" type="0x8">
+    <label>trees animation stopped</label>
+    <description>The animation named trees has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.trees2" type="0x8">
+    <label>trees2 animation stopped</label>
+    <description>The animation named trees2 has been stopped</description>
+  </event>
+</eventdefinitions>

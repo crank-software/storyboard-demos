@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="root">
+	<item key="pref.editor_zoom" value="0.5"/>
+	<item key="pref.default_fps" value="30"/>
+	<item key="anim-security_left" value="${app:frame_left_layer.mode_center.x1}&#x0A;${app:frame_left_layer.mode_center.x}"/>
+	<item key="anim-security_center" value="${app:frame_left_layer.mode_center.x1}&#x0A;${app:frame_left_layer.mode_center.x}"/>
+	<item key="anim-mode_lighting_left" value="${app:frame_left_layer.mode_center.x2}&#x0A;${app:frame_left_layer.mode_center.x3}"/>
+	<item key="anim-mode_lighting_left_copy" value="${app:frame_left_layer.mode_center.x2}&#x0A;${app:frame_left_layer.mode_center.x3}"/>
+	<item key="anim-mode_lighting_right" value="${app:frame_left_layer.mode_center.x2}&#x0A;${app:frame_left_layer.mode_center.x3}"/>
+	<item key="anim-mode_security_center" value="${app:frame_left_layer.mode_center.x1}&#x0A;${app:frame_left_layer.mode_center.x}"/>
+	<item key="anim-mode_security_left" value="${app:frame_left_layer.mode_center.x1}&#x0A;${app:frame_left_layer.mode_center.x}"/>
+	<item key="anim-mode_security_right" value="${app:frame_left_layer.mode_center.x1}&#x0A;${app:frame_left_layer.mode_center.x}"/>
+	<item key="anim-mode_lighting_center" value="${app:frame_left_layer.mode_center.x2}&#x0A;${app:frame_left_layer.mode_center.x3}"/>
+	<item key="anim-mode_bg_fade" value="${app:frame_left_layer.mode_image_back.x}&#x0A;${app:frame_left_layer.mode_image_front.x}"/>
+	<item key="anim-mode_bg_fade_reversed" value="${app:frame_left_layer.mode_image_back.x}&#x0A;${app:frame_left_layer.mode_image_front.x}"/>
+	<item key="anim-frame_left_to_center" value="${app:frame_left_layer.frame.grd_x}&#x0A;${app:frame_left_layer.mode_bg.grd_x}&#x0A;${app:frame_left_layer.mode_image_back.grd_x}&#x0A;${app:frame_left_layer.mode_image_front.grd_x}&#x0A;${app:frame_left_layer.shadow.grd_x}&#x0A;${app:settings_bg_layer.setting_bg_large.grd_x}&#x0A;${app:frame_left_layer.mode_front.grd_x}&#x0A;${app:frame_left_layer.mode_front.x1}&#x0A;${app:frame_left_layer.mode_front.x}"/>
+	<item key="pref.default_screen_name" value="frame_screen"/>
+	<item key="anim-left_to_center" value="${app:frame_layer.frame.grd_x}&#x0A;${app:frame_layer.mode_bg.grd_x}&#x0A;${app:frame_layer.mode_center.grd_x}&#x0A;${app:frame_layer.mode_image_back.grd_x}&#x0A;${app:frame_layer.mode_image_front.grd_x}&#x0A;${app:frame_layer.shadow.grd_x}"/>
+	<item key="anim-NewAnimation" value="${app:menu_layer.btn_music.grd_active}"/>
+	<item key="anim-mode_change" value="${app:frame_layer.mode_back.x3}&#x0A;${app:frame_layer.mode_back.x4}&#x0A;${app:frame_layer.mode_front.x1}&#x0A;${app:frame_layer.mode_front.x2}&#x0A;${app:frame_layer.mode_image_back.x}&#x0A;${app:frame_layer.mode_image_front.x}"/>
+	<item key="anim-slide_frame" value="${app:frame_layer.frame.grd_x}&#x0A;${app:frame_layer.mode_back.grd_x}&#x0A;${app:frame_layer.mode_bg.grd_x}&#x0A;${app:frame_layer.mode_front.grd_x}&#x0A;${app:frame_layer.mode_image_back.grd_x}&#x0A;${app:frame_layer.mode_image_front.grd_x}&#x0A;${app:frame_layer.frame_fill.grd_x}&#x0A;${app:frame_sub_layer.mode_bar_left.grd_x}&#x0A;${app:frame_sub_layer.mode_bar_right.grd_x}"/>
+	<item key="anim-thermostat_fill" value="${app:frame_layer.thermostat_fill.alpha}&#x0A;${app:frame_layer.thermostat_fill.height}&#x0A;${app:frame_layer.thermostat_fill.width}"/>
+	<item key="anim-frame_fill" value="${app:frame_layer.frame_fill.alpha}&#x0A;${app:frame_layer.frame_fill.height}&#x0A;${app:frame_layer.frame_fill.width}"/>
+	<item key="anim-thermostat_fill_reversed" value="${app:frame_layer.frame_fill.alpha}&#x0A;${app:frame_layer.frame_fill.height}&#x0A;${app:frame_layer.frame_fill.width}"/>
+	<item key="anim-hide_themostat" value="${app:thermostat_layer.Farenheit_Celsius_control.alpha1}&#x0A;${app:thermostat_layer.Farenheit_Celsius_control.alpha}&#x0A;${app:thermostat_layer.mode_control.alpha1}&#x0A;${app:thermostat_layer.mode_control.alpha}&#x0A;${app:thermostat_layer.temp_value.alpha}"/>
+	<item key="anim-themostat_weather" value="${app:thermostat_sub_layer.btn_plus.grd_x}&#x0A;${app:thermostat_sub_layer.btn_minus.grd_x}&#x0A;${app:frame_layer.weather_bar_left.grd_x}&#x0A;${app:frame_layer.weather_bar_left.grd_width}"/>
+	<item key="pref.default_fill_color" value="0:252:255:"/>
+	<item key="anim-weather_bar_fade_out" value="${app:frame_layer.weather_bar_left.x}&#x0A;${app:frame_layer.weather_bar_right.x}"/>
+	<item key="anim-weather_bar_fade" value="${app:frame_layer.weather_bar_left.x}&#x0A;${app:frame_layer.weather_bar_right.x}"/>
+	<item key="anim-themostat_weather_reversed" value="${app:frame_layer.weather_bar_left.grd_width}&#x0A;${app:frame_layer.weather_bar_left.grd_x}&#x0A;${app:thermostat_sub_layer.btn_minus.grd_x}&#x0A;${app:thermostat_sub_layer.btn_plus.grd_x}"/>
+	<item key="anim-weather_bar_show" value="${app:frame_layer.weather_bar_left.x}&#x0A;${app:frame_layer.weather_bar_right.x}"/>
+	<item key="anim-weather_bar_hide" value="${app:frame_layer.mode_bar_left.x}&#x0A;${app:frame_layer.mode_bar_right.x}"/>
+	<item key="anim-mode_bar_expand" value="${app:frame_layer.mode_bar_right.grd_height}&#x0A;${app:frame_layer.mode_bar_right.grd_y}&#x0A;${app:frame_layer.mode_bar_left.x}&#x0A;${app:frame_layer.mode_bar_right.image}"/>
+	<item key="anim-mode_bar_hide" value="${app:frame_layer.mode_bar_left.x}&#x0A;${app:frame_layer.mode_bar_right.x}&#x0A;${app:frame_layer.mode_bar_right.image}"/>
+	<item key="anim-mode_bar_show" value="${app:frame_layer.mode_bar_left.x}&#x0A;${app:frame_layer.mode_bar_right.x}&#x0A;${app:frame_layer.mode_bar_right.image}"/>
+	<item key="anim-mode_bar_collapse" value="${app:frame_layer.mode_bar_left.x}&#x0A;${app:frame_layer.mode_bar_right.grd_height}&#x0A;${app:frame_layer.mode_bar_right.grd_y}&#x0A;${app:frame_layer.mode_bar_right.x}&#x0A;${app:frame_layer.mode_bar_right.image}"/>
+	<item key="pref.default_layer_name" value="camera_video_layer"/>
+	<item key="anim-frame_fill_hide" value="${app:frame_layer.frame_fill.alpha}&#x0A;${app:frame_layer.frame_fill.height}&#x0A;${app:frame_layer.frame_fill.width}"/>
+	<item key="anim-frame_fill_show" value="${app:frame_layer.frame_fill.alpha}&#x0A;${app:frame_layer.frame_fill.height}&#x0A;${app:frame_layer.frame_fill.width}"/>
+	<item key="anim-mode_bar" value="${app:frame_sub_layer.mode_bar_left.x}&#x0A;${app:frame_sub_layer.mode_bar_right.grd_height}&#x0A;${app:frame_sub_layer.mode_bar_right.grd_y}&#x0A;${app:frame_sub_layer.mode_bar_right.x}"/>
+	<item key="sbio.is_remote" value="false"/>
+	<item key="sbio.local" value="application"/>
+	<item key="anim-hide_weather" value="${app:weather_layer.label_condition.grd_x}&#x0A;${app:weather_layer.pop_control.grd_x}&#x0A;${app:weather_layer.tempHighValue.grd_x}&#x0A;${app:weather_layer.tempLowValue.grd_x}&#x0A;${app:weather_layer.tempOutValue.grd_x}&#x0A;${app:weather_layer.label_condition.grd_hidden}&#x0A;${app:weather_layer.pop_control.grd_hidden}&#x0A;${app:weather_layer.tempHighValue.grd_hidden}&#x0A;${app:weather_layer.tempLowValue.grd_hidden}&#x0A;${app:weather_layer.tempOutValue.grd_hidden}"/>
+	<item key="anim-show_thermostat" value="${app:thermostat_sub_layer.btn_minus.grd_x}&#x0A;${app:thermostat_sub_layer.btn_plus.grd_x}"/>
+	<item key="anim-show_thermostat_reversed" value="${app:thermostat_sub_layer.btn_minus.grd_x}&#x0A;${app:thermostat_sub_layer.btn_plus.grd_x}"/>
+	<item key="anim-hide_weather_reversed" value="${app:weather_layer.label_condition.grd_hidden}&#x0A;${app:weather_layer.label_condition.grd_x}&#x0A;${app:weather_layer.label_condition.grd_y}&#x0A;${app:weather_layer.pop_control.grd_hidden}&#x0A;${app:weather_layer.pop_control.grd_x}&#x0A;${app:weather_layer.pop_control.grd_y}&#x0A;${app:weather_layer.tempHighValue.grd_hidden}&#x0A;${app:weather_layer.tempHighValue.grd_x}&#x0A;${app:weather_layer.tempHighValue.grd_y}&#x0A;${app:weather_layer.tempLowValue.grd_hidden}&#x0A;${app:weather_layer.tempLowValue.grd_x}&#x0A;${app:weather_layer.tempLowValue.grd_y}&#x0A;${app:weather_layer.tempOutValue.grd_hidden}&#x0A;${app:weather_layer.tempOutValue.grd_x}&#x0A;${app:weather_layer.tempOutValue.grd_y}"/>
+	<item key="anim-hide_security_keypad" value="${app:security_screen.security_keypad_layer.grd_alpha}&#x0A;${app:security_screen.security_keypad_layer.grd_x}"/>
+	<item key="anim-show_lights" value="${app:lighting_screen.lighting_layer.grd_alpha}&#x0A;${app:lighting_screen.lighting_layer.grd_x}"/>
+	<item key="anim-show_security_keypad" value="${app:security_screen.security_keypad_layer.grd_alpha}&#x0A;${app:security_screen.security_keypad_layer.grd_x}"/>
+	<item key="anim-hide_lights" value="${app:lighting_screen.lighting_layer.grd_alpha}&#x0A;${app:lighting_screen.lighting_layer.grd_x}"/>
+	<item key="anim-hide_thermostat2" value="${app:thermostat_layer.temp_value.alpha}&#x0A;${app:thermostat_layer.Farenheit_Celsius_control.alpha}&#x0A;${app:thermostat_layer.mode_control.alpha1}&#x0A;${app:thermostat_layer.mode_control.alpha}&#x0A;${app:thermostat_layer.Farenheit_Celsius_control.alpha1}"/>
+	<item key="anim-show_weather" value="${app:weather_layer.label_condition.grd_hidden}&#x0A;${app:weather_layer.label_condition.grd_x}&#x0A;${app:weather_layer.label_condition.grd_y}&#x0A;${app:weather_layer.pop_control.grd_hidden}&#x0A;${app:weather_layer.pop_control.grd_x}&#x0A;${app:weather_layer.pop_control.grd_y}&#x0A;${app:weather_layer.tempHighValue.grd_hidden}&#x0A;${app:weather_layer.tempHighValue.grd_x}&#x0A;${app:weather_layer.tempHighValue.grd_y}&#x0A;${app:weather_layer.tempLowValue.grd_hidden}&#x0A;${app:weather_layer.tempLowValue.grd_x}&#x0A;${app:weather_layer.tempLowValue.grd_y}&#x0A;${app:weather_layer.tempOutValue.grd_hidden}&#x0A;${app:weather_layer.tempOutValue.grd_x}&#x0A;${app:weather_layer.tempOutValue.grd_y}"/>
+	<item key="anim-mode_lighting_left_center" value="${app:lighting_screen.lighting_layer.grd_x}"/>
+	<item key="anim-mode_lighting_center_right" value="${app:lighting_layer.grd_x}"/>
+	<item key="anim-mode_lighting_center_left" value="${app:lighting_screen.lighting_layer.grd_x}"/>
+	<item key="anim-mode_security_center_left" value="${app:security_screen.security_keypad_layer.grd_x}"/>
+	<item key="anim-mode_security_left_center" value="${app:security_screen.security_keypad_layer.grd_x}"/>
+	<item key="anim-security_left_center" value="${app:thermostat_screen.security_keypad_layer.grd_x}&#x0A;${app:thermostat_screen.security_keypad_layer.grd_alpha}"/>
+	<item key="anim-security_center_left" value="${app:security_screen.security_keypad_layer.grd_alpha}&#x0A;${app:security_screen.security_keypad_layer.grd_x}"/>
+	<item key="anim-lighting_R_L" value="${screen:lighting_layer.grd_x}&#x0A;${screen:lighting_layer.grd_alpha}"/>
+	<item key="anim-security_R_L" value="${screen:security_keypad_layer.grd_x}&#x0A;${screen:security_keypad_layer.grd_alpha}"/>
+	<item key="anim-lighting_L_R" value="${screen:lighting_layer.grd_x}"/>
+	<item key="anim-security_L_R" value="${screen:security_keypad_layer.grd_x}"/>
+	<item key="anim-hidden" value=""/>
+	<item key="anim-hide_thermostat" value="${app:thermostat_sub_layer.btn_minus.grd_x}&#x0A;${app:thermostat_sub_layer.btn_plus.grd_x}"/>
+	<item key="anim-layer_alpha" value="${app:thermostat_screen.frame_sub_layer.grd_alpha}&#x0A;${screen:frame_layer.grd_alpha}"/>
+	<item key="anim-lighting" value="${screen:lighting_layer.grd_alpha}&#x0A;${screen:lighting_layer.grd_x}"/>
+	<item key="anim-security" value="${screen:security_keypad_layer.grd_alpha}&#x0A;${screen:security_keypad_layer.grd_x}"/>
+	<item key="anim-music" value="${screen:music_layer.grd_x}&#x0A;${screen:music_layer.grd_alpha}"/>
+	<item key="anim-menu" value="${app:menu_layer.menu_highlight.grd_x}&#x0A;${app:menu_layer.btn_thermostat.alpha}&#x0A;${app:menu_layer.btn_thermostat.alpha1}&#x0A;${app:menu_layer.btn_weather.alpha}&#x0A;${app:menu_layer.btn_weather.alpha1}&#x0A;${app:menu_layer.btn_security.alpha}&#x0A;${app:menu_layer.btn_security.alpha1}&#x0A;${app:menu_layer.btn_lighting.alpha1}&#x0A;${app:menu_layer.btn_lighting.alpha}&#x0A;${app:menu_layer.btn_music.alpha}&#x0A;${app:menu_layer.btn_music.alpha1}"/>
+	<item key="anim-weather_hide" value="${app:weather_layer.label_condition.grd_hidden}&#x0A;${app:weather_layer.label_condition.grd_x}&#x0A;${app:weather_layer.pop_control.grd_hidden}&#x0A;${app:weather_layer.pop_control.grd_x}&#x0A;${app:weather_layer.tempHighValue.grd_hidden}&#x0A;${app:weather_layer.tempHighValue.grd_x}&#x0A;${app:weather_layer.tempLowValue.grd_hidden}&#x0A;${app:weather_layer.tempLowValue.grd_x}&#x0A;${app:weather_layer.tempOutValue.grd_hidden}&#x0A;${app:weather_layer.tempOutValue.grd_x}"/>
+	<item key="anim-thermostat_show" value="${app:thermostat_sub_layer.btn_minus.grd_x}&#x0A;${app:thermostat_sub_layer.btn_plus.grd_x}"/>
+	<item key="anim-stop_events" value=""/>
+	<item key="anim-menu_inactive" value="${app:menu_layer.btn_lighting.grd_active}&#x0A;${app:menu_layer.btn_music.grd_active}&#x0A;${app:menu_layer.btn_security.grd_active}&#x0A;${app:menu_layer.btn_thermostat.grd_active}&#x0A;${app:menu_layer.btn_weather.grd_active}"/>
+	<item key="pref.default_control_name" value="mode_camera_bar"/>
+	<item key="anim-security_keypad_camera" value="${app:frame_layer.mode_bg.alpha}&#x0A;${app:frame_layer.mode_bg.height}&#x0A;${app:frame_layer.mode_bg.width}&#x0A;${app:frame_layer.mode_front.x1}&#x0A;${app:frame_layer.mode_front.x2}&#x0A;${app:frame_layer.mode_image_front.x}&#x0A;${app:frame_layer.mode_image_back.grd_hidden}"/>
+	<item key="anim-security_camera" value="${screen:security_camera_layer.grd_alpha}&#x0A;${screen:security_camera_layer.grd_x}"/>
+	<item key="anim-security_keypad" value="${screen:security_keypad_layer.grd_alpha}&#x0A;${screen:security_keypad_layer.grd_x}"/>
+	<item key="anim-security_toggle" value="${app:frame_layer.mode_bg.alpha}&#x0A;${app:frame_layer.mode_bg.height}&#x0A;${app:frame_layer.mode_bg.width}&#x0A;${app:frame_layer.mode_front.x1}&#x0A;${app:frame_layer.mode_front.x2}&#x0A;${app:frame_layer.mode_image_back.grd_hidden}&#x0A;${app:frame_layer.mode_image_front.x}"/>
+	<item key="anim-security_key_to_cam" value="${app:frame_layer.mode_image_back.grd_hidden}&#x0A;${app:frame_layer.mode_image_front.x}&#x0A;${app:frame_sub_layer.mode_bar_right.grd_hidden}&#x0A;${app:frame_sub_layer.mode_camera_bar.grd_hidden}&#x0A;${app:frame_sub_layer.mode_bar_left.grd_hidden}&#x0A;${app:security_toggle_layer.mode_front.x1}&#x0A;${app:security_toggle_layer.mode_bg.width}&#x0A;${app:security_toggle_layer.mode_bg.alpha}&#x0A;${app:security_toggle_layer.mode_bg.height}"/>
+	<item key="anim-security_cam_to_key" value="${app:frame_layer.mode_bg.alpha}&#x0A;${app:frame_layer.mode_bg.height}&#x0A;${app:frame_layer.mode_bg.width}&#x0A;${app:frame_layer.mode_front.x1}&#x0A;${app:frame_layer.mode_front.x2}&#x0A;${app:frame_layer.mode_image_back.grd_hidden}&#x0A;${app:frame_layer.mode_image_front.x}&#x0A;${app:frame_sub_layer.mode_bar_right.grd_hidden}&#x0A;${app:frame_sub_layer.mode_camera_bar.grd_hidden}&#x0A;${app:frame_sub_layer.mode_bar_left.grd_hidden}"/>
+	<item key="anim-toggle_mode" value="${app:security_toggle_layer.mode_bg.alpha}&#x0A;${app:security_toggle_layer.mode_bg.height}&#x0A;${app:security_toggle_layer.mode_bg.width}&#x0A;${app:security_toggle_layer.mode_front.x1}"/>
+	<section name="workingsets">
+		<section name="">
+			<item key="includeDesignStates" value="true"/>
+			<list key="elements">
+				<item value="weather_screen"/>
+				<item value="security_screen"/>
+				<item value="music_screen"/>
+				<item value="lighting_screen"/>
+				<item value="thermostat_screen"/>
+			</list>
+			<section name="weather_screen">
+			</section>
+			<section name="security_screen">
+				<list key="designStates">
+					<item value="security"/>
+				</list>
+				<section name="designStates">
+					<section name="security">
+					</section>
+				</section>
+			</section>
+			<section name="music_screen">
+				<list key="designStates">
+					<item value="music"/>
+				</list>
+				<section name="designStates">
+					<section name="music">
+					</section>
+				</section>
+			</section>
+			<section name="lighting_screen">
+			</section>
+			<section name="thermostat_screen">
+				<list key="designStates">
+					<item value="thermostat"/>
+				</list>
+				<section name="designStates">
+					<section name="thermostat">
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>

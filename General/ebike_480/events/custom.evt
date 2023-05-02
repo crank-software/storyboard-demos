@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event format="2u1 watt_update 2u1 update_speed 1u1 power 1u1 distance_update 1u1 avg_speed_update 1u1 battery_level 1u1 range 1u1 is_charging 1u1 is_eco 1u1 hours 1u1 minutes 1u1 blinker 1u1 headlights" name="home_event" type="0x40">
+    <description>General event for updating the </description>
+    <field name="avg_speed_update"/>
+    <field name="battery_level">
+      <attr f="i" k="sb.max_value">100</attr>
+    </field>
+    <field name="blinker">
+      <attr f="i" k="sb.max_value">2</attr>
+    </field>
+    <field name="distance_update"/>
+    <field name="headlights">
+      <attr f="i" k="sb.max_value">1</attr>
+    </field>
+    <field name="hours">
+      <attr f="i" k="sb.max_value">23</attr>
+    </field>
+    <field name="is_charging">
+      <attr f="i" k="sb.max_value">1</attr>
+    </field>
+    <field name="is_eco">
+      <attr f="i" k="sb.max_value">1</attr>
+    </field>
+    <field name="minutes">
+      <attr f="i" k="sb.max_value">59</attr>
+    </field>
+    <field name="power">
+      <attr f="i" k="sb.max_value">100</attr>
+    </field>
+    <field name="range"/>
+    <field name="update_speed">
+      <attr f="i" k="sb.max_value">2550</attr>
+    </field>
+    <field name="watt_update">
+      <attr f="i" k="sb.max_value">1500</attr>
+    </field>
+  </event>
+  <event name="layer_yoffset_change" type="0x10"/>
+</eventdefinitions>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.frame_fill_hide" type="0x8">
+    <label>frame_fill_hide animation complete</label>
+    <description>The animation named frame_fill_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.frame_fill_show" type="0x8">
+    <label>frame_fill_show animation complete</label>
+    <description>The animation named frame_fill_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.lighting" type="0x8">
+    <label>lighting animation complete</label>
+    <description>The animation named lighting has completed</description>
+  </event>
+  <event name="gre.animate.complete.menu" type="0x8">
+    <label>menu animation complete</label>
+    <description>The animation named menu has completed</description>
+  </event>
+  <event name="gre.animate.complete.mode_bar" type="0x8">
+    <label>mode_bar animation complete</label>
+    <description>The animation named mode_bar has completed</description>
+  </event>
+  <event name="gre.animate.complete.mode_change" type="0x8">
+    <label>mode_change animation complete</label>
+    <description>The animation named mode_change has completed</description>
+  </event>
+  <event name="gre.animate.complete.music" type="0x8">
+    <label>music animation complete</label>
+    <description>The animation named music has completed</description>
+  </event>
+  <event name="gre.animate.complete.security_camera" type="0x8">
+    <label>security_camera animation complete</label>
+    <description>The animation named security_camera has completed</description>
+  </event>
+  <event name="gre.animate.complete.security_keypad" type="0x8">
+    <label>security_keypad animation complete</label>
+    <description>The animation named security_keypad has completed</description>
+  </event>
+  <event name="gre.animate.complete.slide_frame" type="0x8">
+    <label>slide_frame animation complete</label>
+    <description>The animation named slide_frame has completed</description>
+  </event>
+  <event name="gre.animate.complete.thermostat_hide" type="0x8">
+    <label>thermostat_hide animation complete</label>
+    <description>The animation named thermostat_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.thermostat_hide2" type="0x8">
+    <label>thermostat_hide2 animation complete</label>
+    <description>The animation named thermostat_hide2 has completed</description>
+  </event>
+  <event name="gre.animate.complete.thermostat_show" type="0x8">
+    <label>thermostat_show animation complete</label>
+    <description>The animation named thermostat_show has completed</description>
+  </event>
+  <event name="gre.animate.complete.toggle_mode" type="0x8">
+    <label>toggle_mode animation complete</label>
+    <description>The animation named toggle_mode has completed</description>
+  </event>
+  <event name="gre.animate.complete.weather_hide" type="0x8">
+    <label>weather_hide animation complete</label>
+    <description>The animation named weather_hide has completed</description>
+  </event>
+  <event name="gre.animate.complete.weather_show" type="0x8">
+    <label>weather_show animation complete</label>
+    <description>The animation named weather_show has completed</description>
+  </event>
+  <event name="gre.animate.stop.frame_fill_hide" type="0x8">
+    <label>frame_fill_hide animation stopped</label>
+    <description>The animation named frame_fill_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.frame_fill_show" type="0x8">
+    <label>frame_fill_show animation stopped</label>
+    <description>The animation named frame_fill_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.lighting" type="0x8">
+    <label>lighting animation stopped</label>
+    <description>The animation named lighting has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.menu" type="0x8">
+    <label>menu animation stopped</label>
+    <description>The animation named menu has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.mode_bar" type="0x8">
+    <label>mode_bar animation stopped</label>
+    <description>The animation named mode_bar has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.mode_change" type="0x8">
+    <label>mode_change animation stopped</label>
+    <description>The animation named mode_change has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.music" type="0x8">
+    <label>music animation stopped</label>
+    <description>The animation named music has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.security_camera" type="0x8">
+    <label>security_camera animation stopped</label>
+    <description>The animation named security_camera has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.security_keypad" type="0x8">
+    <label>security_keypad animation stopped</label>
+    <description>The animation named security_keypad has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.slide_frame" type="0x8">
+    <label>slide_frame animation stopped</label>
+    <description>The animation named slide_frame has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.thermostat_hide" type="0x8">
+    <label>thermostat_hide animation stopped</label>
+    <description>The animation named thermostat_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.thermostat_hide2" type="0x8">
+    <label>thermostat_hide2 animation stopped</label>
+    <description>The animation named thermostat_hide2 has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.thermostat_show" type="0x8">
+    <label>thermostat_show animation stopped</label>
+    <description>The animation named thermostat_show has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.toggle_mode" type="0x8">
+    <label>toggle_mode animation stopped</label>
+    <description>The animation named toggle_mode has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.weather_hide" type="0x8">
+    <label>weather_hide animation stopped</label>
+    <description>The animation named weather_hide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.weather_show" type="0x8">
+    <label>weather_show animation stopped</label>
+    <description>The animation named weather_show has been stopped</description>
+  </event>
+</eventdefinitions>

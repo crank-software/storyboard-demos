@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="elevation_menu_update" type="0x10"/>
+  <event name="gre.animate.complete.achievement_pop_up" type="0x8">
+    <label>achievement_pop_up animation complete</label>
+    <description>The animation named achievement_pop_up has completed</description>
+  </event>
+  <event name="gre.animate.complete.achievement_pop_up_reversed" type="0x8">
+    <label>achievement_pop_up_reversed animation complete</label>
+    <description>The animation named achievement_pop_up_reversed has completed</description>
+  </event>
+  <event name="gre.animate.complete.AMBIENT_startScreenButton" type="0x8">
+    <label>AMBIENT_startScreenButton animation complete</label>
+    <description>The animation named AMBIENT_startScreenButton has completed</description>
+  </event>
+  <event name="gre.animate.complete.APP_Reset" type="0x8">
+    <label>APP_Reset animation complete</label>
+    <description>The animation named APP_Reset has completed</description>
+  </event>
+  <event name="gre.animate.complete.branding_last_screen" type="0x8">
+    <label>branding_last_screen animation complete</label>
+    <description>The animation named branding_last_screen has completed</description>
+  </event>
+  <event name="gre.animate.complete.CUSTOMIZE_pressElevation" type="0x8">
+    <label>CUSTOMIZE_pressElevation animation complete</label>
+    <description>The animation named CUSTOMIZE_pressElevation has completed</description>
+  </event>
+  <event name="gre.animate.complete.CUSTOMIZE_pressLocation" type="0x8">
+    <label>CUSTOMIZE_pressLocation animation complete</label>
+    <description>The animation named CUSTOMIZE_pressLocation has completed</description>
+  </event>
+  <event name="gre.animate.complete.CUSTOMIZE_pressMainButton" type="0x8">
+    <label>CUSTOMIZE_pressMainButton animation complete</label>
+    <description>The animation named CUSTOMIZE_pressMainButton has completed</description>
+  </event>
+  <event name="gre.animate.complete.CUSTOMIZE_PressSlider" type="0x8">
+    <label>CUSTOMIZE_PressSlider animation complete</label>
+    <description>The animation named CUSTOMIZE_PressSlider has completed</description>
+  </event>
+  <event name="gre.animate.complete.CUSTOMIZE_transitionElevationShow" type="0x8">
+    <label>CUSTOMIZE_transitionElevationShow animation complete</label>
+    <description>The animation named CUSTOMIZE_transitionElevationShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.CUSTOMIZE_transitionLocationShow" type="0x8">
+    <label>CUSTOMIZE_transitionLocationShow animation complete</label>
+    <description>The animation named CUSTOMIZE_transitionLocationShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.CUSTOMIZE_transitionSettingsShow" type="0x8">
+    <label>CUSTOMIZE_transitionSettingsShow animation complete</label>
+    <description>The animation named CUSTOMIZE_transitionSettingsShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.CUSTOMIZE_unpressElevation" type="0x8">
+    <label>CUSTOMIZE_unpressElevation animation complete</label>
+    <description>The animation named CUSTOMIZE_unpressElevation has completed</description>
+  </event>
+  <event name="gre.animate.complete.CUSTOMIZE_unpressLocation" type="0x8">
+    <label>CUSTOMIZE_unpressLocation animation complete</label>
+    <description>The animation named CUSTOMIZE_unpressLocation has completed</description>
+  </event>
+  <event name="gre.animate.complete.CUSTOMIZE_unpressMainButton" type="0x8">
+    <label>CUSTOMIZE_unpressMainButton animation complete</label>
+    <description>The animation named CUSTOMIZE_unpressMainButton has completed</description>
+  </event>
+  <event name="gre.animate.complete.CUSTOMIZE_unpressSlider" type="0x8">
+    <label>CUSTOMIZE_unpressSlider animation complete</label>
+    <description>The animation named CUSTOMIZE_unpressSlider has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_pressPreset" type="0x8">
+    <label>HOME_pressPreset animation complete</label>
+    <description>The animation named HOME_pressPreset has completed</description>
+  </event>
+  <event name="gre.animate.complete.HOME_pressSetup" type="0x8">
+    <label>HOME_pressSetup animation complete</label>
+    <description>The animation named HOME_pressSetup has completed</description>
+  </event>
+  <event name="gre.animate.complete.RUNNING_controlsPressed" type="0x8">
+    <label>RUNNING_controlsPressed animation complete</label>
+    <description>The animation named RUNNING_controlsPressed has completed</description>
+  </event>
+  <event name="gre.animate.complete.RUNNING_controlsReleased" type="0x8">
+    <label>RUNNING_controlsReleased animation complete</label>
+    <description>The animation named RUNNING_controlsReleased has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_completeHide" type="0x8">
+    <label>TRANSITION_completeHide animation complete</label>
+    <description>The animation named TRANSITION_completeHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_completeShow" type="0x8">
+    <label>TRANSITION_completeShow animation complete</label>
+    <description>The animation named TRANSITION_completeShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_customizeHide" type="0x8">
+    <label>TRANSITION_customizeHide animation complete</label>
+    <description>The animation named TRANSITION_customizeHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_customizeShow" type="0x8">
+    <label>TRANSITION_customizeShow animation complete</label>
+    <description>The animation named TRANSITION_customizeShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_runningHide" type="0x8">
+    <label>TRANSITION_runningHide animation complete</label>
+    <description>The animation named TRANSITION_runningHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_runningShow" type="0x8">
+    <label>TRANSITION_runningShow animation complete</label>
+    <description>The animation named TRANSITION_runningShow has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_startScreenHide" type="0x8">
+    <label>TRANSITION_startScreenHide animation complete</label>
+    <description>The animation named TRANSITION_startScreenHide has completed</description>
+  </event>
+  <event name="gre.animate.complete.TRANSITION_startScreenShow" type="0x8">
+    <label>TRANSITION_startScreenShow animation complete</label>
+    <description>The animation named TRANSITION_startScreenShow has completed</description>
+  </event>
+  <event name="gre.animate.stop.achievement_pop_up" type="0x8">
+    <label>achievement_pop_up animation stopped</label>
+    <description>The animation named achievement_pop_up has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.achievement_pop_up_reversed" type="0x8">
+    <label>achievement_pop_up_reversed animation stopped</label>
+    <description>The animation named achievement_pop_up_reversed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.AMBIENT_startScreenButton" type="0x8">
+    <label>AMBIENT_startScreenButton animation stopped</label>
+    <description>The animation named AMBIENT_startScreenButton has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.APP_Reset" type="0x8">
+    <label>APP_Reset animation stopped</label>
+    <description>The animation named APP_Reset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.branding_last_screen" type="0x8">
+    <label>branding_last_screen animation stopped</label>
+    <description>The animation named branding_last_screen has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CUSTOMIZE_pressElevation" type="0x8">
+    <label>CUSTOMIZE_pressElevation animation stopped</label>
+    <description>The animation named CUSTOMIZE_pressElevation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CUSTOMIZE_pressLocation" type="0x8">
+    <label>CUSTOMIZE_pressLocation animation stopped</label>
+    <description>The animation named CUSTOMIZE_pressLocation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CUSTOMIZE_pressMainButton" type="0x8">
+    <label>CUSTOMIZE_pressMainButton animation stopped</label>
+    <description>The animation named CUSTOMIZE_pressMainButton has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CUSTOMIZE_PressSlider" type="0x8">
+    <label>CUSTOMIZE_PressSlider animation stopped</label>
+    <description>The animation named CUSTOMIZE_PressSlider has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CUSTOMIZE_transitionElevationShow" type="0x8">
+    <label>CUSTOMIZE_transitionElevationShow animation stopped</label>
+    <description>The animation named CUSTOMIZE_transitionElevationShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CUSTOMIZE_transitionLocationShow" type="0x8">
+    <label>CUSTOMIZE_transitionLocationShow animation stopped</label>
+    <description>The animation named CUSTOMIZE_transitionLocationShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CUSTOMIZE_transitionSettingsShow" type="0x8">
+    <label>CUSTOMIZE_transitionSettingsShow animation stopped</label>
+    <description>The animation named CUSTOMIZE_transitionSettingsShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CUSTOMIZE_unpressElevation" type="0x8">
+    <label>CUSTOMIZE_unpressElevation animation stopped</label>
+    <description>The animation named CUSTOMIZE_unpressElevation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CUSTOMIZE_unpressLocation" type="0x8">
+    <label>CUSTOMIZE_unpressLocation animation stopped</label>
+    <description>The animation named CUSTOMIZE_unpressLocation has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CUSTOMIZE_unpressMainButton" type="0x8">
+    <label>CUSTOMIZE_unpressMainButton animation stopped</label>
+    <description>The animation named CUSTOMIZE_unpressMainButton has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.CUSTOMIZE_unpressSlider" type="0x8">
+    <label>CUSTOMIZE_unpressSlider animation stopped</label>
+    <description>The animation named CUSTOMIZE_unpressSlider has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_pressPreset" type="0x8">
+    <label>HOME_pressPreset animation stopped</label>
+    <description>The animation named HOME_pressPreset has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.HOME_pressSetup" type="0x8">
+    <label>HOME_pressSetup animation stopped</label>
+    <description>The animation named HOME_pressSetup has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.RUNNING_controlsPressed" type="0x8">
+    <label>RUNNING_controlsPressed animation stopped</label>
+    <description>The animation named RUNNING_controlsPressed has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.RUNNING_controlsReleased" type="0x8">
+    <label>RUNNING_controlsReleased animation stopped</label>
+    <description>The animation named RUNNING_controlsReleased has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_completeHide" type="0x8">
+    <label>TRANSITION_completeHide animation stopped</label>
+    <description>The animation named TRANSITION_completeHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_completeShow" type="0x8">
+    <label>TRANSITION_completeShow animation stopped</label>
+    <description>The animation named TRANSITION_completeShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_customizeHide" type="0x8">
+    <label>TRANSITION_customizeHide animation stopped</label>
+    <description>The animation named TRANSITION_customizeHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_customizeShow" type="0x8">
+    <label>TRANSITION_customizeShow animation stopped</label>
+    <description>The animation named TRANSITION_customizeShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_runningHide" type="0x8">
+    <label>TRANSITION_runningHide animation stopped</label>
+    <description>The animation named TRANSITION_runningHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_runningShow" type="0x8">
+    <label>TRANSITION_runningShow animation stopped</label>
+    <description>The animation named TRANSITION_runningShow has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_startScreenHide" type="0x8">
+    <label>TRANSITION_startScreenHide animation stopped</label>
+    <description>The animation named TRANSITION_startScreenHide has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.TRANSITION_startScreenShow" type="0x8">
+    <label>TRANSITION_startScreenShow animation stopped</label>
+    <description>The animation named TRANSITION_startScreenShow has been stopped</description>
+  </event>
+  <event name="gre.media.complete" type="0x0"/>
+  <event name="gre.media.statechange" type="0x0"/>
+  <event name="location_menu_update" type="0x10"/>
+  <event name="timer.details" type="0x0">
+    <description>The timer named timer.details has fired</description>
+  </event>
+</eventdefinitions>
